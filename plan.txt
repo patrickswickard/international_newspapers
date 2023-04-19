@@ -1,0 +1,3 @@
+https://www.talkingretail.com/wp-json/wp/v2/posts?search=water
+
+mimic for base urls to see if this returns relevant json
