@@ -14,7 +14,7 @@ wordpress_site_list = []
 wordpress_nonsite_list = []
 
 count = 0
-for thisfilename in outlist[0:10]:
+for thisfilename in outlist:
     count += 1
     print(count)
     thisfile = open('wikidata/' + thisfilename)
