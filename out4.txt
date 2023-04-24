@@ -1,0 +1,7758 @@
+Q5352174.json
+1
+El_Siglo_(Chile)
+newspaper
+http://www.elsiglo.cl
+http://www.elsiglo.cl
+Spanish (Q1321)
+http://www.elsiglo.cl/wp-json/wp/v2/posts?search=
+************
+Q2038698.json
+2
+The_New_York_Observer
+American weekly newspaper-turned media site
+https://observer.com/
+https://observer.com/
+English (Q1860)
+https://observer.com//wp-json/wp/v2/posts?search=
+************
+Q117184405.json
+3
+Pyhäjärven_Sanomat
+Finnish local newspaper
+https://pyhajarvensanomat.fi/
+https://pyhajarvensanomat.fi/
+Finnish (Q1412)
+https://pyhajarvensanomat.fi//wp-json/wp/v2/posts?search=
+************
+Q6925284.json
+4
+Mountain_Valley_News
+newspaper
+http://www.mountainvalleynews.net/
+http://www.mountainvalleynews.net/
+None
+http://www.mountainvalleynews.net//wp-json/wp/v2/posts?search=
+************
+Q16979942.json
+5
+Diario_de_los_Andes
+Newspaper on Mérida State in Venezuela
+http://www.diariodelosandes.com/
+http://www.diariodelosandes.com/
+None
+http://www.diariodelosandes.com//wp-json/wp/v2/posts?search=
+************
+Q12719396.json
+6
+Vest-Telemark_Blad
+local newspaper for Vest-Telemark
+http://www.vtb.no/
+http://www.vtb.no/
+None
+http://www.vtb.no//wp-json/wp/v2/posts?search=
+************
+Q7117035.json
+7
+P.M._News
+News updates
+http://pmnewsnigeria.com
+http://pmnewsnigeria.com
+None
+http://pmnewsnigeria.com/wp-json/wp/v2/posts?search=
+************
+Q7728677.json
+8
+The_Daily_Mississippian
+Student newspaper of the University of Mississippi
+http://www.thedmonline.com/
+http://www.thedmonline.com/
+English (Q1860)
+http://www.thedmonline.com//wp-json/wp/v2/posts?search=
+************
+Q19876693.json
+9
+The_Daily_Signal
+Media outlet based in Washington, D.C.
+http://www.dailysignal.com
+http://www.dailysignal.com
+None
+http://www.dailysignal.com/wp-json/wp/v2/posts?search=
+************
+Q19571147.json
+10
+Business_Times_(Tanzania)
+newspaper
+http://www.businesstimes.co.tz/
+http://www.businesstimes.co.tz/
+English (Q1860)
+http://www.businesstimes.co.tz//wp-json/wp/v2/posts?search=
+************
+Q63441424.json
+11
+Extrakt
+Swedish web based newspaper
+https://www.extrakt.se/
+https://www.extrakt.se/
+None
+https://www.extrakt.se//wp-json/wp/v2/posts?search=
+************
+Q112670404.json
+12
+Jornal_da_USP
+newspaper in Brazil
+https://jornal.usp.br
+https://jornal.usp.br
+Brazilian Portuguese (Q750553)
+https://jornal.usp.br/wp-json/wp/v2/posts?search=
+************
+Q5771268.json
+13
+Clarín_(Chilean_newspaper)
+Chilean newspaper
+https://www.elclarin.cl/
+https://www.elclarin.cl/
+Spanish (Q1321)
+https://www.elclarin.cl//wp-json/wp/v2/posts?search=
+************
+Q3378896.json
+14
+Phileleftheros
+largest newspaper in Cyprus
+https://phileleftherosgroup.com/
+https://phileleftherosgroup.com/
+Greek (Q9129)
+https://phileleftherosgroup.com//wp-json/wp/v2/posts?search=
+************
+Q7170229.json
+15
+Persian_Weekly
+UK newspaper
+http://www.persianweekly.co.uk/
+http://www.persianweekly.co.uk/
+Persian (Q9168)
+http://www.persianweekly.co.uk//wp-json/wp/v2/posts?search=
+************
+Q112844813.json
+16
+African_Mirror
+US-based newspaper (est. 2015) covering African events, personages, lifestyles, fashion, and politics
+https://africanmirrorusa.com/
+https://africanmirrorusa.com/
+American English (Q7976)
+https://africanmirrorusa.com//wp-json/wp/v2/posts?search=
+************
+Q7752023.json
+17
+The_Monitor_(Texas)
+Newspaper in McAllen, Texas, United States
+https://www.themonitor.com/
+https://www.themonitor.com/
+English (Q1860)
+https://www.themonitor.com//wp-json/wp/v2/posts?search=
+************
+Q21393921.json
+18
+Minskaya_prawda
+Belarusian newspaper
+https://mlyn.by/
+https://mlyn.by/
+['Belarusian (Q9091)', 'Russian (Q7737)']
+https://mlyn.by//wp-json/wp/v2/posts?search=
+************
+Q8043482.json
+19
+Xenia_Daily_Gazette
+newspaper published in Xenia, Ohio
+http://www.xeniagazette.com/
+http://www.xeniagazette.com/
+English (Q1860)
+http://www.xeniagazette.com//wp-json/wp/v2/posts?search=
+************
+Q16888363.json
+20
+The_Harvard_Gazette
+official organnelle of Harvard University
+http://news.harvard.edu/gazette/
+http://news.harvard.edu/gazette/
+None
+http://news.harvard.edu/gazette//wp-json/wp/v2/posts?search=
+************
+Q5849477.json
+21
+Esto
+newspaper
+http://www.esto.com.mx
+http://www.esto.com.mx
+Spanish (Q1321)
+http://www.esto.com.mx/wp-json/wp/v2/posts?search=
+************
+Q4855248.json
+22
+Bangla_Mirror
+British Bangla Magazine
+http://www.banglamirrornews.com/
+http://www.banglamirrornews.com/
+English (Q1860)
+http://www.banglamirrornews.com//wp-json/wp/v2/posts?search=
+************
+Q12797619.json
+23
+Novi_glas
+Slovene language weekly from Italy
+http://www.noviglas.eu/
+http://www.noviglas.eu/
+Slovene (Q9063)
+http://www.noviglas.eu//wp-json/wp/v2/posts?search=
+************
+Q87119403.json
+24
+Liberal_del_Sur
+Mexican news website
+http://www.liberal.com.mx/
+http://www.liberal.com.mx/
+Spanish (Q1321)
+http://www.liberal.com.mx//wp-json/wp/v2/posts?search=
+************
+Q7776477.json
+25
+The_Yadkin_Ripple
+newspaper in Yadkinville, North Carolina
+http://www.yadkinripple.com
+http://www.yadkinripple.com
+None
+http://www.yadkinripple.com/wp-json/wp/v2/posts?search=
+************
+Q24910203.json
+26
+Sloboden_Pečat
+Newspaper in North Macedonia
+https://www.slobodenpecat.mk/
+https://www.slobodenpecat.mk/
+Macedonian (Q9296)
+https://www.slobodenpecat.mk//wp-json/wp/v2/posts?search=
+************
+Q5529097.json
+27
+Gazeta_de_Nord-Vest
+newspaper
+http://www.gazetanord-vest.ro/
+http://www.gazetanord-vest.ro/
+Romanian (Q7913)
+http://www.gazetanord-vest.ro//wp-json/wp/v2/posts?search=
+************
+Q111368603.json
+28
+Series_Europeas
+Media about European television series
+https://serieseuropeas.com/
+https://serieseuropeas.com/
+Spanish (Q1321)
+https://serieseuropeas.com//wp-json/wp/v2/posts?search=
+************
+Q10333235.json
+29
+Município_Dia_a_Dia
+newspaper
+http://www.omunicipio.com.br
+http://www.omunicipio.com.br
+None
+http://www.omunicipio.com.br/wp-json/wp/v2/posts?search=
+************
+Q7736163.json
+30
+The_George-Anne
+None
+http://www.thegeorgeanne.com/
+http://www.thegeorgeanne.com/
+English (Q1860)
+http://www.thegeorgeanne.com//wp-json/wp/v2/posts?search=
+************
+Q65048578.json
+31
+El_Bogotano
+Colombian newspaper
+https://elbogotano.com.co/
+https://elbogotano.com.co/
+Spanish (Q1321)
+https://elbogotano.com.co//wp-json/wp/v2/posts?search=
+************
+Q7757601.json
+32
+Point_Reyes_Light_(newspaper)
+Newspaper in Point Reyes Station, California
+http://ptreyeslight.com/
+http://ptreyeslight.com/
+None
+http://ptreyeslight.com//wp-json/wp/v2/posts?search=
+************
+Q18208827.json
+33
+Azg_(daily)
+newspaper in Armenia
+https://azg.am
+https://azg.am
+Armenian (Q8785)
+https://azg.am/wp-json/wp/v2/posts?search=
+************
+Q117196007.json
+34
+Yuva_Portal
+Yuva Portal: Read today’s latest Hindi News, Breaking News, Top Stories, News Headlines in Hindi.
+https://yuvaportal.com/
+https://yuvaportal.com/
+Hindi (Q1568)
+https://yuvaportal.com//wp-json/wp/v2/posts?search=
+************
+Q60767357.json
+35
+Ocracoke_Observer
+Newspaper published in Ocracoke, NC, US
+http://www.ocracokeobserver.com/
+http://www.ocracokeobserver.com/
+None
+http://www.ocracokeobserver.com//wp-json/wp/v2/posts?search=
+************
+Q17088418.json
+36
+Valley_Morning_Star
+newspaper in Harlingen, Texas
+http://www.valleymorningstar.com/
+http://www.valleymorningstar.com/
+None
+http://www.valleymorningstar.com//wp-json/wp/v2/posts?search=
+************
+Q7727028.json
+37
+The_Commonwealth_Times
+newspaper in Richmond, Virginia
+http://www.commonwealthtimes.org/
+http://www.commonwealthtimes.org/
+None
+http://www.commonwealthtimes.org//wp-json/wp/v2/posts?search=
+************
+Q5584020.json
+38
+Goosch.lu
+Weekly News Paper
+http://www.goosch.lu/
+http://www.goosch.lu/
+Luxembourgish (Q9051)
+http://www.goosch.lu//wp-json/wp/v2/posts?search=
+************
+Q1925689.json
+39
+Metro_(Dutch_newspaper)
+Dutch newspaper
+http://www.metronieuws.nl/
+http://www.metronieuws.nl/
+Dutch (Q7411)
+http://www.metronieuws.nl//wp-json/wp/v2/posts?search=
+************
+Q4292692.json
+40
+MIG
+Ukrainian newspaper
+https://mig.com.ua/
+https://mig.com.ua/
+['Russian (Q7737)', 'Ukrainian (Q8798)']
+https://mig.com.ua//wp-json/wp/v2/posts?search=
+************
+Q5822174.json
+41
+El_Impulso_(Venezuela)
+newspaper of Venezuela
+http://www.elimpulso.com
+http://www.elimpulso.com
+Spanish (Q1321)
+http://www.elimpulso.com/wp-json/wp/v2/posts?search=
+************
+Q116164313.json
+42
+Cherokee_One_Feather
+Newspaper
+https://theonefeather.com/
+https://theonefeather.com/
+English (Q1860)
+https://theonefeather.com//wp-json/wp/v2/posts?search=
+************
+Q3516830.json
+43
+Technikart
+French newspaper
+https://www.technikart.com/
+https://www.technikart.com/
+French (Q150)
+https://www.technikart.com//wp-json/wp/v2/posts?search=
+************
+Q5305930.json
+44
+Draugas
+Lithuanian newspaper in Chicago, Illinois
+http://www.draugas.org
+http://www.draugas.org
+Lithuanian (Q9083)
+http://www.draugas.org/wp-json/wp/v2/posts?search=
+************
+Q7979494.json
+45
+Weekly_Blitz
+newspaper in Bangladesh
+http://www.weeklyblitz.net/
+http://www.weeklyblitz.net/
+None
+http://www.weeklyblitz.net//wp-json/wp/v2/posts?search=
+************
+Q15059331.json
+46
+The_Leader_Herald
+newspaper in Gloversville, New York
+http://www.leaderherald.com
+http://www.leaderherald.com
+None
+http://www.leaderherald.com/wp-json/wp/v2/posts?search=
+************
+Q748528.json
+47
+Andhra_Prabha
+India daily newspaper
+https://www.prabhanews.com/
+https://www.prabhanews.com/
+Telugu (Q8097)
+https://www.prabhanews.com//wp-json/wp/v2/posts?search=
+************
+Q1764841.json
+48
+Hallingdølen
+newspaper in Norway
+http://www.hallingdolen.no/
+http://www.hallingdolen.no/
+Norwegian (Q9043)
+http://www.hallingdolen.no//wp-json/wp/v2/posts?search=
+************
+Q3738586.json
+49
+Uma_Leht
+Estonian newspaper
+http://www.umaleht.ee/
+http://www.umaleht.ee/
+Võro (Q32762)
+http://www.umaleht.ee//wp-json/wp/v2/posts?search=
+************
+Q6412827.json
+50
+Kingman_Standard
+Weekly newspaper in Mohave County, Arizona
+http://www.thestandardnewspaper.net/
+http://www.thestandardnewspaper.net/
+None
+http://www.thestandardnewspaper.net//wp-json/wp/v2/posts?search=
+************
+Q28064835.json
+51
+The_Rugby_Paper
+news paper on rugby
+http://www.therugbypaper.co.uk/
+http://www.therugbypaper.co.uk/
+None
+http://www.therugbypaper.co.uk//wp-json/wp/v2/posts?search=
+************
+Q3226743.json
+52
+Le_Républicain
+French newspaper
+http://www.le-republicain.fr
+http://www.le-republicain.fr
+French (Q150)
+http://www.le-republicain.fr/wp-json/wp/v2/posts?search=
+************
+Q4820079.json
+53
+El_Siglo_(Argentina)
+Newspaper in San Miguel de Tucumán, Argentina
+http://www.elsigloweb.com/
+http://www.elsigloweb.com/
+Spanish (Q1321)
+http://www.elsigloweb.com//wp-json/wp/v2/posts?search=
+************
+Q22077779.json
+54
+Mission_Local
+American news website
+http://missionlocal.org/
+http://missionlocal.org/
+English (Q1860)
+http://missionlocal.org//wp-json/wp/v2/posts?search=
+************
+Q117310774.json
+55
+Östra_Sörmlands_Posten
+Swedish local newspapper
+https://osp.nu/
+https://osp.nu/
+Swedish (Q9027)
+https://osp.nu//wp-json/wp/v2/posts?search=
+************
+Q17070828.json
+56
+National_Report
+Fake news website
+http://www.nationalreport.net/
+http://www.nationalreport.net/
+None
+http://www.nationalreport.net//wp-json/wp/v2/posts?search=
+************
+Q15884580.json
+57
+Tips
+Norwegian sports and bets newspaper
+https://www.tipsbladet.no
+https://www.tipsbladet.no
+None
+https://www.tipsbladet.no/wp-json/wp/v2/posts?search=
+************
+Q19878442.json
+58
+Utica_Phoenix
+US newspaper
+http://www.uticaphoenix.net
+http://www.uticaphoenix.net
+English (Q1860)
+http://www.uticaphoenix.net/wp-json/wp/v2/posts?search=
+************
+Q5457313.json
+59
+Flamman
+Swedish left-wing newspaper
+http://www.flamman.se/
+http://www.flamman.se/
+Swedish (Q9027)
+http://www.flamman.se//wp-json/wp/v2/posts?search=
+************
+Q19867637.json
+60
+Cityview_(Des_Moines)
+alternative weekly newspaper in Des Moines, Iowa in 1992
+http://www.dmcityview.com/
+http://www.dmcityview.com/
+None
+http://www.dmcityview.com//wp-json/wp/v2/posts?search=
+************
+Q104629572.json
+61
+Trolley_Times
+News Paper
+https://trolleytimes.com/
+https://trolleytimes.com/
+['Punjabi (Q58635)', 'Hindi (Q1568)']
+https://trolleytimes.com//wp-json/wp/v2/posts?search=
+************
+Q3570471.json
+62
+XXI
+newspaper
+http://www.revue21.fr
+http://www.revue21.fr
+French (Q150)
+http://www.revue21.fr/wp-json/wp/v2/posts?search=
+************
+Q7058594.json
+63
+Northern_Journal
+Canadian newspaper
+http://www.norj.ca
+http://www.norj.ca
+English (Q1860)
+http://www.norj.ca/wp-json/wp/v2/posts?search=
+************
+Q18160743.json
+64
+London_Turkish_Gazette
+Newspaper
+http://www.londragazete.com
+http://www.londragazete.com
+Turkish (Q256)
+http://www.londragazete.com/wp-json/wp/v2/posts?search=
+************
+Q4808310.json
+65
+Assabah
+Moroccan daily newspaper
+http://www.assabah.press.ma/
+http://www.assabah.press.ma/
+['Arabic (Q13955)', 'French (Q150)']
+http://www.assabah.press.ma//wp-json/wp/v2/posts?search=
+************
+Q5200501.json
+66
+Cyprus_Weekly
+newspaper
+http://www.in-cyprus.com/
+http://www.in-cyprus.com/
+None
+http://www.in-cyprus.com//wp-json/wp/v2/posts?search=
+************
+Q55665819.json
+67
+Summit_Daily_News
+newspaper published in Frisco
+https://www.summitdaily.com/
+https://www.summitdaily.com/
+None
+https://www.summitdaily.com//wp-json/wp/v2/posts?search=
+************
+Q5821730.json
+68
+El_Diario_(Argentina)
+Argentine newspaper
+https://www.eldiario.com.ar/
+https://www.eldiario.com.ar/
+Spanish (Q1321)
+https://www.eldiario.com.ar//wp-json/wp/v2/posts?search=
+************
+Q12401053.json
+69
+Terra_e_Tempo
+newspaper
+http://www.terraetempo.gal
+http://www.terraetempo.gal
+Galician (Q9307)
+http://www.terraetempo.gal/wp-json/wp/v2/posts?search=
+************
+Q7714217.json
+70
+The_Ardmoreite
+American newspaper in Ardmore, Oklahoma
+http://www.ardmoreite.com
+http://www.ardmoreite.com
+None
+http://www.ardmoreite.com/wp-json/wp/v2/posts?search=
+************
+Q7800880.json
+71
+Tidewater_News
+newspaper in Courtland, Southampton County
+http://www.tidewaternews.com/
+http://www.tidewaternews.com/
+None
+http://www.tidewaternews.com//wp-json/wp/v2/posts?search=
+************
+Q113675700.json
+72
+Agniban
+Indian newspaper
+https://epaper.agniban.com/
+https://epaper.agniban.com/
+Hindi (Q1568)
+https://epaper.agniban.com//wp-json/wp/v2/posts?search=
+************
+Q96483996.json
+73
+KOŠICE:DNES
+newspapers in Košice, Slovakia
+https://kosicednes.sk
+https://kosicednes.sk
+Slovak (Q9058)
+https://kosicednes.sk/wp-json/wp/v2/posts?search=
+************
+Q7714192.json
+74
+The_Architect's_Newspaper
+Newspaper in New York City
+http://www.archpaper.com
+http://www.archpaper.com
+English (Q1860)
+http://www.archpaper.com/wp-json/wp/v2/posts?search=
+************
+Q575741.json
+75
+The_Mercury_News
+Daily newspaper published in San Jose, California, US, since 1851
+https://www.mercurynews.com/
+https://www.mercurynews.com/
+English (Q1860)
+https://www.mercurynews.com//wp-json/wp/v2/posts?search=
+************
+Q7233344.json
+76
+Poslovni_dnevnik
+newspaper
+http://www.poslovni.hr/
+http://www.poslovni.hr/
+Croatian (Q6654)
+http://www.poslovni.hr//wp-json/wp/v2/posts?search=
+************
+Q96085377.json
+77
+El_Latino_de_hoy
+Spanish-language weekly newspaper published in Salem, Oregon
+http://www.ellatinodehoy.com/
+http://www.ellatinodehoy.com/
+['Spanish (Q1321)', 'English (Q1860)']
+http://www.ellatinodehoy.com//wp-json/wp/v2/posts?search=
+************
+Q3694852.json
+78
+Pakistan_Observer
+Pakistani newspaper
+http://www.pakobserver.net/
+http://www.pakobserver.net/
+None
+http://www.pakobserver.net//wp-json/wp/v2/posts?search=
+************
+Q5472413.json
+79
+Fort_Worth_Weekly
+newspaper in Fort Worth, Texas
+http://fwweekly.com
+http://fwweekly.com
+None
+http://fwweekly.com/wp-json/wp/v2/posts?search=
+************
+Q16996897.json
+80
+Indianapolis_Recorder
+Newspaper in Indianapolis, Indiana, U.S.
+http://indianapolisrecorder.com
+http://indianapolisrecorder.com
+English (Q1860)
+http://indianapolisrecorder.com/wp-json/wp/v2/posts?search=
+************
+Q7252393.json
+81
+Providence_Business_News
+newspaper in Providence, Rhode Island
+http://www.pbn.com/
+http://www.pbn.com/
+None
+http://www.pbn.com//wp-json/wp/v2/posts?search=
+************
+Q7728717.json
+82
+The_Daily_Squib
+A British satirical online publication
+http://www.dailysquib.co.uk/
+http://www.dailysquib.co.uk/
+None
+http://www.dailysquib.co.uk//wp-json/wp/v2/posts?search=
+************
+Q5352251.json
+83
+El_Tiempo_Latino
+Spanish-language newspaper in Washington, D.C
+http://eltiempolatino.com/
+http://eltiempolatino.com/
+None
+http://eltiempolatino.com//wp-json/wp/v2/posts?search=
+************
+Q114115226.json
+84
+Northern_Standard
+Irish newspaper, based in Monaghan
+http://northernstandard.ie
+http://northernstandard.ie
+None
+http://northernstandard.ie/wp-json/wp/v2/posts?search=
+************
+Q7134342.json
+85
+Paradise_Post
+Newspaper in Paradise, California
+https://www.paradisepost.com/
+https://www.paradisepost.com/
+None
+https://www.paradisepost.com//wp-json/wp/v2/posts?search=
+************
+Q11890070.json
+86
+Rantapohja
+Finnish newspaper published in Oulu
+https://www.rantapohja.fi/
+https://www.rantapohja.fi/
+Finnish (Q1412)
+https://www.rantapohja.fi//wp-json/wp/v2/posts?search=
+************
+Q7770173.json
+87
+The_Triangle_(newspaper)
+student newspaper at Drexel University
+http://www.thetriangle.org/
+http://www.thetriangle.org/
+English (Q1860)
+http://www.thetriangle.org//wp-json/wp/v2/posts?search=
+************
+Q7770193.json
+88
+The_Tribune_(Elkin,_North_Carolina)
+newspaper in North Carolina, USA
+http://www.elkintribune.com
+http://www.elkintribune.com
+None
+http://www.elkintribune.com/wp-json/wp/v2/posts?search=
+************
+Q4727389.json
+89
+Alive!_(newspaper)
+Catholic free newspaper, published and distributed in Ireland
+http://www.alive.ie/
+http://www.alive.ie/
+None
+http://www.alive.ie//wp-json/wp/v2/posts?search=
+************
+Q4855555.json
+90
+Bangor_Daily_News
+Newspaper serving Bangor, Maine, United States
+http://www.bangordailynews.com/
+http://www.bangordailynews.com/
+English (Q1860)
+http://www.bangordailynews.com//wp-json/wp/v2/posts?search=
+************
+Q87116341.json
+91
+Enfoque_Informativo_de_Nayarit
+Mexican news website
+https://enfoquenayarit.com/
+https://enfoquenayarit.com/
+Spanish (Q1321)
+https://enfoquenayarit.com//wp-json/wp/v2/posts?search=
+************
+Q6794380.json
+92
+Mawbima
+newspaper
+http://www.mawbima.lk/
+http://www.mawbima.lk/
+Sinhala (Q13267)
+http://www.mawbima.lk//wp-json/wp/v2/posts?search=
+************
+Q11974829.json
+93
+Helgelands_Blad
+newspaper
+http://www.hblad.no
+http://www.hblad.no
+Norwegian (Q9043)
+http://www.hblad.no/wp-json/wp/v2/posts?search=
+************
+Q7487459.json
+94
+Lion's_Roar_(magazine)
+Canadian newspaper
+https://www.lionsroar.com/
+https://www.lionsroar.com/
+English (Q1860)
+https://www.lionsroar.com//wp-json/wp/v2/posts?search=
+************
+Q87116311.json
+95
+La_Jornada_de_Zacatecas
+Mexican news website
+http://ljz.mx/
+http://ljz.mx/
+Spanish (Q1321)
+http://ljz.mx//wp-json/wp/v2/posts?search=
+************
+Q7296222.json
+96
+Raumnes
+newspaper
+http://www.raumnes.no/
+http://www.raumnes.no/
+None
+http://www.raumnes.no//wp-json/wp/v2/posts?search=
+************
+Q5272121.json
+97
+Wairarapa_Times-Age
+regional daily paper in New Zealand
+http://www.times-age.co.nz
+http://www.times-age.co.nz
+English (Q1860)
+http://www.times-age.co.nz/wp-json/wp/v2/posts?search=
+************
+Q5209320.json
+98
+Daily_News_(Red_Bluff)
+morning newspaper in Red Bluff
+https://www.redbluffdailynews.com/
+https://www.redbluffdailynews.com/
+None
+https://www.redbluffdailynews.com//wp-json/wp/v2/posts?search=
+************
+Q18165906.json
+99
+OutInPerth
+Australian LGBT publication
+http://www.outinperth.com
+http://www.outinperth.com
+None
+http://www.outinperth.com/wp-json/wp/v2/posts?search=
+************
+Q7579345.json
+100
+Sport_Ekspres
+newspaper
+http://www.sportekspres.com/
+http://www.sportekspres.com/
+Albanian (Q8748)
+http://www.sportekspres.com//wp-json/wp/v2/posts?search=
+************
+Q116255773.json
+101
+Cronache_Maceratesi
+Italian online newspaper
+https://www.cronachemaceratesi.it
+https://www.cronachemaceratesi.it
+Italian (Q652)
+https://www.cronachemaceratesi.it/wp-json/wp/v2/posts?search=
+************
+Q7395961.json
+102
+Sabato's_Crystal_Ball
+Political newsletter and election predictor
+http://www.centerforpolitics.org/crystalball
+http://www.centerforpolitics.org/crystalball
+None
+http://www.centerforpolitics.org/crystalball/wp-json/wp/v2/posts?search=
+************
+Q11899759.json
+103
+Uudenkaupungin_Sanomat
+newspaper published in Uusikaupunki, Finland since 1891
+http://www.uudenkaupunginsanomat.fi/
+http://www.uudenkaupunginsanomat.fi/
+Finnish (Q1412)
+http://www.uudenkaupunginsanomat.fi//wp-json/wp/v2/posts?search=
+************
+Q7758095.json
+104
+The_Press_and_Journal
+Daily newspaper serving northern and highland Scotland
+http://www.pressandjournal.co.uk
+http://www.pressandjournal.co.uk
+English (Q1860)
+http://www.pressandjournal.co.uk/wp-json/wp/v2/posts?search=
+************
+Q7726783.json
+105
+The_Collegian_(Hillsdale_College)
+None
+http://www.hillsdalecollegian.com/
+http://www.hillsdalecollegian.com/
+None
+http://www.hillsdalecollegian.com//wp-json/wp/v2/posts?search=
+************
+Q3627557.json
+106
+Loksatta
+Marathi newspaper
+https://www.loksatta.com/
+https://www.loksatta.com/
+Marathi (Q1571)
+https://www.loksatta.com//wp-json/wp/v2/posts?search=
+************
+Q24952074.json
+107
+Taasir
+Urdu language newspaper in India
+http://www.taasir.com
+http://www.taasir.com
+Urdu (Q1617)
+http://www.taasir.com/wp-json/wp/v2/posts?search=
+************
+Q5187916.json
+108
+Crookston_Daily_Times
+US newspaper
+http://www.crookstontimes.com
+http://www.crookstontimes.com
+None
+http://www.crookstontimes.com/wp-json/wp/v2/posts?search=
+************
+Q572893.json
+109
+Eleftheros_Typos
+Newspaper
+http://www.e-typos.com
+http://www.e-typos.com
+Greek (Q9129)
+http://www.e-typos.com/wp-json/wp/v2/posts?search=
+************
+Q2251783.json
+110
+Udayavani
+Indian newspaper on language Kannada
+http://www.udayavani.com/
+http://www.udayavani.com/
+Kannada (Q33673)
+http://www.udayavani.com//wp-json/wp/v2/posts?search=
+************
+Q113989799.json
+111
+Kannada_Times
+Indian newspaper
+https://kannadatimes.com/
+https://kannadatimes.com/
+Kannada (Q33673)
+https://kannadatimes.com//wp-json/wp/v2/posts?search=
+************
+Q5322858.json
+112
+EDN_(magazine)
+American trade journal
+http://edn.com
+http://edn.com
+English (Q1860)
+http://edn.com/wp-json/wp/v2/posts?search=
+************
+Q5471983.json
+113
+Fort_Saskatchewan_Record
+free newspaper in Fort Saskatchewan, Alberta, Canada
+http://www.fortsaskatchewanrecord.com
+http://www.fortsaskatchewanrecord.com
+None
+http://www.fortsaskatchewanrecord.com/wp-json/wp/v2/posts?search=
+************
+Q17049468.json
+114
+The_Civilian
+newspaper
+http://www.thecivilian.co.nz/
+http://www.thecivilian.co.nz/
+None
+http://www.thecivilian.co.nz//wp-json/wp/v2/posts?search=
+************
+Q132110.json
+115
+The_Province
+Canadian daily newspaper in British Columbia
+https://theprovince.com/
+https://theprovince.com/
+English (Q1860)
+https://theprovince.com//wp-json/wp/v2/posts?search=
+************
+Q12877665.json
+116
+Ipirotikos_Agon
+Greek daily newspaper, published in Ioannina, Greece
+http://www.agon.gr/
+http://www.agon.gr/
+Greek (Q9129)
+http://www.agon.gr//wp-json/wp/v2/posts?search=
+************
+Q5331152.json
+117
+Easy_Reader
+Newspaper in Hermosa Beach, California
+http://www.easyreadernews.com/
+http://www.easyreadernews.com/
+None
+http://www.easyreadernews.com//wp-json/wp/v2/posts?search=
+************
+Q7686924.json
+118
+Tarun_Bharat
+Marathi language newspaper in western India
+https://tarunbharat.com/
+https://tarunbharat.com/
+Marathi (Q1571)
+https://tarunbharat.com//wp-json/wp/v2/posts?search=
+************
+Q28403425.json
+119
+MediaFile
+organization
+http://www.mediafiledc.com/
+http://www.mediafiledc.com/
+None
+http://www.mediafiledc.com//wp-json/wp/v2/posts?search=
+************
+Q7754287.json
+120
+The_Non-League_Paper
+UK newspaper
+http://www.thenonleaguefootballpaper.com/
+http://www.thenonleaguefootballpaper.com/
+English (Q1860)
+http://www.thenonleaguefootballpaper.com//wp-json/wp/v2/posts?search=
+************
+Q7729682.json
+121
+The_Delta_Discovery
+newspaper in Bethel, Alaska
+http://www.deltadiscovery.com
+http://www.deltadiscovery.com
+None
+http://www.deltadiscovery.com/wp-json/wp/v2/posts?search=
+************
+Q7264804.json
+122
+Póvoa_Semanário
+newspaper
+http://www.povoasemanario.pt/
+http://www.povoasemanario.pt/
+Portuguese (Q5146)
+http://www.povoasemanario.pt//wp-json/wp/v2/posts?search=
+************
+Q5146413.json
+123
+College_Heights_Herald
+None
+http://wkuherald.com
+http://wkuherald.com
+None
+http://wkuherald.com/wp-json/wp/v2/posts?search=
+************
+Q17063675.json
+124
+Egypt_Independent
+Egyptian online newspaper
+http://egyptindependent.com/
+http://egyptindependent.com/
+None
+http://egyptindependent.com//wp-json/wp/v2/posts?search=
+************
+Q5139447.json
+125
+Cochrane_Times-Post
+newspaper in Canada
+http://www.cochranetimespost.com
+http://www.cochranetimespost.com
+None
+http://www.cochranetimespost.com/wp-json/wp/v2/posts?search=
+************
+Q6435948.json
+126
+Krakow_Post
+Newspaper based in Kraków, Poland
+http://www.krakowpost.com/
+http://www.krakowpost.com/
+English (Q1860)
+http://www.krakowpost.com//wp-json/wp/v2/posts?search=
+************
+Q6529890.json
+127
+Les_Presses_Chinoises
+Canadian Chinese-language newspaper
+http://www.chinesepress.com/
+http://www.chinesepress.com/
+Chinese (Q7850)
+http://www.chinesepress.com//wp-json/wp/v2/posts?search=
+************
+Q6294670.json
+128
+Journal_Press
+US newspaper
+http://www.journalpress.com
+http://www.journalpress.com
+English (Q1860)
+http://www.journalpress.com/wp-json/wp/v2/posts?search=
+************
+Q30641395.json
+129
+Southwark_News
+Weekly newspaper based in Southwark, London
+https://www.southwarknews.co.uk/
+https://www.southwarknews.co.uk/
+English (Q1860)
+https://www.southwarknews.co.uk//wp-json/wp/v2/posts?search=
+************
+Q4854167.json
+130
+Bancroft_This_Week
+Canadian newspaper
+http://www.bancroftthisweek.com/
+http://www.bancroftthisweek.com/
+None
+http://www.bancroftthisweek.com//wp-json/wp/v2/posts?search=
+************
+Q4096352.json
+131
+Brestskiy_Kurier
+newspaper in Belarus
+https://www.bk-brest.by/
+https://www.bk-brest.by/
+None
+https://www.bk-brest.by//wp-json/wp/v2/posts?search=
+************
+Q7390027.json
+132
+SF_Public_Press
+San Francisco Bay Area non-profit news organization
+http://sfpublicpress.org/
+http://sfpublicpress.org/
+None
+http://sfpublicpress.org//wp-json/wp/v2/posts?search=
+************
+Q2842936.json
+133
+American_Free_Press
+newspaper
+http://americanfreepress.net/
+http://americanfreepress.net/
+English (Q1860)
+http://americanfreepress.net//wp-json/wp/v2/posts?search=
+************
+Q5172009.json
+134
+Cornwall_Seaway_News
+Newspaper
+http://www.cornwallseawaynews.com
+http://www.cornwallseawaynews.com
+None
+http://www.cornwallseawaynews.com/wp-json/wp/v2/posts?search=
+************
+Q4035078.json
+135
+Bhutan_Today
+newspaper
+http://bhutantoday.bt
+http://bhutantoday.bt
+Dzongkha (Q33081)
+http://bhutantoday.bt/wp-json/wp/v2/posts?search=
+************
+Q5209233.json
+136
+Daily_Champion
+Nigeria newspaper
+http://www.championnews.com.ng/
+http://www.championnews.com.ng/
+English (Q1860)
+http://www.championnews.com.ng//wp-json/wp/v2/posts?search=
+************
+Q25631122.json
+137
+The_New_European
+British pro-European weekly 'pop-up' newspaper
+http://www.theneweuropean.co.uk
+http://www.theneweuropean.co.uk
+English (Q1860)
+http://www.theneweuropean.co.uk/wp-json/wp/v2/posts?search=
+************
+Q7754577.json
+138
+The_Oakland_Post_(Michigan)
+weekly newspaper published in Oakland County, Michigan
+http://www.oaklandpostonline.com/
+http://www.oaklandpostonline.com/
+None
+http://www.oaklandpostonline.com//wp-json/wp/v2/posts?search=
+************
+Q1760498.json
+139
+Os_og_Fusaposten
+newspaper in Norway
+http://www.osogfusa.no/
+http://www.osogfusa.no/
+Nynorsk (Q25164)
+http://www.osogfusa.no//wp-json/wp/v2/posts?search=
+************
+Q55668223.json
+140
+Guardian_Liberty_Voice
+newspaper published in Las Vegas
+https://guardianlv.com/
+https://guardianlv.com/
+English (Q1860)
+https://guardianlv.com//wp-json/wp/v2/posts?search=
+************
+Q108540636.json
+141
+Guyana_Times
+newspaper published in Georgetown, Guyana
+https://guyanatimesgy.com/
+https://guyanatimesgy.com/
+English (Q1860)
+https://guyanatimesgy.com//wp-json/wp/v2/posts?search=
+************
+Q105716072.json
+142
+Diario_Armenia
+None
+https://www.diarioarmenia.org.ar
+https://www.diarioarmenia.org.ar
+['Spanish (Q1321)', 'Armenian (Q8785)', 'English (Q1860)']
+https://www.diarioarmenia.org.ar/wp-json/wp/v2/posts?search=
+************
+Q4738377.json
+143
+Alwatan_(Oman)
+Arabic-language daily newspaper in Oman
+http://www.alwatan.com/
+http://www.alwatan.com/
+None
+http://www.alwatan.com//wp-json/wp/v2/posts?search=
+************
+Q7988441.json
+144
+Western_Weekender
+newspaper in Australia
+https://www.westernweekender.com.au/
+https://www.westernweekender.com.au/
+None
+https://www.westernweekender.com.au//wp-json/wp/v2/posts?search=
+************
+Q7752641.json
+145
+The_Munster_Express
+newspaper in Republic of Ireland
+https://www.munster-express.ie/
+https://www.munster-express.ie/
+English (Q1860)
+https://www.munster-express.ie//wp-json/wp/v2/posts?search=
+************
+Q5209498.json
+146
+Dainik_Jugasankha
+Indian newspaper
+https://jugasankha.in/
+https://jugasankha.in/
+Bengali (Q9610)
+https://jugasankha.in//wp-json/wp/v2/posts?search=
+************
+Q85348386.json
+147
+Sonoma-Index_Tribune
+newspaper in Sonoma, California
+http://www.sonomanews.com/
+http://www.sonomanews.com/
+None
+http://www.sonomanews.com//wp-json/wp/v2/posts?search=
+************
+Q6958385.json
+148
+Nagaland_Post
+Nagaland Daily Newspaper
+http://nagalandpost.com/
+http://nagalandpost.com/
+English (Q1860)
+http://nagalandpost.com//wp-json/wp/v2/posts?search=
+************
+Q11949582.json
+149
+La_Directa
+newspaper in Spain
+https://directa.cat/
+https://directa.cat/
+Catalan (Q7026)
+https://directa.cat//wp-json/wp/v2/posts?search=
+************
+Q6930032.json
+150
+Zadarski_list
+newspaper in Croatia
+http://www.zadarskilist.hr
+http://www.zadarskilist.hr
+Croatian (Q6654)
+http://www.zadarskilist.hr/wp-json/wp/v2/posts?search=
+************
+Q5684224.json
+151
+Hawaii_24/7
+newspaper in Hawaii, Hawaii
+http://www.hawaii247.com
+http://www.hawaii247.com
+None
+http://www.hawaii247.com/wp-json/wp/v2/posts?search=
+************
+Q5448096.json
+152
+Figyelő
+weekly in Hungary
+http://www.figyelo.hu
+http://www.figyelo.hu
+Hungarian (Q9067)
+http://www.figyelo.hu/wp-json/wp/v2/posts?search=
+************
+Q11324439.json
+153
+Nikkey_Shimbun
+Japanese language newspaper
+https://www.nikkeyshimbun.jp/
+https://www.nikkeyshimbun.jp/
+Japanese (Q5287)
+https://www.nikkeyshimbun.jp//wp-json/wp/v2/posts?search=
+************
+Q4664307.json
+154
+Abbotsford_News
+newspaper published in Abbotsford, British Columbia, Canada
+http://www.abbynews.com/
+http://www.abbynews.com/
+English (Q1860)
+http://www.abbynews.com//wp-json/wp/v2/posts?search=
+************
+Q18386115.json
+155
+Butler_County_Banner-Republican
+Weekly newspaper in Morgantown, Kentucky, United States
+http://www.jpinews.com
+http://www.jpinews.com
+None
+http://www.jpinews.com/wp-json/wp/v2/posts?search=
+************
+Q5404722.json
+156
+La_Discusión
+Chilean newspaper
+http://www.ladiscusion.cl/index.php
+http://www.ladiscusion.cl/index.php
+Spanish (Q1321)
+http://www.ladiscusion.cl/index.php/wp-json/wp/v2/posts?search=
+************
+Q60741178.json
+157
+Eugene_Daily_News
+newspaper
+https://eugenedailynews.com
+https://eugenedailynews.com
+None
+https://eugenedailynews.com/wp-json/wp/v2/posts?search=
+************
+Q7595795.json
+158
+Stabroek_News
+newspaper published in Guyana
+http://www.stabroeknews.com/
+http://www.stabroeknews.com/
+None
+http://www.stabroeknews.com//wp-json/wp/v2/posts?search=
+************
+Q60785713.json
+159
+The_Times_Journal
+newspaper
+http://www.russellcountynewspapers.com/
+http://www.russellcountynewspapers.com/
+None
+http://www.russellcountynewspapers.com//wp-json/wp/v2/posts?search=
+************
+Q7723324.json
+160
+The_Claxton_Enterprise
+newspaper in Claxton, Georgia
+http://www.claxtonenterprise.com
+http://www.claxtonenterprise.com
+None
+http://www.claxtonenterprise.com/wp-json/wp/v2/posts?search=
+************
+Q52556433.json
+161
+De_Witte_Raaf
+Belgian newspaper on contemporary art
+https://www.dewitteraaf.be
+https://www.dewitteraaf.be
+None
+https://www.dewitteraaf.be/wp-json/wp/v2/posts?search=
+************
+Q7731679.json
+162
+The_El_Dorado_Times
+American daily newspaper
+http://www.eldoradotimes.com
+http://www.eldoradotimes.com
+English (Q1860)
+http://www.eldoradotimes.com/wp-json/wp/v2/posts?search=
+************
+Q310193.json
+163
+Al-Quds_Al-Arabi
+Arabic language newspaper published in the U.K.
+http://www.alquds.co.uk
+http://www.alquds.co.uk
+Arabic (Q13955)
+http://www.alquds.co.uk/wp-json/wp/v2/posts?search=
+************
+Q7753941.json
+164
+The_Newton_Kansan
+Newspaper in Newton, Kansas
+http://www.thekansan.com
+http://www.thekansan.com
+None
+http://www.thekansan.com/wp-json/wp/v2/posts?search=
+************
+Q16943550.json
+165
+Gold_Coast_Sun
+Newspaper in Queensland, Australia
+http://www.goldcoast.com.au
+http://www.goldcoast.com.au
+None
+http://www.goldcoast.com.au/wp-json/wp/v2/posts?search=
+************
+Q115223617.json
+166
+The_Point
+Nigerian newspaper
+https://www.thepointng.com/
+https://www.thepointng.com/
+Nigerian English (Q7033019)
+https://www.thepointng.com//wp-json/wp/v2/posts?search=
+************
+Q4058036.json
+167
+Adyghe_Maq
+newspaper
+http://www.adygvoice.ru/
+http://www.adygvoice.ru/
+Adyghe (Q27776)
+http://www.adygvoice.ru//wp-json/wp/v2/posts?search=
+************
+Q107081001.json
+168
+Hebdo_24
+Online Media
+https://hebdo24.com
+https://hebdo24.com
+['French (Q150)', 'English (Q1860)', 'Spanish (Q1321)', 'Haitian Creole (Q33491)']
+https://hebdo24.com/wp-json/wp/v2/posts?search=
+************
+Q7722242.json
+169
+The_Chaser_(newspaper)
+Australian satirical newspaper
+http://www.chaser.com.au
+http://www.chaser.com.au
+None
+http://www.chaser.com.au/wp-json/wp/v2/posts?search=
+************
+Q18125043.json
+170
+Gaysi
+newspaper
+http://gaysifamily.com
+http://gaysifamily.com
+None
+http://gaysifamily.com/wp-json/wp/v2/posts?search=
+************
+Q7605407.json
+171
+Steamboat_Pilot_&_Today
+newspaper in Steamboat Springs, Colorado
+http://www.steamboatpilot.com/
+http://www.steamboatpilot.com/
+None
+http://www.steamboatpilot.com//wp-json/wp/v2/posts?search=
+************
+Q106603520.json
+172
+Montecristi_News
+newspaper in Dominican Republic
+https://www.montecristinews.com
+https://www.montecristinews.com
+None
+https://www.montecristinews.com/wp-json/wp/v2/posts?search=
+************
+Q2864718.json
+173
+Art_press
+newspaper in France
+https://www.artpress.com/
+https://www.artpress.com/
+['French (Q150)', 'English (Q1860)']
+https://www.artpress.com//wp-json/wp/v2/posts?search=
+************
+Q113818057.json
+174
+Daily_Hindi_Milap
+None
+https://www.hindimilap.in/
+https://www.hindimilap.in/
+Hindi (Q1568)
+https://www.hindimilap.in//wp-json/wp/v2/posts?search=
+************
+Q7019405.json
+175
+News_Journal_(Ohio)
+Wilmingon, Ohio newspaper
+http://www.wnewsj.com/
+http://www.wnewsj.com/
+English (Q1860)
+http://www.wnewsj.com//wp-json/wp/v2/posts?search=
+************
+Q7697428.json
+176
+Tell_Magazine
+Nigerian Weekly News magazine
+http://www.tell.ng/
+http://www.tell.ng/
+None
+http://www.tell.ng//wp-json/wp/v2/posts?search=
+************
+Q16828339.json
+177
+Anderson_County_Review
+newspaper
+http://www.garnett-ks.com
+http://www.garnett-ks.com
+None
+http://www.garnett-ks.com/wp-json/wp/v2/posts?search=
+************
+Q6430760.json
+178
+Koori_Mail
+Australian newspaper written and owned by Indigenous Australians
+http://www.koorimail.com
+http://www.koorimail.com
+English (Q1860)
+http://www.koorimail.com/wp-json/wp/v2/posts?search=
+************
+Q55665602.json
+179
+Los_Banos_Enterprise
+newspaper published in Los Banos
+https://www.losbanosenterprise.com/
+https://www.losbanosenterprise.com/
+None
+https://www.losbanosenterprise.com//wp-json/wp/v2/posts?search=
+************
+Q108058692.json
+180
+Slovenski_rod
+None
+https://slovenski-rod.eu
+https://slovenski-rod.eu
+None
+https://slovenski-rod.eu/wp-json/wp/v2/posts?search=
+************
+Q56137071.json
+181
+Valley_Voice
+Defunct Vermont newspaper
+https://www.ourvalleyvoice.com
+https://www.ourvalleyvoice.com
+None
+https://www.ourvalleyvoice.com/wp-json/wp/v2/posts?search=
+************
+Q7989086.json
+182
+Westmeath_Examiner
+Irish newspaper
+http://www.westmeathexaminer.ie/
+http://www.westmeathexaminer.ie/
+None
+http://www.westmeathexaminer.ie//wp-json/wp/v2/posts?search=
+************
+Q7714826.json
+183
+The_Atoka_County_Times
+newspaper in Atoka, Oklahoma
+https://www.atokacountytimes.com/
+https://www.atokacountytimes.com/
+None
+https://www.atokacountytimes.com//wp-json/wp/v2/posts?search=
+************
+Q13447170.json
+184
+India-West
+newspaper focusing on Indian American issues
+http://www.indiawest.com
+http://www.indiawest.com
+English (Q1860)
+http://www.indiawest.com/wp-json/wp/v2/posts?search=
+************
+Q312106.json
+185
+Woxx
+Newspaper in Luxembourg.
+http://www.woxx.lu
+http://www.woxx.lu
+['French (Q150)', 'German (Q188)']
+http://www.woxx.lu/wp-json/wp/v2/posts?search=
+************
+Q48773427.json
+186
+Goondiwindi_Argus
+newspaper published in Goondiwindi, Queensland, Australia
+https://www.goondiwindiargus.com.au
+https://www.goondiwindiargus.com.au
+None
+https://www.goondiwindiargus.com.au/wp-json/wp/v2/posts?search=
+************
+Q17109197.json
+187
+The_News_Journal
+Nigerian weekly newspaper
+http://www.newsjournal.com.ng/
+http://www.newsjournal.com.ng/
+English (Q1860)
+http://www.newsjournal.com.ng//wp-json/wp/v2/posts?search=
+************
+Q63492730.json
+188
+Diario_La_Calle
+Venezuelan Newspaper
+http://lacalle.com.ve/
+http://lacalle.com.ve/
+None
+http://lacalle.com.ve//wp-json/wp/v2/posts?search=
+************
+Q5578626.json
+189
+Gold_Coast_Bulletin
+Newspaper in Queensland, Australia
+http://www.goldcoastbulletin.com.au/
+http://www.goldcoastbulletin.com.au/
+None
+http://www.goldcoastbulletin.com.au//wp-json/wp/v2/posts?search=
+************
+Q117041745.json
+190
+Anarâš_aavis
+Inari Sámi online newspaper
+https://www.anarasaavis.fi/
+https://www.anarasaavis.fi/
+Inari Sami (Q33462)
+https://www.anarasaavis.fi//wp-json/wp/v2/posts?search=
+************
+Q7739713.json
+191
+The_Hilltop_(newspaper)
+Student newspaper of Howard University
+http://www.thehilltoponline.com/
+http://www.thehilltoponline.com/
+English (Q1860)
+http://www.thehilltoponline.com//wp-json/wp/v2/posts?search=
+************
+Q6166493.json
+192
+Washington_Hispanic
+Spanish language newspaper in the Washington DC area
+http://www.washingtonhispanic.com/
+http://www.washingtonhispanic.com/
+Spanish (Q1321)
+http://www.washingtonhispanic.com//wp-json/wp/v2/posts?search=
+************
+Q7728443.json
+193
+The_Current_(newspaper)
+the student newspaper of the University of Missouri-St. Louis
+https://thecurrent-online.com/
+https://thecurrent-online.com/
+None
+https://thecurrent-online.com//wp-json/wp/v2/posts?search=
+************
+Q6689473.json
+194
+Louisville_Eccentric_Observer
+newspaper in Louisville, Kentucky
+https://www.leoweekly.com/
+https://www.leoweekly.com/
+None
+https://www.leoweekly.com//wp-json/wp/v2/posts?search=
+************
+Q110252298.json
+195
+The_University_Post
+newspaper published by The University of Copenhagen
+https://uniavisen.dk/
+https://uniavisen.dk/
+['Danish (Q9035)', 'English (Q1860)']
+https://uniavisen.dk//wp-json/wp/v2/posts?search=
+************
+Q7067036.json
+196
+Nowy_Dziennik
+daily newspaper in Garfield, New Jersey
+https://dziennik.com/
+https://dziennik.com/
+Polish (Q809)
+https://dziennik.com//wp-json/wp/v2/posts?search=
+************
+Q12093244.json
+197
+Vilne_Zhyttia_Plus
+newspaper in Ukraine
+http://vilne.org.ua/
+http://vilne.org.ua/
+Ukrainian (Q8798)
+http://vilne.org.ua//wp-json/wp/v2/posts?search=
+************
+Q24263797.json
+198
+Hidrocálido
+independent, daily morning newspaper in the city of Aguascalientes, México
+http://www.hidrocalidodigital.com/
+http://www.hidrocalidodigital.com/
+None
+http://www.hidrocalidodigital.com//wp-json/wp/v2/posts?search=
+************
+Q7770192.json
+199
+The_Tribune-Democrat_(La_Junta)
+newspaper in La Junta, Colorado
+http://www.lajuntatribunedemocrat.com
+http://www.lajuntatribunedemocrat.com
+None
+http://www.lajuntatribunedemocrat.com/wp-json/wp/v2/posts?search=
+************
+Q30141711.json
+200
+Lanza
+newspaper in Spain
+http://www.lanzadigital.com
+http://www.lanzadigital.com
+Spanish (Q1321)
+http://www.lanzadigital.com/wp-json/wp/v2/posts?search=
+************
+Q5645155.json
+201
+Hamilton_Spectator_(Australia)
+newspaper published in Hamilton, Victoria, Australia
+http://www.spec.com.au/
+http://www.spec.com.au/
+English (Q1860)
+http://www.spec.com.au//wp-json/wp/v2/posts?search=
+************
+Q4938193.json
+202
+Bohol_Chronicle
+Daily newspaper based in Bohol, Philippines
+http://boholchronicle.com.ph
+http://boholchronicle.com.ph
+None
+http://boholchronicle.com.ph/wp-json/wp/v2/posts?search=
+************
+Q7591263.json
+203
+St._Paul_Pioneer_Press
+Newspaper based in St. Paul, Minnesota
+https://www.twincities.com/
+https://www.twincities.com/
+English (Q1860)
+https://www.twincities.com//wp-json/wp/v2/posts?search=
+************
+Q16955601.json
+204
+The_Save_Jersey_Blog
+Conservative political blog
+http://savejersey.com/
+http://savejersey.com/
+None
+http://savejersey.com//wp-json/wp/v2/posts?search=
+************
+Q16351232.json
+205
+Rēzeknes_Vēstis
+newspaper in Latvia
+http://www.rv.lv/
+http://www.rv.lv/
+Latvian (Q9078)
+http://www.rv.lv//wp-json/wp/v2/posts?search=
+************
+Q60785644.json
+206
+Kashmir_Images
+newspaper
+http://thekashmirimages.com
+http://thekashmirimages.com
+None
+http://thekashmirimages.com/wp-json/wp/v2/posts?search=
+************
+Q7232009.json
+207
+Portland_Press_Herald
+Daily newspaper in Portland, Maine
+http://pressherald.com
+http://pressherald.com
+English (Q1860)
+http://pressherald.com/wp-json/wp/v2/posts?search=
+************
+Q11958643.json
+208
+Arendals_Tidende
+Newspaper
+https://arendalstidende.no/
+https://arendalstidende.no/
+None
+https://arendalstidende.no//wp-json/wp/v2/posts?search=
+************
+Q4791888.json
+209
+Arkansas_Times
+newspaper in Little Rock, Arkansas
+http://arktimes.com/
+http://arktimes.com/
+English (Q1860)
+http://arktimes.com//wp-json/wp/v2/posts?search=
+************
+Q7712723.json
+210
+The_Advocate_(Contra_Costa_College)
+student newspaper of Contra Costa College
+http://www.cccadvocate.com/
+http://www.cccadvocate.com/
+None
+http://www.cccadvocate.com//wp-json/wp/v2/posts?search=
+************
+Q111109611.json
+211
+The_Miami_Post
+newspaper based in Miami
+https://themiamipost.com/
+https://themiamipost.com/
+English (Q1860)
+https://themiamipost.com//wp-json/wp/v2/posts?search=
+************
+Q25056934.json
+212
+Thinkers_Magazine
+Nigerian online newspaper
+http://www.thinkersnewsng.com/
+http://www.thinkersnewsng.com/
+None
+http://www.thinkersnewsng.com//wp-json/wp/v2/posts?search=
+************
+Q5209383.json
+213
+Daily_Times_(Nigeria)
+Newspaper of Nigeria
+https://dailytimesng.com
+https://dailytimesng.com
+English (Q1860)
+https://dailytimesng.com/wp-json/wp/v2/posts?search=
+************
+Q104708985.json
+214
+Journal_Le_Saint-Armand
+organization in the cultural domain in Montérégie, Québec
+https://journalstarmand.com
+https://journalstarmand.com
+None
+https://journalstarmand.com/wp-json/wp/v2/posts?search=
+************
+Q3203397.json
+215
+L'Express_(Toronto)
+French-language weekly newspaper
+https://l-express.ca/
+https://l-express.ca/
+French (Q150)
+https://l-express.ca//wp-json/wp/v2/posts?search=
+************
+Q6863798.json
+216
+Minden_Times
+newspaper in Canada
+http://www.mindentimes.ca/
+http://www.mindentimes.ca/
+None
+http://www.mindentimes.ca//wp-json/wp/v2/posts?search=
+************
+Q7713804.json
+217
+The_Anglo-Celt
+Irish local newspaper
+http://www.anglocelt.ie
+http://www.anglocelt.ie
+None
+http://www.anglocelt.ie/wp-json/wp/v2/posts?search=
+************
+Q5008902.json
+218
+CATS_Classified
+newspaper
+http://www.cats.com.sg
+http://www.cats.com.sg
+None
+http://www.cats.com.sg/wp-json/wp/v2/posts?search=
+************
+Q6922550.json
+219
+Mount_Olive_Tribune
+newspaper in Mount Olive, North Carolina
+https://www.mountolivetribune.com/
+https://www.mountolivetribune.com/
+None
+https://www.mountolivetribune.com//wp-json/wp/v2/posts?search=
+************
+Q115171650.json
+220
+The_Challenger
+street newspaper in Austin, Texas
+https://www.challengernewspaper.org/
+https://www.challengernewspaper.org/
+None
+https://www.challengernewspaper.org//wp-json/wp/v2/posts?search=
+************
+Q112770276.json
+221
+Abu_Ali_Express
+Telegram channel
+https://abualiexpress.com
+https://abualiexpress.com
+None
+https://abualiexpress.com/wp-json/wp/v2/posts?search=
+************
+Q63473805.json
+222
+Tharros
+Newspaper
+https://www.tharrosnews.gr/
+https://www.tharrosnews.gr/
+Greek (Q9129)
+https://www.tharrosnews.gr//wp-json/wp/v2/posts?search=
+************
+Q15476991.json
+223
+Vecherniy_Brest
+Newspaper in Brest, Belarus
+http://www.vb.by
+http://www.vb.by
+['Russian (Q7737)', 'Belarusian (Q9091)']
+http://www.vb.by/wp-json/wp/v2/posts?search=
+************
+Q104650469.json
+224
+LL-Bladet
+newspaper in Finland
+https://ll-bladet.fi/
+https://ll-bladet.fi/
+Swedish (Q9027)
+https://ll-bladet.fi//wp-json/wp/v2/posts?search=
+************
+Q7767380.json
+225
+The_Sunday_Mail_(Brisbane)
+Australian newspaper
+http://www.thesundaymail.com.au
+http://www.thesundaymail.com.au
+None
+http://www.thesundaymail.com.au/wp-json/wp/v2/posts?search=
+************
+Q5941131.json
+226
+Humor_Times
+newspaper
+http://www.humortimes.com
+http://www.humortimes.com
+None
+http://www.humortimes.com/wp-json/wp/v2/posts?search=
+************
+Q4336879.json
+227
+Orlovsky_Herald
+Russian weekly newspaper
+http://www.vestnik57.ru/
+http://www.vestnik57.ru/
+Russian (Q7737)
+http://www.vestnik57.ru//wp-json/wp/v2/posts?search=
+************
+Q28126770.json
+228
+The_Concrete_Herald
+Newspaper in Concrete, Washington
+http://www.concrete-herald.com/
+http://www.concrete-herald.com/
+None
+http://www.concrete-herald.com//wp-json/wp/v2/posts?search=
+************
+Q7182847.json
+229
+Philadelphia_Weekly
+Newspaper in Philadelphia, Pennsylvania
+https://philadelphiaweekly.com/
+https://philadelphiaweekly.com/
+None
+https://philadelphiaweekly.com//wp-json/wp/v2/posts?search=
+************
+Q5759424.json
+230
+Highlands_Today
+newspaper
+http://www.highlandstoday.com/
+http://www.highlandstoday.com/
+None
+http://www.highlandstoday.com//wp-json/wp/v2/posts?search=
+************
+Q6398798.json
+231
+Khabrain
+Pakistani Newspaper
+http://www.thepost.com.pk
+http://www.thepost.com.pk
+Urdu (Q1617)
+http://www.thepost.com.pk/wp-json/wp/v2/posts?search=
+************
+Q704192.json
+232
+Choson_Sinbo
+Japan-based, Japanese- and Korean language newspaper affiliated with the government of North Korea
+https://chosonsinbo.com/
+https://chosonsinbo.com/
+['North Korean standard language (Q18784)', 'Japanese (Q5287)']
+https://chosonsinbo.com//wp-json/wp/v2/posts?search=
+************
+Q57983527.json
+233
+Vermont_Standard
+Newspaper published in Vermont, US
+https://thevermontstandard.com/
+https://thevermontstandard.com/
+English (Q1860)
+https://thevermontstandard.com//wp-json/wp/v2/posts?search=
+************
+Q17505244.json
+234
+Dumfries_Courier
+Scottish Newspaper
+http://www.dng24.co.uk/
+http://www.dng24.co.uk/
+English (Q1860)
+http://www.dng24.co.uk//wp-json/wp/v2/posts?search=
+************
+Q11851819.json
+235
+Annonsbladet
+newspaper
+https://annonsbladet.fi/
+https://annonsbladet.fi/
+None
+https://annonsbladet.fi//wp-json/wp/v2/posts?search=
+************
+Q8051835.json
+236
+Yellow_Springs_News
+newspaper in Yellow Springs, Ohio
+http://www.ysnews.com
+http://www.ysnews.com
+English (Q1860)
+http://www.ysnews.com/wp-json/wp/v2/posts?search=
+************
+Q7774324.json
+237
+The_Westfield_News
+US newspaper
+http://thewestfieldnews.com/
+http://thewestfieldnews.com/
+None
+http://thewestfieldnews.com//wp-json/wp/v2/posts?search=
+************
+Q21697720.json
+238
+Hayastani_Hanrapetutyun
+newspaper in Armenia
+https://hhpress.am
+https://hhpress.am
+Armenian (Q8785)
+https://hhpress.am/wp-json/wp/v2/posts?search=
+************
+Q87116731.json
+239
+Tribuna_de_Campeche
+Mexican news website
+http://www.tribunacampeche.com/
+http://www.tribunacampeche.com/
+None
+http://www.tribunacampeche.com//wp-json/wp/v2/posts?search=
+************
+Q4154069.json
+240
+Daimohk
+Republican socio-political newspaper in the Chechen language, published in the Chechen Republic
+http://daymohk-gazet.ru/
+http://daymohk-gazet.ru/
+Chechen (Q33350)
+http://daymohk-gazet.ru//wp-json/wp/v2/posts?search=
+************
+Q3521433.json
+241
+The_Jewish_Press
+American weekly newspaper based in Brooklyn, New York
+http://www.jewishpress.com/
+http://www.jewishpress.com/
+None
+http://www.jewishpress.com//wp-json/wp/v2/posts?search=
+************
+Q5134194.json
+242
+Clinton_News-Record
+newspaper published in Clinton, Oklahoma
+http://www.clintonnewsrecord.ca
+http://www.clintonnewsrecord.ca
+None
+http://www.clintonnewsrecord.ca/wp-json/wp/v2/posts?search=
+************
+Q7660066.json
+243
+Sydney_Observer_Magazine
+Australian magazine
+http://www.sydneyobserver.com
+http://www.sydneyobserver.com
+None
+http://www.sydneyobserver.com/wp-json/wp/v2/posts?search=
+************
+Q4144532.json
+244
+La_Mañana
+newspaper in Lleida, Catalonia, Spain
+https://www.lamanyana.cat/
+https://www.lamanyana.cat/
+['Catalan (Q7026)', 'Spanish (Q1321)']
+https://www.lamanyana.cat//wp-json/wp/v2/posts?search=
+************
+Q1370164.json
+245
+Estia
+Greek broadsheet newspaper from Athens
+http://www.estianews.gr/
+http://www.estianews.gr/
+Greek (Q9129)
+http://www.estianews.gr//wp-json/wp/v2/posts?search=
+************
+Q15730146.json
+246
+The_Houstonian_(newspaper)
+newspaper
+http://www.houstonianonline.com
+http://www.houstonianonline.com
+English (Q1860)
+http://www.houstonianonline.com/wp-json/wp/v2/posts?search=
+************
+Q16973213.json
+247
+The_Daily_Slovak_News
+Slovak online newspaper
+http://www.thedaily.sk/
+http://www.thedaily.sk/
+None
+http://www.thedaily.sk//wp-json/wp/v2/posts?search=
+************
+Q7728693.json
+248
+The_Daily_Orange
+Student newspaper at Syracuse University
+http://www.dailyorange.com/
+http://www.dailyorange.com/
+None
+http://www.dailyorange.com//wp-json/wp/v2/posts?search=
+************
+Q7771599.json
+249
+The_Universe_(student_newspaper)
+Student newspaper of Brigham Young University
+https://universe.byu.edu
+https://universe.byu.edu
+None
+https://universe.byu.edu/wp-json/wp/v2/posts?search=
+************
+Q5306137.json
+250
+Drayton_Valley_Western_Review
+weekly newspaper in Drayton Valley, Alberta, Canada
+http://www.draytonvalleywesternreview.com/
+http://www.draytonvalleywesternreview.com/
+None
+http://www.draytonvalleywesternreview.com//wp-json/wp/v2/posts?search=
+************
+Q7137956.json
+251
+Park_Record
+daily newspaper published in Park City, Utah, USA
+http://www.parkrecord.com/
+http://www.parkrecord.com/
+None
+http://www.parkrecord.com//wp-json/wp/v2/posts?search=
+************
+Q6899033.json
+252
+Monett_Times
+newspaper in Monett, Missouri
+http://www.monett-times.com/
+http://www.monett-times.com/
+None
+http://www.monett-times.com//wp-json/wp/v2/posts?search=
+************
+Q14686864.json
+253
+Technique_(newspaper)
+Student newspaper of the Georgia Institute of Technology
+http://nique.net/
+http://nique.net/
+None
+http://nique.net//wp-json/wp/v2/posts?search=
+************
+Q116715040.json
+254
+The_Meghalayan
+Indian newspaper
+https://themeghalayan.com/
+https://themeghalayan.com/
+English (Q1860)
+https://themeghalayan.com//wp-json/wp/v2/posts?search=
+************
+Q11362392.json
+255
+Sekai_Nippo
+None
+http://www.worldtimes.co.jp/
+http://www.worldtimes.co.jp/
+Japanese (Q5287)
+http://www.worldtimes.co.jp//wp-json/wp/v2/posts?search=
+************
+Q7755921.json
+256
+The_Paisano
+Texan newspaper
+http://www.paisano-online.com
+http://www.paisano-online.com
+None
+http://www.paisano-online.com/wp-json/wp/v2/posts?search=
+************
+Q5240963.json
+257
+Neatkarīgās_Tukuma_Ziņas
+Latvian newspaper
+http://www.ntz.lv/
+http://www.ntz.lv/
+Latvian (Q9078)
+http://www.ntz.lv//wp-json/wp/v2/posts?search=
+************
+Q107121086.json
+258
+Respublika_Armenia
+newspaper
+http://ra.am
+http://ra.am
+Russian (Q7737)
+http://ra.am/wp-json/wp/v2/posts?search=
+************
+Q7663037.json
+259
+Syracuse_New_Times
+Defunct newspaper in Syracuse, New York
+https://syracusenewtimes.com
+https://syracusenewtimes.com
+None
+https://syracusenewtimes.com/wp-json/wp/v2/posts?search=
+************
+Q57614340.json
+260
+Ripples_Nigeria
+Nigerian online newspaper
+https://www.ripplesnigeria.com
+https://www.ripplesnigeria.com
+English (Q1860)
+https://www.ripplesnigeria.com/wp-json/wp/v2/posts?search=
+************
+Q109856121.json
+261
+Miami_Celebrities
+Newspaper in Miami
+https://miamicelebrities.com/
+https://miamicelebrities.com/
+None
+https://miamicelebrities.com//wp-json/wp/v2/posts?search=
+************
+Q16994129.json
+262
+Gilroy_Dispatch
+Newspaper in Gilroy, California
+http://www.gilroydispatch.com
+http://www.gilroydispatch.com
+None
+http://www.gilroydispatch.com/wp-json/wp/v2/posts?search=
+************
+Q56290044.json
+263
+Turtle_Mountain_Times
+newspaper
+https://tmtimes.com/
+https://tmtimes.com/
+None
+https://tmtimes.com//wp-json/wp/v2/posts?search=
+************
+Q5768362.json
+264
+Hippo_Press
+American newspaper publisher
+http://www.hippopress.com/
+http://www.hippopress.com/
+None
+http://www.hippopress.com//wp-json/wp/v2/posts?search=
+************
+Q7413942.json
+265
+San_Francisco_Bay_View
+Newspaper with a focus on African-American issues
+https://sfbayview.com
+https://sfbayview.com
+None
+https://sfbayview.com/wp-json/wp/v2/posts?search=
+************
+Q5126947.json
+266
+Claridad
+Spanish-language weekly newspaper based in San Juan, Puerto Rico
+http://www.claridadpuertorico.com/
+http://www.claridadpuertorico.com/
+None
+http://www.claridadpuertorico.com//wp-json/wp/v2/posts?search=
+************
+Q7304716.json
+267
+Red_Pepper_(newspaper)
+Ugandan tabloid newspaper
+http://www.redpepper.co.ug
+http://www.redpepper.co.ug
+None
+http://www.redpepper.co.ug/wp-json/wp/v2/posts?search=
+************
+Q4263780.json
+268
+Literary_Russia
+weekly literary and journalistic newspaper and publishing house
+http://www.litrossia.ru/
+http://www.litrossia.ru/
+Russian (Q7737)
+http://www.litrossia.ru//wp-json/wp/v2/posts?search=
+************
+Q15043312.json
+269
+Westmeath_Topic
+weekly newspaper founded in Mullingar, Ireland
+http://www.topic.ie/
+http://www.topic.ie/
+None
+http://www.topic.ie//wp-json/wp/v2/posts?search=
+************
+Q3223729.json
+270
+Le_Journal_de_Mickey
+French Disney comics magazine
+http://www.journaldemickey.com
+http://www.journaldemickey.com
+French (Q150)
+http://www.journaldemickey.com/wp-json/wp/v2/posts?search=
+************
+Q18149059.json
+271
+CU_Independent
+None
+http://cuindependent.com/
+http://cuindependent.com/
+None
+http://cuindependent.com//wp-json/wp/v2/posts?search=
+************
+Q2095955.json
+272
+The_Courier-Mail
+Daily tabloid newspaper in Brisbane, Australia
+http://www.couriermail.com.au
+http://www.couriermail.com.au
+English (Q1860)
+http://www.couriermail.com.au/wp-json/wp/v2/posts?search=
+************
+Q116753836.json
+273
+Los_Angeles_Blade
+LGBT newspaper based in Los Angeles
+https://www.losangelesblade.com/
+https://www.losangelesblade.com/
+English (Q1860)
+https://www.losangelesblade.com//wp-json/wp/v2/posts?search=
+************
+Q16996115.json
+274
+Pincher_Creek_Echo
+Canadian newspaper
+http://www.pinchercreekecho.com/
+http://www.pinchercreekecho.com/
+None
+http://www.pinchercreekecho.com//wp-json/wp/v2/posts?search=
+************
+Q18331521.json
+275
+Nya_Tider
+newspaper
+http://www.nyatider.nu
+http://www.nyatider.nu
+None
+http://www.nyatider.nu/wp-json/wp/v2/posts?search=
+************
+Q7728731.json
+276
+Daily_Tribune_(Philippines)
+Broadsheet newspaper in the Philippines
+http://www.tribune.net.ph
+http://www.tribune.net.ph
+English (Q1860)
+http://www.tribune.net.ph/wp-json/wp/v2/posts?search=
+************
+Q18333270.json
+277
+Deutsche_Gehörlosenzeitung
+newspaper
+http://www.gehoerlosenzeitung.de
+http://www.gehoerlosenzeitung.de
+German (Q188)
+http://www.gehoerlosenzeitung.de/wp-json/wp/v2/posts?search=
+************
+Q7774994.json
+278
+The_Williams_Record
+newspaper
+http://williamsrecord.com/
+http://williamsrecord.com/
+None
+http://williamsrecord.com//wp-json/wp/v2/posts?search=
+************
+Q7767390.json
+279
+The_Sunday_Telegraph_(Sydney)
+Australian newspaper
+http://www.thetelegraph.com.au
+http://www.thetelegraph.com.au
+None
+http://www.thetelegraph.com.au/wp-json/wp/v2/posts?search=
+************
+Q113268665.json
+280
+Searchlight_(newspaper)
+weekly newspaper in Saint Vincent and the Grenadines
+https://www.searchlight.vc/
+https://www.searchlight.vc/
+English (Q1860)
+https://www.searchlight.vc//wp-json/wp/v2/posts?search=
+************
+Q2947866.json
+281
+Challenge_Hebdo
+newspaper
+http://www.challenge.ma
+http://www.challenge.ma
+French (Q150)
+http://www.challenge.ma/wp-json/wp/v2/posts?search=
+************
+Q7728661.json
+282
+Independent_Nigeria
+Newspaper in Nigeria
+http://dailyindependentnig.com/
+http://dailyindependentnig.com/
+None
+http://dailyindependentnig.com//wp-json/wp/v2/posts?search=
+************
+Q56236672.json
+283
+Oxford_Leader
+newspaper published in Oxford
+https://oxfordleader.com/
+https://oxfordleader.com/
+None
+https://oxfordleader.com//wp-json/wp/v2/posts?search=
+************
+Q5209381.json
+284
+Daily_Trojan
+Student newspaper
+http://www.dailytrojan.com/
+http://www.dailytrojan.com/
+None
+http://www.dailytrojan.com//wp-json/wp/v2/posts?search=
+************
+Q3566522.json
+285
+Washington_Square_News
+Weekly student newspaper of New York University
+http://nyunews.com
+http://nyunews.com
+None
+http://nyunews.com/wp-json/wp/v2/posts?search=
+************
+Q5627546.json
+286
+Głos_(1991)
+Polish socio-political weekly magazine
+https://www.glos.com.pl/
+https://www.glos.com.pl/
+Polish (Q809)
+https://www.glos.com.pl//wp-json/wp/v2/posts?search=
+************
+Q17070976.json
+287
+Suprobhat_Bangladesh
+newspaper
+http://www.suprobhat.com/
+http://www.suprobhat.com/
+Bengali (Q9610)
+http://www.suprobhat.com//wp-json/wp/v2/posts?search=
+************
+Q7850613.json
+288
+The_Tuam_Herald
+newspaper
+http://www.tuamherald.ie/
+http://www.tuamherald.ie/
+None
+http://www.tuamherald.ie//wp-json/wp/v2/posts?search=
+************
+Q4701684.json
+289
+Akron_News-Reporter
+newspaper in Akron, Colorado
+https://www.akronnewsreporter.com/
+https://www.akronnewsreporter.com/
+None
+https://www.akronnewsreporter.com//wp-json/wp/v2/posts?search=
+************
+Q4920530.json
+290
+Black_Chronicle
+newspaper
+http://www.blackchronicle.com/
+http://www.blackchronicle.com/
+None
+http://www.blackchronicle.com//wp-json/wp/v2/posts?search=
+************
+Q7746493.json
+291
+The_Leader-Union
+newspaper
+http://www.leaderunion.com
+http://www.leaderunion.com
+None
+http://www.leaderunion.com/wp-json/wp/v2/posts?search=
+************
+Q16694375.json
+292
+Vesti
+newspaper
+http://www.vesti-ukr.com/
+http://www.vesti-ukr.com/
+Russian (Q7737)
+http://www.vesti-ukr.com//wp-json/wp/v2/posts?search=
+************
+Q385079.json
+293
+Daily_Sport
+British tabloid newspaper
+http://dailysport.co.uk
+http://dailysport.co.uk
+None
+http://dailysport.co.uk/wp-json/wp/v2/posts?search=
+************
+Q18149014.json
+294
+Coweta_American
+newspaper
+http://www.cowetaamerican.com
+http://www.cowetaamerican.com
+None
+http://www.cowetaamerican.com/wp-json/wp/v2/posts?search=
+************
+Q1995658.json
+295
+Orissa_Post
+None
+https://www.orissapost.com/
+https://www.orissapost.com/
+English (Q1860)
+https://www.orissapost.com//wp-json/wp/v2/posts?search=
+************
+Q5456176.json
+296
+Five_Towns_Jewish_Times
+newspaper
+http://5tjt.com
+http://5tjt.com
+None
+http://5tjt.com/wp-json/wp/v2/posts?search=
+************
+Q98687959.json
+297
+The_Good_Life
+bi-monthly newspaper for Surbiton
+https://thegoodlifesurbiton.co.uk/
+https://thegoodlifesurbiton.co.uk/
+English (Q1860)
+https://thegoodlifesurbiton.co.uk//wp-json/wp/v2/posts?search=
+************
+Q7715317.json
+298
+The_Badger_Herald
+US newspaper
+http://badgerherald.com/
+http://badgerherald.com/
+English (Q1860)
+http://badgerherald.com//wp-json/wp/v2/posts?search=
+************
+Q6045463.json
+299
+Nostresport
+newspaper in Spain
+http://www.nostresport.com/
+http://www.nostresport.com/
+Spanish (Q1321)
+http://www.nostresport.com//wp-json/wp/v2/posts?search=
+************
+Q5890620.json
+300
+Hometown_Journal
+Daily newspaper in Struthers, Ohio
+http://www.hometownjournal.biz
+http://www.hometownjournal.biz
+None
+http://www.hometownjournal.biz/wp-json/wp/v2/posts?search=
+************
+Q7419792.json
+301
+Santa_Monica_Daily_Press
+Newspaper
+http://www.smdp.com
+http://www.smdp.com
+None
+http://www.smdp.com/wp-json/wp/v2/posts?search=
+************
+Q73918279.json
+302
+EVN_Report
+newspaper in Armenia
+http://www.evnreport.com
+http://www.evnreport.com
+['English (Q1860)', 'Armenian (Q8785)']
+http://www.evnreport.com/wp-json/wp/v2/posts?search=
+************
+Q655104.json
+303
+Krytyka_Polityczna
+newspaper
+http://www.krytykapolityczna.pl/
+http://www.krytykapolityczna.pl/
+Polish (Q809)
+http://www.krytykapolityczna.pl//wp-json/wp/v2/posts?search=
+************
+Q113950908.json
+304
+Esamaad
+Indian newspaper
+https://esamaad.com/
+https://esamaad.com/
+Maithili (Q36109)
+https://esamaad.com//wp-json/wp/v2/posts?search=
+************
+Q5471569.json
+305
+Fort_Macleod_Gazette
+Newspaper in Alberta, Canada (est. 1882)
+http://www.fortmacleodgazette.com/
+http://www.fortmacleodgazette.com/
+None
+http://www.fortmacleodgazette.com//wp-json/wp/v2/posts?search=
+************
+Q3564195.json
+306
+Peloponnisos_(newspaper)
+Greek newspaper
+http://www.pelop.gr/
+http://www.pelop.gr/
+Greek (Q9129)
+http://www.pelop.gr//wp-json/wp/v2/posts?search=
+************
+Q2396619.json
+307
+Edmonton_Journal
+Daily newspaper published in Edmonton, Alberta, Canada
+https://edmontonjournal.com/
+https://edmontonjournal.com/
+English (Q1860)
+https://edmontonjournal.com//wp-json/wp/v2/posts?search=
+************
+Q7979472.json
+308
+Weekender_(Northeastern_Pennsylvania_weekly)
+US newspaper
+http://www.theweekender.com/
+http://www.theweekender.com/
+None
+http://www.theweekender.com//wp-json/wp/v2/posts?search=
+************
+Q4832922.json
+309
+Aztag_(daily)
+Armenian newspaper published in Beirut
+http://www.aztagdaily.com
+http://www.aztagdaily.com
+None
+http://www.aztagdaily.com/wp-json/wp/v2/posts?search=
+************
+Q3225572.json
+310
+Le_Phare_de_Ré
+French newspaper
+http://www.pharedere.com/
+http://www.pharedere.com/
+French (Q150)
+http://www.pharedere.com//wp-json/wp/v2/posts?search=
+************
+Q4807850.json
+311
+The_Aspen_Times
+Daily newspaper in Aspen, Colorado, United States
+http://www.aspentimes.com/
+http://www.aspentimes.com/
+None
+http://www.aspentimes.com//wp-json/wp/v2/posts?search=
+************
+Q4463516.json
+312
+Troitskiy_Variant
+Russian popular science newspaper
+https://trv-science.ru/
+https://trv-science.ru/
+Russian (Q7737)
+https://trv-science.ru//wp-json/wp/v2/posts?search=
+************
+Q863351.json
+313
+Utusan_Malaysia
+Malaysian daily Malay language newspaper
+https://www.utusan.com.my/
+https://www.utusan.com.my/
+Malay (Q9237)
+https://www.utusan.com.my//wp-json/wp/v2/posts?search=
+************
+Q3988817.json
+314
+The_Press_Democrat
+Newspaper based in Sonoma County, California
+http://www.pressdemocrat.com
+http://www.pressdemocrat.com
+English (Q1860)
+http://www.pressdemocrat.com/wp-json/wp/v2/posts?search=
+************
+Q7728099.json
+315
+The_Crimson_White
+None
+http://www.cw.ua.edu/
+http://www.cw.ua.edu/
+None
+http://www.cw.ua.edu//wp-json/wp/v2/posts?search=
+************
+Q2311467.json
+316
+Le_Quotidien_(Luxembourg)
+Daily newspaper published in Luxembourg
+http://www.lequotidien.lu/
+http://www.lequotidien.lu/
+French (Q150)
+http://www.lequotidien.lu//wp-json/wp/v2/posts?search=
+************
+Q26721132.json
+317
+Medychna_Akademia
+newspaper
+http://medychna-akademia.tdmu.edu.ua/
+http://medychna-akademia.tdmu.edu.ua/
+Ukrainian (Q8798)
+http://medychna-akademia.tdmu.edu.ua//wp-json/wp/v2/posts?search=
+************
+Q7188296.json
+318
+Phuket_Gazette
+newspaper in Thailand
+http://www.phuketgazette.net/
+http://www.phuketgazette.net/
+English (Q1860)
+http://www.phuketgazette.net//wp-json/wp/v2/posts?search=
+************
+Q1274314.json
+319
+Pattaya_Blatt
+German language weekly newspaper in Thailand
+http://www.pattayablatt.com/
+http://www.pattayablatt.com/
+German (Q188)
+http://www.pattayablatt.com//wp-json/wp/v2/posts?search=
+************
+Q12379462.json
+320
+Õpetajate_Leht
+Estonian newspaper
+https://opleht.ee
+https://opleht.ee
+Estonian (Q9072)
+https://opleht.ee/wp-json/wp/v2/posts?search=
+************
+Q24947884.json
+321
+The_Rakyat_Post
+Malaysian daily online newspaper
+http://www.therakyatpost.com/
+http://www.therakyatpost.com/
+None
+http://www.therakyatpost.com//wp-json/wp/v2/posts?search=
+************
+Q56236855.json
+322
+Oneida_Dispatch
+Defunct magazine
+https://www.oneidadispatch.com/
+https://www.oneidadispatch.com/
+None
+https://www.oneidadispatch.com//wp-json/wp/v2/posts?search=
+************
+Q4663298.json
+323
+Abaka
+Armenian newspaper published in Montreal, Quebec, Canada
+http://abakanews.org/
+http://abakanews.org/
+['Armenian (Q8785)', 'French (Q150)', 'English (Q1860)']
+http://abakanews.org//wp-json/wp/v2/posts?search=
+************
+Q6157218.json
+324
+Unomásuno
+Mexican daily tabloid newspaper
+http://www.unomasuno.com.mx
+http://www.unomasuno.com.mx
+Spanish (Q1321)
+http://www.unomasuno.com.mx/wp-json/wp/v2/posts?search=
+************
+Q108003636.json
+325
+Peres_Daily
+news publication in the United States of America
+https://peresdaily.com
+https://peresdaily.com
+None
+https://peresdaily.com/wp-json/wp/v2/posts?search=
+************
+Q7766656.json
+326
+The_Statesman_(Stony_Brook)
+None
+http://www.sbstatesman.com/
+http://www.sbstatesman.com/
+None
+http://www.sbstatesman.com//wp-json/wp/v2/posts?search=
+************
+Q987234.json
+327
+Dörmögő_Dömötör
+children's magazine
+http://www.dormogodomotor.hu
+http://www.dormogodomotor.hu
+Hungarian (Q9067)
+http://www.dormogodomotor.hu/wp-json/wp/v2/posts?search=
+************
+Q56236394.json
+328
+La_Oferta
+Newspaper published in San Jose
+http://www.laoferta.com/
+http://www.laoferta.com/
+None
+http://www.laoferta.com//wp-json/wp/v2/posts?search=
+************
+Q2066673.json
+329
+The_Siasat_Daily
+Indian Urdu-language newspaper
+http://www.siasat.com
+http://www.siasat.com
+Hyderabad (Q1361)
+http://www.siasat.com/wp-json/wp/v2/posts?search=
+************
+Q116262253.json
+330
+Diario_de_España
+Newspaper of Spain
+https://www.diariodeespana.es
+https://www.diariodeespana.es
+None
+https://www.diariodeespana.es/wp-json/wp/v2/posts?search=
+************
+Q1157195.json
+331
+DV_(newspaper)
+Icelandic newspaper
+http://www.dv.is/
+http://www.dv.is/
+Icelandic (Q294)
+http://www.dv.is//wp-json/wp/v2/posts?search=
+************
+Q7395702.json
+332
+Saarte_Hääl
+Estonian newspaper
+http://www.saartehaal.ee
+http://www.saartehaal.ee
+Estonian (Q9072)
+http://www.saartehaal.ee/wp-json/wp/v2/posts?search=
+************
+Q11041146.json
+333
+Harju_Elu
+Estonian newspaper
+http://www.harjuelu.ee
+http://www.harjuelu.ee
+Estonian (Q9072)
+http://www.harjuelu.ee/wp-json/wp/v2/posts?search=
+************
+Q106775674.json
+334
+Samoyiki
+Bengali News Portal from Norway
+https://samoyiki.com
+https://samoyiki.com
+Bengali (Q9610)
+https://samoyiki.com/wp-json/wp/v2/posts?search=
+************
+Q4927359.json
+335
+Blog_del_Narco
+Citizen journalism website documenting the Mexican drug war
+https://blogdelnarcomexico.top
+https://blogdelnarcomexico.top
+Spanish (Q1321)
+https://blogdelnarcomexico.top/wp-json/wp/v2/posts?search=
+************
+Q85845666.json
+336
+Co-op_News
+Co-operative newspaper
+https://www.thenews.coop/
+https://www.thenews.coop/
+English (Q1860)
+https://www.thenews.coop//wp-json/wp/v2/posts?search=
+************
+Q3211148.json
+337
+La_Nouvelle_Tribune
+newspaper in Morocco
+https://lnt.ma/
+https://lnt.ma/
+French (Q150)
+https://lnt.ma//wp-json/wp/v2/posts?search=
+************
+Q112168954.json
+338
+The_Chenab_Times
+Digital news and activist organisation
+https://thechenabtimes.com
+https://thechenabtimes.com
+None
+https://thechenabtimes.com/wp-json/wp/v2/posts?search=
+************
+Q6827421.json
+339
+Miami_SunPost
+newspaper
+https://miamisunpost.net/
+https://miamisunpost.net/
+None
+https://miamisunpost.net//wp-json/wp/v2/posts?search=
+************
+Q55671036.json
+340
+Elizabethton_Star
+newspaper published in Elizabethton
+https://www.elizabethton.com/
+https://www.elizabethton.com/
+None
+https://www.elizabethton.com//wp-json/wp/v2/posts?search=
+************
+Q2076422.json
+341
+Chicago_Reader
+Alternative weekly newspaper in Chicago
+http://www.chicagoreader.com/
+http://www.chicagoreader.com/
+English (Q1860)
+http://www.chicagoreader.com//wp-json/wp/v2/posts?search=
+************
+Q16208127.json
+342
+Al_Alam_Al_Youm
+Arabic business newspaper in Egypt
+https://alalamelyoum.co
+https://alalamelyoum.co
+Arabic (Q13955)
+https://alalamelyoum.co/wp-json/wp/v2/posts?search=
+************
+Q7767878.json
+343
+The_Tablet_(Brooklyn)
+American newspaper
+http://thetablet.org/
+http://thetablet.org/
+English (Q1860)
+http://thetablet.org//wp-json/wp/v2/posts?search=
+************
+Q108884001.json
+344
+Voxeurop
+News website
+https://voxeurop.eu/en/
+https://voxeurop.eu/en/
+['English (Q1860)', 'French (Q150)', 'Dutch (Q7411)', 'German (Q188)', 'Spanish (Q1321)', 'Italian (Q652)', 'Portuguese (Q5146)', 'Polish (Q809)', 'Romanian (Q7913)', 'Czech (Q9056)']
+https://voxeurop.eu/en//wp-json/wp/v2/posts?search=
+************
+Q25441746.json
+345
+Nash_Den
+newspaper
+http://nday.te.ua/
+http://nday.te.ua/
+Ukrainian (Q8798)
+http://nday.te.ua//wp-json/wp/v2/posts?search=
+************
+Q5639733.json
+346
+The_Haitian_Times
+Newspaper for the Haitian diaspora in New York City
+http://haitiantimes.com/
+http://haitiantimes.com/
+English (Q1860)
+http://haitiantimes.com//wp-json/wp/v2/posts?search=
+************
+Q5251432.json
+347
+Defense_Update
+Israeli defense magazine
+http://www.defense-update.com/
+http://www.defense-update.com/
+None
+http://www.defense-update.com//wp-json/wp/v2/posts?search=
+************
+Q16958261.json
+348
+Garden_City_Telegram
+newspaper in Garden City, Kansas
+http://www.gctelegram.com
+http://www.gctelegram.com
+None
+http://www.gctelegram.com/wp-json/wp/v2/posts?search=
+************
+Q7059042.json
+349
+Northern_Territory_News
+Australian morning tabloid newspaper
+http://www.ntnews.com.au/
+http://www.ntnews.com.au/
+None
+http://www.ntnews.com.au//wp-json/wp/v2/posts?search=
+************
+Q55635084.json
+350
+The_Bull_&_Bear
+newspaper in Canada
+http://www.bullandbearmcgill.com/
+http://www.bullandbearmcgill.com/
+None
+http://www.bullandbearmcgill.com//wp-json/wp/v2/posts?search=
+************
+Q7760823.json
+351
+The_Rio_Times
+Brazilian English-language newspaper
+https://www.riotimesonline.com/
+https://www.riotimesonline.com/
+English (Q1860)
+https://www.riotimesonline.com//wp-json/wp/v2/posts?search=
+************
+Q7762191.json
+352
+The_San_Bernardino_Sun
+Newspaper in San Bernardino, California, United States
+https://www.sbsun.com/
+https://www.sbsun.com/
+None
+https://www.sbsun.com//wp-json/wp/v2/posts?search=
+************
+Q113995871.json
+353
+El_Debate
+Argentine newspaper
+https://www.eldebate.com.ar/
+https://www.eldebate.com.ar/
+None
+https://www.eldebate.com.ar//wp-json/wp/v2/posts?search=
+************
+Q11403930.json
+354
+North_American_Post
+Japanese-language American newspaper
+http://www.napost.com/
+http://www.napost.com/
+Japanese (Q5287)
+http://www.napost.com//wp-json/wp/v2/posts?search=
+************
+Q5165605.json
+355
+East_Bay_Times
+California newspaper
+https://www.eastbaytimes.com/
+https://www.eastbaytimes.com/
+English (Q1860)
+https://www.eastbaytimes.com//wp-json/wp/v2/posts?search=
+************
+Q4182336.json
+356
+The_Zanbaikalian_worker
+daily regional socio-political newspaper
+https://zabrab75.ru/
+https://zabrab75.ru/
+None
+https://zabrab75.ru//wp-json/wp/v2/posts?search=
+************
+Q16943304.json
+357
+Premium_Times
+Nigerian online newspaper
+https://premiumtimesng.com
+https://premiumtimesng.com
+None
+https://premiumtimesng.com/wp-json/wp/v2/posts?search=
+************
+Q7488405.json
+358
+Shanghai_Business_Review
+newspaper
+http://www.SBRChina.com
+http://www.SBRChina.com
+English (Q1860)
+http://www.SBRChina.com/wp-json/wp/v2/posts?search=
+************
+Q18549368.json
+359
+Zi_de_zi
+newspaper in Romania
+https://www.zi-de-zi.ro
+https://www.zi-de-zi.ro
+Romanian (Q7913)
+https://www.zi-de-zi.ro/wp-json/wp/v2/posts?search=
+************
+Q11917097.json
+360
+Diari_de_Sabadell
+Catalan local journal
+http://www.diaridesabadell.com/
+http://www.diaridesabadell.com/
+['Catalan (Q7026)', 'Spanish (Q1321)', 'multiple languages (Q20923490)']
+http://www.diaridesabadell.com//wp-json/wp/v2/posts?search=
+************
+Q7766250.json
+361
+The_Star-News_(Chula_Vista,_California)
+Community newspaper in Southern California
+http://www.thestarnews.com/
+http://www.thestarnews.com/
+None
+http://www.thestarnews.com//wp-json/wp/v2/posts?search=
+************
+Q3989252.json
+362
+The_Shillong_Times
+English-language newspaper in Meghalaya, India
+http://theshillongtimes.com/
+http://theshillongtimes.com/
+English (Q1860)
+http://theshillongtimes.com//wp-json/wp/v2/posts?search=
+************
+Q19599801.json
+363
+Talár_(newspaper)
+Pakistani Newspaper
+https://talarbrahui.com/
+https://talarbrahui.com/
+Brahui (Q33202)
+https://talarbrahui.com//wp-json/wp/v2/posts?search=
+************
+Q110812161.json
+364
+Contre_Attaque
+French-speaking newspaper
+https://contre-attaque.net
+https://contre-attaque.net
+French (Q150)
+https://contre-attaque.net/wp-json/wp/v2/posts?search=
+************
+Q6385306.json
+365
+Keizertimes
+newspaper in Keizer, Oregon
+http://keizertimes.com
+http://keizertimes.com
+None
+http://keizertimes.com/wp-json/wp/v2/posts?search=
+************
+Q7773641.json
+366
+The_Washington_Informer
+Newspaper in Washington, D.C.
+https://www.washingtoninformer.com/
+https://www.washingtoninformer.com/
+English (Q1860)
+https://www.washingtoninformer.com//wp-json/wp/v2/posts?search=
+************
+Q7719539.json
+367
+The_Bowdoin_Orient
+Student newspaper of Bowdoin College
+http://bowdoinorient.com
+http://bowdoinorient.com
+None
+http://bowdoinorient.com/wp-json/wp/v2/posts?search=
+************
+Q4754218.json
+368
+Anderson_Valley_Advertiser
+newspaper in Bodega Bay, California
+http://theava.com/
+http://theava.com/
+None
+http://theava.com//wp-json/wp/v2/posts?search=
+************
+Q7758014.json
+369
+The_Pratt_Tribune
+newspaper in Pratt, Kansas
+http://www.pratttribune.com
+http://www.pratttribune.com
+English (Q1860)
+http://www.pratttribune.com/wp-json/wp/v2/posts?search=
+************
+Q59472098.json
+370
+The_Chicago_Crusader
+Black newspaper published in Chicago, Illinois
+https://chicagocrusader.com/
+https://chicagocrusader.com/
+None
+https://chicagocrusader.com//wp-json/wp/v2/posts?search=
+************
+Q55667099.json
+371
+Grafton_News
+newspaper published in Grafton, Massachusetts
+https://thegraftonnews.com
+https://thegraftonnews.com
+None
+https://thegraftonnews.com/wp-json/wp/v2/posts?search=
+************
+Q6488799.json
+372
+Larchmont_Chronicle
+newspaper in Los Angeles, California
+http://www.larchmontchronicle.com
+http://www.larchmontchronicle.com
+None
+http://www.larchmontchronicle.com/wp-json/wp/v2/posts?search=
+************
+Q7337942.json
+373
+River_View_Observer
+newspaper
+http://riverviewobserver.net
+http://riverviewobserver.net
+None
+http://riverviewobserver.net/wp-json/wp/v2/posts?search=
+************
+Q28126643.json
+374
+Tennessee_Tribune
+US newspaper
+https://tntribune.com/
+https://tntribune.com/
+English (Q1860)
+https://tntribune.com//wp-json/wp/v2/posts?search=
+************
+Q5267430.json
+375
+Devils_Lake_Journal
+Newspaper in Devils Lake, North Dakota
+http://www.devilslakejournal.com
+http://www.devilslakejournal.com
+None
+http://www.devilslakejournal.com/wp-json/wp/v2/posts?search=
+************
+Q55615930.json
+376
+Khmer_Times
+newspaper
+https://www.khmertimeskh.com/
+https://www.khmertimeskh.com/
+None
+https://www.khmertimeskh.com//wp-json/wp/v2/posts?search=
+************
+Q88179181.json
+377
+MrFixitsTips
+newspaper
+https://mrfixitstips.co.uk/
+https://mrfixitstips.co.uk/
+None
+https://mrfixitstips.co.uk//wp-json/wp/v2/posts?search=
+************
+Q3338559.json
+378
+Gazeta_Shqiptare
+Newspaper in Albania
+http://www.gsh.al/
+http://www.gsh.al/
+Albanian (Q8748)
+http://www.gsh.al//wp-json/wp/v2/posts?search=
+************
+Q6840765.json
+379
+Mid-North_Monitor
+Canadian weekly newspaper
+http://www.midnorthmonitor.com
+http://www.midnorthmonitor.com
+None
+http://www.midnorthmonitor.com/wp-json/wp/v2/posts?search=
+************
+Q8071383.json
+380
+Ziarul_de_Gardă
+newspaper
+http://www.zdg.md
+http://www.zdg.md
+Romanian (Q7913)
+http://www.zdg.md/wp-json/wp/v2/posts?search=
+************
+Q7405681.json
+381
+Salon_Seudun_Sanomat
+Finnish newspaper published in Salo
+https://www.sss.fi/
+https://www.sss.fi/
+Finnish (Q1412)
+https://www.sss.fi//wp-json/wp/v2/posts?search=
+************
+Q7330946.json
+382
+Richmond_Post
+newspaper in Oakland, California
+http://www.postnewsgroup.com/
+http://www.postnewsgroup.com/
+None
+http://www.postnewsgroup.com//wp-json/wp/v2/posts?search=
+************
+Q3514406.json
+383
+Tal_Cual
+Newspaper in Venezuela
+http://www.talcualdigital.com
+http://www.talcualdigital.com
+Spanish (Q1321)
+http://www.talcualdigital.com/wp-json/wp/v2/posts?search=
+************
+Q7902485.json
+384
+Utah_Stories
+newspaper in Salt Lake City, Utah
+http://utahstories.com
+http://utahstories.com
+None
+http://utahstories.com/wp-json/wp/v2/posts?search=
+************
+Q5350789.json
+385
+El_Ayem_El_Djazairia
+newspaper in Algeria
+https://www.elayemdz.com/
+https://www.elayemdz.com/
+Arabic (Q13955)
+https://www.elayemdz.com//wp-json/wp/v2/posts?search=
+************
+Q16592806.json
+386
+Los_Andes
+peruvian newspaper
+http://www.losandes.com.pe/
+http://www.losandes.com.pe/
+Spanish (Q1321)
+http://www.losandes.com.pe//wp-json/wp/v2/posts?search=
+************
+Q16961233.json
+387
+Long_Island_Exchange
+newspaper
+http://www.longislandexchange.com/
+http://www.longislandexchange.com/
+None
+http://www.longislandexchange.com//wp-json/wp/v2/posts?search=
+************
+Q18932478.json
+388
+Starshel_(magazine)
+newspaper in Bulgaria
+http://www.starshel.bg/
+http://www.starshel.bg/
+Bulgarian (Q7918)
+http://www.starshel.bg//wp-json/wp/v2/posts?search=
+************
+Q5964485.json
+389
+La_Nación
+Newspaper from Venezuela
+https://lanacionweb.com/
+https://lanacionweb.com/
+Spanish (Q1321)
+https://lanacionweb.com//wp-json/wp/v2/posts?search=
+************
+Q7058984.json
+390
+Northern_Star_(Northern_Illinois_University)
+newspaper of Northern Illinois University
+http://northernstar.info
+http://northernstar.info
+None
+http://northernstar.info/wp-json/wp/v2/posts?search=
+************
+Q7752466.json
+391
+The_Mount_Airy_News
+newspaper based in Mount Airy, North Carolina, U.S.
+http://www.mtairynews.com
+http://www.mtairynews.com
+None
+http://www.mtairynews.com/wp-json/wp/v2/posts?search=
+************
+Q4949603.json
+392
+Boulder_Weekly
+newspaper in Boulder, Colorado
+http://boulderweekly.com/
+http://boulderweekly.com/
+None
+http://boulderweekly.com//wp-json/wp/v2/posts?search=
+************
+Q55622478.json
+393
+Mature_Times
+Newspaper Company
+https://www.maturetimes.co.uk
+https://www.maturetimes.co.uk
+English (Q1860)
+https://www.maturetimes.co.uk/wp-json/wp/v2/posts?search=
+************
+Q7515908.json
+394
+Silver_City_Daily_Press_and_Independent
+Daily newspaper in Silver City, New Mexico
+http://scdailypress.com
+http://scdailypress.com
+English (Q1860)
+http://scdailypress.com/wp-json/wp/v2/posts?search=
+************
+Q116788204.json
+395
+Pelham_Examiner
+youth-run newspaper in Pelham, New York
+https://pelhamexaminer.com/
+https://pelhamexaminer.com/
+None
+https://pelhamexaminer.com//wp-json/wp/v2/posts?search=
+************
+Q7023684.json
+396
+Niagara_Falls_Reporter
+newspaper in Niagara Falls, New York
+http://www.niagarafallsreporter.com/
+http://www.niagarafallsreporter.com/
+None
+http://www.niagarafallsreporter.com//wp-json/wp/v2/posts?search=
+************
+Q113819021.json
+397
+Dainik_Agniban
+None
+https://www.agniban.com/
+https://www.agniban.com/
+Hindi (Q1568)
+https://www.agniban.com//wp-json/wp/v2/posts?search=
+************
+Q7509015.json
+398
+Sidney_Daily_News
+Sidney, Ohio newspaper
+http://www.sidneydailynews.com
+http://www.sidneydailynews.com
+None
+http://www.sidneydailynews.com/wp-json/wp/v2/posts?search=
+************
+Q2325906.json
+399
+Kashmir_Observer
+newspaper
+http://kashmirobserver.net/index.php
+http://kashmirobserver.net/index.php
+English (Q1860)
+http://kashmirobserver.net/index.php/wp-json/wp/v2/posts?search=
+************
+Q5962678.json
+400
+La_Capital_(Mar_del_Plata)
+Argentine newspaper from Mar del Plata
+http://www.lacapitalmdp.com/
+http://www.lacapitalmdp.com/
+Spanish (Q1321)
+http://www.lacapitalmdp.com//wp-json/wp/v2/posts?search=
+************
+Q109803116.json
+401
+read_easy_language_news_Selkosanomat
+a newspaper published by the Finnish Selkokeskus
+https://selkosanomat.fi/
+https://selkosanomat.fi/
+['Finnish (Q1412)', 'Swedish (Q9027)']
+https://selkosanomat.fi//wp-json/wp/v2/posts?search=
+************
+Q6804295.json
+402
+Meath_Chronicle
+newspaper
+http://www.meathchronicle.ie/
+http://www.meathchronicle.ie/
+None
+http://www.meathchronicle.ie//wp-json/wp/v2/posts?search=
+************
+Q106181847.json
+403
+Daily_Trust
+daily newspaper published by Media Trust, a media organization based in Abuja, Nigeria
+https://dailytrust.com/
+https://dailytrust.com/
+None
+https://dailytrust.com//wp-json/wp/v2/posts?search=
+************
+Q55635319.json
+404
+The_Islander_(Australian_newspaper)
+newspaper published in Kingscote, South Australia
+https://www.theislanderonline.com.au/
+https://www.theislanderonline.com.au/
+English (Q1860)
+https://www.theislanderonline.com.au//wp-json/wp/v2/posts?search=
+************
+Q6475510.json
+405
+Lake_County_Record-Bee
+newspaper published in Lakeport
+https://www.record-bee.com/
+https://www.record-bee.com/
+None
+https://www.record-bee.com//wp-json/wp/v2/posts?search=
+************
+Q742091.json
+406
+Washington_Blade
+American LGBT newspaper
+https://washingtonblade.com/
+https://washingtonblade.com/
+English (Q1860)
+https://washingtonblade.com//wp-json/wp/v2/posts?search=
+************
+Q3204035.json
+407
+L'Impartial_de_la_Drôme
+French newspaper
+http://www.limpartial.fr
+http://www.limpartial.fr
+French (Q150)
+http://www.limpartial.fr/wp-json/wp/v2/posts?search=
+************
+Q180061.json
+408
+Anarchy:_A_Journal_of_Desire_Armed
+North American anarchist magazine
+http://www.anarchymag.org/
+http://www.anarchymag.org/
+English (Q1860)
+http://www.anarchymag.org//wp-json/wp/v2/posts?search=
+************
+Q6735705.json
+409
+Mail_Tribune
+Newspaper in Medford, Oregon
+https://mailtribune.com/
+https://mailtribune.com/
+None
+https://mailtribune.com//wp-json/wp/v2/posts?search=
+************
+Q56293251.json
+410
+Suara_Timor_Lorosae
+newspaper
+https://stlnews.co
+https://stlnews.co
+None
+https://stlnews.co/wp-json/wp/v2/posts?search=
+************
+Q114022318.json
+411
+Jat_Gazette
+Hindi language newspaper
+https://www.jatgazette.in
+https://www.jatgazette.in
+Hindi (Q1568)
+https://www.jatgazette.in/wp-json/wp/v2/posts?search=
+************
+Q7753085.json
+412
+The_Napanee_Guide
+newspaper in Canada
+http://www.napaneeguide.com
+http://www.napaneeguide.com
+None
+http://www.napaneeguide.com/wp-json/wp/v2/posts?search=
+************
+Q3226220.json
+413
+Le_Québécois
+Political newspaper in Quebec City, Canada
+http://lequebecois.org/
+http://lequebecois.org/
+French (Q150)
+http://lequebecois.org//wp-json/wp/v2/posts?search=
+************
+Q18164130.json
+414
+Colac_Herald
+Australian periodical
+http://www.colacherald.com.au//
+http://www.colacherald.com.au//
+None
+http://www.colacherald.com.au///wp-json/wp/v2/posts?search=
+************
+Q108300904.json
+415
+Diario_UNO
+Peruvian journal
+https://diariouno.pe/
+https://diariouno.pe/
+None
+https://diariouno.pe//wp-json/wp/v2/posts?search=
+************
+Q7751255.json
+416
+The_Michigan_Times
+Newspaper in Flint, Michigan
+http://www.themichigantimes.com/
+http://www.themichigantimes.com/
+None
+http://www.themichigantimes.com//wp-json/wp/v2/posts?search=
+************
+Q16849721.json
+417
+Business_Bhutan
+Financial newspaper in Bhutan
+http://www.businessbhutan.bt
+http://www.businessbhutan.bt
+None
+http://www.businessbhutan.bt/wp-json/wp/v2/posts?search=
+************
+Q7032887.json
+418
+Nigerian_Compass
+Nigerian newspaper
+http://www.compassnewspaper.com.ng/
+http://www.compassnewspaper.com.ng/
+None
+http://www.compassnewspaper.com.ng//wp-json/wp/v2/posts?search=
+************
+Q77071263.json
+419
+Documento
+Greek newspaper
+https://www.documentonews.gr/
+https://www.documentonews.gr/
+Greek (Q9129)
+https://www.documentonews.gr//wp-json/wp/v2/posts?search=
+************
+Q17086738.json
+420
+The_Times-Gazette
+American newspaper in Hillsboro, Ohio
+http://www.timesgazette.com/
+http://www.timesgazette.com/
+None
+http://www.timesgazette.com//wp-json/wp/v2/posts?search=
+************
+Q697337.json
+421
+China_Daily_News_(Taiwan)
+periodical literature
+http://www.cdns.com.tw
+http://www.cdns.com.tw
+None
+http://www.cdns.com.tw/wp-json/wp/v2/posts?search=
+************
+Q1140177.json
+422
+New_York_Amsterdam_News
+African-American newspaper from Harlem, Manhattan
+http://amsterdamnews.com
+http://amsterdamnews.com
+English (Q1860)
+http://amsterdamnews.com/wp-json/wp/v2/posts?search=
+************
+Q4805242.json
+423
+Ashland_Daily_Tidings
+newspaper in Ashland, Oregon
+http://www.dailytidings.com/
+http://www.dailytidings.com/
+English (Q1860)
+http://www.dailytidings.com//wp-json/wp/v2/posts?search=
+************
+Q3082692.json
+424
+Pajhwok_Afghan_News
+News agency in Afghanistan
+http://www.Pajhwok.com
+http://www.Pajhwok.com
+None
+http://www.Pajhwok.com/wp-json/wp/v2/posts?search=
+************
+Q110863831.json
+425
+The_Scottish_Sun
+Scottish version of the tabloid newspaper The Sun
+https://www.thescottishsun.co.uk/
+https://www.thescottishsun.co.uk/
+English (Q1860)
+https://www.thescottishsun.co.uk//wp-json/wp/v2/posts?search=
+************
+Q19572270.json
+426
+Janam_Sakshi
+Telugu language newspaper
+http://janamsakshi.org/
+http://janamsakshi.org/
+Telugu (Q8097)
+http://janamsakshi.org//wp-json/wp/v2/posts?search=
+************
+Q18148674.json
+427
+Artvoice
+newspaper in Buffalo, New York
+http://artvoice.com/
+http://artvoice.com/
+None
+http://artvoice.com//wp-json/wp/v2/posts?search=
+************
+Q28039375.json
+428
+Gujarat_Mitra
+Major Gujarati news paper published in South Gujarat.
+http://www.gujaratmitra.in/
+http://www.gujaratmitra.in/
+Gujarati (Q5137)
+http://www.gujaratmitra.in//wp-json/wp/v2/posts?search=
+************
+Q5315642.json
+429
+Dunoon_Observer_and_Argyllshire_Standard
+Local newspaper in the United Kingdom
+http://www.dunoon-observer.com/
+http://www.dunoon-observer.com/
+English (Q1860)
+http://www.dunoon-observer.com//wp-json/wp/v2/posts?search=
+************
+Q876158.json
+430
+The_Village_Voice
+American weekly newspaper
+http://www.villagevoice.com/
+http://www.villagevoice.com/
+English (Q1860)
+http://www.villagevoice.com//wp-json/wp/v2/posts?search=
+************
+Q28174199.json
+431
+Telangana_Today
+English language newspaper in India
+http://telanganatoday.com
+http://telanganatoday.com
+English (Q1860)
+http://telanganatoday.com/wp-json/wp/v2/posts?search=
+************
+Q16992309.json
+432
+El_Planeta
+Boston-based Spanish language newspaper
+http://elplaneta.com/
+http://elplaneta.com/
+Spanish (Q1321)
+http://elplaneta.com//wp-json/wp/v2/posts?search=
+************
+Q2768808.json
+433
+Bombay_Samachar
+Indian newspaper
+http://bombaysamachar.com/
+http://bombaysamachar.com/
+Gujarati (Q5137)
+http://bombaysamachar.com//wp-json/wp/v2/posts?search=
+************
+Q13447162.json
+434
+Daily_Democrat
+Newspaper in Woodland, California, United States
+https://www.dailydemocrat.com/
+https://www.dailydemocrat.com/
+English (Q1860)
+https://www.dailydemocrat.com//wp-json/wp/v2/posts?search=
+************
+Q5555470.json
+435
+Ghanaian_Times
+newspaper in Ghana
+https://www.ghanaiantimes.com.gh
+https://www.ghanaiantimes.com.gh
+English (Q1860)
+https://www.ghanaiantimes.com.gh/wp-json/wp/v2/posts?search=
+************
+Q569851.json
+436
+Shekulli
+Newspaper
+http://www.shekulli.com.al
+http://www.shekulli.com.al
+Albanian (Q8748)
+http://www.shekulli.com.al/wp-json/wp/v2/posts?search=
+************
+Q4836823.json
+437
+BVI_Beacon
+newspaper
+http://www.bvibeacon.com
+http://www.bvibeacon.com
+None
+http://www.bvibeacon.com/wp-json/wp/v2/posts?search=
+************
+Q111782049.json
+438
+The_US_Inquirer
+Newspaper based in Oklahoma City, OK
+https://www.us-inquirer.com
+https://www.us-inquirer.com
+English (Q1860)
+https://www.us-inquirer.com/wp-json/wp/v2/posts?search=
+************
+Q17775334.json
+439
+Frostingen
+newspaper in Frosta, Norway
+http://www.frostingen.no/
+http://www.frostingen.no/
+Norwegian (Q9043)
+http://www.frostingen.no//wp-json/wp/v2/posts?search=
+************
+Q87116212.json
+440
+El_Orbe
+Mexican news website
+http://elorbe.com/
+http://elorbe.com/
+Spanish (Q1321)
+http://elorbe.com//wp-json/wp/v2/posts?search=
+************
+Q292479.json
+441
+Al-Watan_(Syria)
+Syrian Arabic language daily newspaper published in Syria
+http://alwatan.sy
+http://alwatan.sy
+Arabic (Q13955)
+http://alwatan.sy/wp-json/wp/v2/posts?search=
+************
+Q6413613.json
+442
+Kingston_This_Week
+newspaper
+http://www.kingstonthisweek.com
+http://www.kingstonthisweek.com
+None
+http://www.kingstonthisweek.com/wp-json/wp/v2/posts?search=
+************
+Q7812147.json
+443
+Today's_Farmer
+newspaper in Canada
+http://www.todaysfarmer.ca
+http://www.todaysfarmer.ca
+None
+http://www.todaysfarmer.ca/wp-json/wp/v2/posts?search=
+************
+Q7728663.json
+444
+The_Daily_Iowan
+University of Iowa student newspaper
+http://daily-iowan.com/
+http://daily-iowan.com/
+None
+http://daily-iowan.com//wp-json/wp/v2/posts?search=
+************
+Q17014199.json
+445
+Tripoli_Post
+newspaper
+http://www.tripolipost.com/
+http://www.tripolipost.com/
+None
+http://www.tripolipost.com//wp-json/wp/v2/posts?search=
+************
+Q16920458.json
+446
+Hong_Kong_Post_(newspaper)
+Japanese-language newspaper in Hong Kong
+https://hkmn.jp/
+https://hkmn.jp/
+None
+https://hkmn.jp//wp-json/wp/v2/posts?search=
+************
+Q10967295.json
+447
+Nasha_Slova
+None
+http://www.nslowa.by/
+http://www.nslowa.by/
+Belarusian (Q9091)
+http://www.nslowa.by//wp-json/wp/v2/posts?search=
+************
+Q24196073.json
+448
+Daily_Post_(Nigeria)
+Nigerian online news website
+https://dailypost.ng/
+https://dailypost.ng/
+None
+https://dailypost.ng//wp-json/wp/v2/posts?search=
+************
+Q7732736.json
+449
+The_Examiner_(Missouri)
+newspaper in Independence, Missouri
+http://www.examiner.net
+http://www.examiner.net
+None
+http://www.examiner.net/wp-json/wp/v2/posts?search=
+************
+Q7740791.json
+450
+The_Hudson_Independent
+newspaper
+https://www.thehudsonindependent.com/
+https://www.thehudsonindependent.com/
+None
+https://www.thehudsonindependent.com//wp-json/wp/v2/posts?search=
+************
+Q55671148.json
+451
+Fort_Worth_Business_Press
+newspaper published in Fort Worth, Texas
+https://fortworthbusiness.com/
+https://fortworthbusiness.com/
+English (Q1860)
+https://fortworthbusiness.com//wp-json/wp/v2/posts?search=
+************
+Q4105264.json
+452
+Vatanym_Tatarstan
+Russian Tatar-language newspaper
+http://www.vatantat.ru
+http://www.vatantat.ru
+Tatar (Q25285)
+http://www.vatantat.ru/wp-json/wp/v2/posts?search=
+************
+Q56761625.json
+453
+The_Wellington_Advertiser
+Weekly newspaper for Wellington City.
+https://www.wellingtonadvertiser.com/
+https://www.wellingtonadvertiser.com/
+None
+https://www.wellingtonadvertiser.com//wp-json/wp/v2/posts?search=
+************
+Q12335683.json
+454
+Skive_Folkeblad
+Danish local daily newspaper
+http://www.skivefolkeblad.dk
+http://www.skivefolkeblad.dk
+None
+http://www.skivefolkeblad.dk/wp-json/wp/v2/posts?search=
+************
+Q16206907.json
+455
+The_Brandeis_Hoot
+Student newspaper of Brandeis University
+http://brandeishoot.com/
+http://brandeishoot.com/
+None
+http://brandeishoot.com//wp-json/wp/v2/posts?search=
+************
+Q55639354.json
+456
+Bradford_Journal-Opinion
+newspaper published in Bradford
+http://jonews.com
+http://jonews.com
+None
+http://jonews.com/wp-json/wp/v2/posts?search=
+************
+Q56654041.json
+457
+Forbes
+Hungarian edition of Forbes magazine
+http://forbes.hu/
+http://forbes.hu/
+Hungarian (Q9067)
+http://forbes.hu//wp-json/wp/v2/posts?search=
+************
+Q2052218.json
+458
+Siraj_Daily
+newspaper
+http://www.sirajlive.com
+http://www.sirajlive.com
+Malayalam (Q36236)
+http://www.sirajlive.com/wp-json/wp/v2/posts?search=
+************
+Q14476278.json
+459
+Taiwan_Daily
+newspaper
+http://www.taiwandaily.net/
+http://www.taiwandaily.net/
+None
+http://www.taiwandaily.net//wp-json/wp/v2/posts?search=
+************
+Q55635430.json
+460
+The_North_Central_Review_(Newspaper)
+newspaper
+http://ncreview.com.au
+http://ncreview.com.au
+None
+http://ncreview.com.au/wp-json/wp/v2/posts?search=
+************
+Q18358323.json
+461
+Shukan_NY_Seikatsu
+newspaper
+https://www.nyseikatsu.com/
+https://www.nyseikatsu.com/
+Japanese (Q5287)
+https://www.nyseikatsu.com//wp-json/wp/v2/posts?search=
+************
+Q7767316.json
+462
+The_Sun_(Nigeria)
+Nigerian daily print newspaper
+https://www.sunnewsonline.com/
+https://www.sunnewsonline.com/
+English (Q1860)
+https://www.sunnewsonline.com//wp-json/wp/v2/posts?search=
+************
+Q18659840.json
+463
+Kansan_Tahto
+socialist newspaper in Oulu, Finland
+http://www.kansantahto.fi/
+http://www.kansantahto.fi/
+Finnish (Q1412)
+http://www.kansantahto.fi//wp-json/wp/v2/posts?search=
+************
+Q15043310.json
+464
+The_Nenagh_Guardian
+weekly newspaper in County Tipperary, Ireland
+https://www.nenaghguardian.ie/
+https://www.nenaghguardian.ie/
+None
+https://www.nenaghguardian.ie//wp-json/wp/v2/posts?search=
+************
+Q11855967.json
+465
+Demokraatti
+A daily newspaper in Finland
+https://demokraatti.fi/
+https://demokraatti.fi/
+Finnish (Q1412)
+https://demokraatti.fi//wp-json/wp/v2/posts?search=
+************
+Q108839210.json
+466
+Dalton_Gazette_&_Kidron_News
+newspaper from Dalton, Ohio
+https://www.daltonkidronnews.com/
+https://www.daltonkidronnews.com/
+English (Q1860)
+https://www.daltonkidronnews.com//wp-json/wp/v2/posts?search=
+************
+Q7739683.json
+467
+The_Hill_(newspaper)
+American political newspaper and website
+https://thehill.com/
+https://thehill.com/
+English (Q1860)
+https://thehill.com//wp-json/wp/v2/posts?search=
+************
+Q7767165.json
+468
+The_Suburban_Times
+newspaper
+http://www.thesubtimes.com
+http://www.thesubtimes.com
+None
+http://www.thesubtimes.com/wp-json/wp/v2/posts?search=
+************
+Q7727832.json
+469
+The_Courier_(Dundee)
+Newspaper published by DC Thomson in Dundee, Scotland
+http://www.thecourier.co.uk
+http://www.thecourier.co.uk
+None
+http://www.thecourier.co.uk/wp-json/wp/v2/posts?search=
+************
+Q114061908.json
+470
+Krishak_Jagat
+Indian newspaper
+https://www.krishakjagat.org/
+https://www.krishakjagat.org/
+Hindi (Q1568)
+https://www.krishakjagat.org//wp-json/wp/v2/posts?search=
+************
+Q2826234.json
+471
+Baltimore_Afro-American
+Newspaper in Baltimore, Maryland
+http://www.afro.com/
+http://www.afro.com/
+English (Q1860)
+http://www.afro.com//wp-json/wp/v2/posts?search=
+************
+Q493500.json
+472
+The_Namibian
+Independent newspaper in Namibia
+http://www.namibian.com.na/
+http://www.namibian.com.na/
+English (Q1860)
+http://www.namibian.com.na//wp-json/wp/v2/posts?search=
+************
+Q4833191.json
+473
+Azzaman
+Iraqi newspaper
+http://www.azzaman.com/
+http://www.azzaman.com/
+None
+http://www.azzaman.com//wp-json/wp/v2/posts?search=
+************
+Q17007824.json
+474
+Le_Journal_de_Tanger
+Moroccan daily newspaper
+http://www.lejournaldetanger.com/
+http://www.lejournaldetanger.com/
+French (Q150)
+http://www.lejournaldetanger.com//wp-json/wp/v2/posts?search=
+************
+Q109536916.json
+475
+Kosova24
+News and media website in Kosovo
+http://www.kosova-24.net/
+http://www.kosova-24.net/
+Albanian (Q8748)
+http://www.kosova-24.net//wp-json/wp/v2/posts?search=
+************
+Q57784607.json
+476
+The_Mountain_Times_(Vermont_newspaper)
+Newspaper in Killington, Vermont, US
+http://mountaintimes.info/
+http://mountaintimes.info/
+None
+http://mountaintimes.info//wp-json/wp/v2/posts?search=
+************
+Q1129098.json
+477
+Contraste
+German monthly newspaper
+http://www.contraste.org/
+http://www.contraste.org/
+None
+http://www.contraste.org//wp-json/wp/v2/posts?search=
+************
+Q7282746.json
+478
+Rafu_Shimpo
+Japanese-English newspaper in Los Angeles
+https://rafu.com
+https://rafu.com
+Japanese (Q5287)
+https://rafu.com/wp-json/wp/v2/posts?search=
+************
+Q2678346.json
+479
+Street_Sheet
+San Francisco newspaper
+http://www.streetsheet.org
+http://www.streetsheet.org
+None
+http://www.streetsheet.org/wp-json/wp/v2/posts?search=
+************
+Q48971346.json
+480
+El_Hispano
+US newspaper
+http://el-hispano.com
+http://el-hispano.com
+Spanish (Q1321)
+http://el-hispano.com/wp-json/wp/v2/posts?search=
+************
+Q7747362.json
+481
+The_Lima_News
+newspaper published in Lima, Ohio
+http://limaohio.com
+http://limaohio.com
+English (Q1860)
+http://limaohio.com/wp-json/wp/v2/posts?search=
+************
+Q55665251.json
+482
+Washington_County_News
+newspaper published in Chatom, Alabama
+https://www.washcountynews.com/
+https://www.washcountynews.com/
+None
+https://www.washcountynews.com//wp-json/wp/v2/posts?search=
+************
+Q2732010.json
+483
+Tamil_Murasu_(India)
+daily evening Tamil newspaper
+http://www.tamilmurasu.org/
+http://www.tamilmurasu.org/
+None
+http://www.tamilmurasu.org//wp-json/wp/v2/posts?search=
+************
+Q3781659.json
+484
+Nya_Åland
+newspaper published in Mariehamn, Åland, Finland
+https://www.nyan.ax
+https://www.nyan.ax
+Swedish (Q9027)
+https://www.nyan.ax/wp-json/wp/v2/posts?search=
+************
+Q4972296.json
+485
+Fourth_Estate_(George_Mason_University_newspaper)
+Student newspaper of George Mason University, Virginia
+http://www.BroadsideOnline.com
+http://www.BroadsideOnline.com
+English (Q1860)
+http://www.BroadsideOnline.com/wp-json/wp/v2/posts?search=
+************
+Q5642040.json
+486
+Haliburton_Echo
+newspaper in Canada
+http://www.haliburtonecho.ca
+http://www.haliburtonecho.ca
+None
+http://www.haliburtonecho.ca/wp-json/wp/v2/posts?search=
+************
+Q5087696.json
+487
+Chatham_This_Week
+newspaper in Canada
+http://www.chathamthisweek.ca
+http://www.chathamthisweek.ca
+None
+http://www.chathamthisweek.ca/wp-json/wp/v2/posts?search=
+************
+Q7838613.json
+488
+Trenton_Trentonian
+newspaper in Canada
+http://www.trentonian.ca/
+http://www.trentonian.ca/
+None
+http://www.trentonian.ca//wp-json/wp/v2/posts?search=
+************
+Q39058520.json
+489
+The_Clare_Champion
+newspaper
+https://clarechampion.ie/
+https://clarechampion.ie/
+None
+https://clarechampion.ie//wp-json/wp/v2/posts?search=
+************
+Q7900202.json
+490
+Urbana_Daily_Citizen
+newspaper in Urbana, Ohio
+http://www.urbanacitizen.com
+http://www.urbanacitizen.com
+None
+http://www.urbanacitizen.com/wp-json/wp/v2/posts?search=
+************
+Q25004884.json
+491
+Black_Voice_News
+Black American online newspaper
+https://blackvoicenews.com/
+https://blackvoicenews.com/
+English (Q1860)
+https://blackvoicenews.com//wp-json/wp/v2/posts?search=
+************
+Q16989077.json
+492
+Kincardine_News
+Canadian news service
+http://www.kincardinenews.com
+http://www.kincardinenews.com
+None
+http://www.kincardinenews.com/wp-json/wp/v2/posts?search=
+************
+Q444477.json
+493
+Prager_Zeitung
+newspaper
+http://www.pragerzeitung.cz
+http://www.pragerzeitung.cz
+German (Q188)
+http://www.pragerzeitung.cz/wp-json/wp/v2/posts?search=
+************
+Q1272546.json
+494
+Ny_Tid
+newspaper
+https://nytid.no
+https://nytid.no
+Norwegian (Q9043)
+https://nytid.no/wp-json/wp/v2/posts?search=
+************
+Q6426149.json
+495
+Koh_Santepheap_Daily
+newspaper
+https://kohsantepheapdaily.com.kh
+https://kohsantepheapdaily.com.kh
+Khmer (Q9205)
+https://kohsantepheapdaily.com.kh/wp-json/wp/v2/posts?search=
+************
+Q7355882.json
+496
+Rocky_Mountain_Collegian
+None
+http://www.collegian.com/
+http://www.collegian.com/
+None
+http://www.collegian.com//wp-json/wp/v2/posts?search=
+************
+Q7722394.json
+497
+The_Chicago_Maroon
+Student newspaper of the University of Chicago
+http://chicagomaroon.com
+http://chicagomaroon.com
+None
+http://chicagomaroon.com/wp-json/wp/v2/posts?search=
+************
+Q7264751.json
+498
+Përlindja_e_Shqipërisë
+newspaper in Albania
+http://www.pdiu.al/
+http://www.pdiu.al/
+Albanian (Q8748)
+http://www.pdiu.al//wp-json/wp/v2/posts?search=
+************
+Q12734693.json
+499
+Magazin_Sălăjean
+newspaper
+http://www.magazinsalajean.ro/index.php
+http://www.magazinsalajean.ro/index.php
+Romanian (Q7913)
+http://www.magazinsalajean.ro/index.php/wp-json/wp/v2/posts?search=
+************
+Q84816547.json
+500
+Muslim_News_Nigeria
+Islamic newspaper in Nigeria
+https://muslimnews.com.ng/
+https://muslimnews.com.ng/
+None
+https://muslimnews.com.ng//wp-json/wp/v2/posts?search=
+************
+Q4930968.json
+501
+BMA_Magazine
+Australian magazine
+http://www.bmamag.com/
+http://www.bmamag.com/
+English (Q1860)
+http://www.bmamag.com//wp-json/wp/v2/posts?search=
+************
+Q5595222.json
+502
+Grand_Valley_Lanthorn
+None
+http://www.lanthorn.com/
+http://www.lanthorn.com/
+None
+http://www.lanthorn.com//wp-json/wp/v2/posts?search=
+************
+Q63645128.json
+503
+El_Periódico_de_Monagas
+Venezuelan Newspaper
+https://elperiodicodemonagas.com.ve/
+https://elperiodicodemonagas.com.ve/
+Spanish (Q1321)
+https://elperiodicodemonagas.com.ve//wp-json/wp/v2/posts?search=
+************
+Q10339021.json
+504
+O_Diabo_(1977)
+Portuguese weekly newspaper
+https://jornaldiabo.com/
+https://jornaldiabo.com/
+Portuguese (Q5146)
+https://jornaldiabo.com//wp-json/wp/v2/posts?search=
+************
+Q3070871.json
+505
+Večer_(North_Macedonia)
+daily newspaper in Macedonia
+http://vecer.mk/
+http://vecer.mk/
+Macedonian (Q9296)
+http://vecer.mk//wp-json/wp/v2/posts?search=
+************
+Q16953299.json
+506
+Current_(newspaper)
+American trade journal that covers public broadcasting in the United States
+http://www.current.org/
+http://www.current.org/
+None
+http://www.current.org//wp-json/wp/v2/posts?search=
+************
+Q28126947.json
+507
+Dainik_Azadi
+Daily newspapers published in Bangladesh
+http://dainikazadi.net/
+http://dainikazadi.net/
+None
+http://dainikazadi.net//wp-json/wp/v2/posts?search=
+************
+Q55665789.json
+508
+Crested_Butte_News
+newspaper published in Crested Butte
+https://crestedbuttenews.com/
+https://crestedbuttenews.com/
+None
+https://crestedbuttenews.com//wp-json/wp/v2/posts?search=
+************
+Q5180043.json
+509
+Coyote_Chronicle
+None
+http://coyotechronicle.net/
+http://coyotechronicle.net/
+English (Q1860)
+http://coyotechronicle.net//wp-json/wp/v2/posts?search=
+************
+Q7760215.json
+510
+The_Reporter_(newspaper)
+newspaper in Palos Heights, Illinois
+http://www.thereporteronline.net
+http://www.thereporteronline.net
+None
+http://www.thereporteronline.net/wp-json/wp/v2/posts?search=
+************
+Q25345194.json
+511
+Az_Buki
+None
+http://www.azbuki.bg/
+http://www.azbuki.bg/
+Bulgarian (Q7918)
+http://www.azbuki.bg//wp-json/wp/v2/posts?search=
+************
+Q19864911.json
+512
+Atascadero_News
+Newspaper in Atascadero, California
+https://atascaderonews.com/
+https://atascaderonews.com/
+None
+https://atascaderonews.com//wp-json/wp/v2/posts?search=
+************
+Q5172353.json
+513
+CorpComms
+newspaper in United Kingdom
+https://www.corpcommsmagazine.co.uk/
+https://www.corpcommsmagazine.co.uk/
+English (Q1860)
+https://www.corpcommsmagazine.co.uk//wp-json/wp/v2/posts?search=
+************
+Q7580075.json
+514
+Spotlight_Newspapers
+newspaper in Albany, New York
+http://www.spotlightnews.com/
+http://www.spotlightnews.com/
+None
+http://www.spotlightnews.com//wp-json/wp/v2/posts?search=
+************
+Q7972010.json
+515
+Washington_Jewish_Week
+Newspaper in Rockville, Maryland
+http://www.washingtonjewishweek.com/
+http://www.washingtonjewishweek.com/
+English (Q1860)
+http://www.washingtonjewishweek.com//wp-json/wp/v2/posts?search=
+************
+Q1812075.json
+516
+National_Post
+Canadian national daily newspaper
+https://nationalpost.com/
+https://nationalpost.com/
+English (Q1860)
+https://nationalpost.com//wp-json/wp/v2/posts?search=
+************
+Q7751250.json
+517
+The_Michigan_Daily
+Newspaper in Ann Arbor, Michigan
+http://www.michigandaily.com/
+http://www.michigandaily.com/
+English (Q1860)
+http://www.michigandaily.com//wp-json/wp/v2/posts?search=
+************
+Q7715981.json
+518
+PantherNOW
+newspaper in Miami, Florida
+http://www.fiusm.com/
+http://www.fiusm.com/
+None
+http://www.fiusm.com//wp-json/wp/v2/posts?search=
+************
+Q7765875.json
+519
+The_Spinnaker
+None
+http://www.unfspinnaker.com/
+http://www.unfspinnaker.com/
+None
+http://www.unfspinnaker.com//wp-json/wp/v2/posts?search=
+************
+Q4295218.json
+520
+Minskiy_Kurier
+newspaper
+http://mk.by
+http://mk.by
+Russian (Q7737)
+http://mk.by/wp-json/wp/v2/posts?search=
+************
+Q7760709.json
+521
+The_Rider_News
+student newspaper of Rider University
+http://www.theridernews.com/
+http://www.theridernews.com/
+None
+http://www.theridernews.com//wp-json/wp/v2/posts?search=
+************
+Q98935343.json
+522
+The_Greek_Herald
+Greek-language newspaper in Australia
+http://greekherald.com.au
+http://greekherald.com.au
+Greek (Q9129)
+http://greekherald.com.au/wp-json/wp/v2/posts?search=
+************
+Q7728626.json
+523
+The_Daily_Campus
+Student newspaper at the University of Connecitcut
+http://dailycampus.com
+http://dailycampus.com
+None
+http://dailycampus.com/wp-json/wp/v2/posts?search=
+************
+Q56236703.json
+524
+Jackson_County_Pilot
+newspaper published in Jackson, Minnesota
+https://www.jacksoncountypilot.com/
+https://www.jacksoncountypilot.com/
+None
+https://www.jacksoncountypilot.com//wp-json/wp/v2/posts?search=
+************
+Q17027760.json
+525
+The_Recorder_(Port_Pirie)
+Australian newspaper
+http://www.portpirierecorder.com.au
+http://www.portpirierecorder.com.au
+None
+http://www.portpirierecorder.com.au/wp-json/wp/v2/posts?search=
+************
+Q4822604.json
+526
+Sentinel_Colorado
+newspaper in Aurora, Colorado
+http://www.sentinelcolorado.com/
+http://www.sentinelcolorado.com/
+None
+http://www.sentinelcolorado.com//wp-json/wp/v2/posts?search=
+************
+Q5351252.json
+527
+El_Expreso_de_la_Costa
+Chilean monthly newspaper
+http://www.expresodelacosta.cl
+http://www.expresodelacosta.cl
+Spanish (Q1321)
+http://www.expresodelacosta.cl/wp-json/wp/v2/posts?search=
+************
+Q7726548.json
+528
+The_Coaster
+Newspaper published in Asbury Park, New Jersey
+http://thecoaster.net/wordpress/
+http://thecoaster.net/wordpress/
+None
+http://thecoaster.net/wordpress//wp-json/wp/v2/posts?search=
+************
+Q7728654.json
+529
+Daily_Guardian_(Iloilo)
+newspaper
+https://thedailyguardian.net
+https://thedailyguardian.net
+None
+https://thedailyguardian.net/wp-json/wp/v2/posts?search=
+************
+Q7729643.json
+530
+The_Delaware_Gazette
+newspaper in Delaware, Ohio
+https://www.delgazette.com/
+https://www.delgazette.com/
+English (Q1860)
+https://www.delgazette.com//wp-json/wp/v2/posts?search=
+************
+Q30325395.json
+531
+Rabwah_Times
+news publication providing its readers with news, opinion, and analysis from Pakistan and around the world
+http://www.rabwah.net/
+http://www.rabwah.net/
+English (Q1860)
+http://www.rabwah.net//wp-json/wp/v2/posts?search=
+************
+Q5013308.json
+532
+COINage
+American magazine
+http://www.coinagemag.com/
+http://www.coinagemag.com/
+English (Q1860)
+http://www.coinagemag.com//wp-json/wp/v2/posts?search=
+************
+Q7513649.json
+533
+Daily_Jasarat
+Pakistani newspaper
+http://www.jasarat.com
+http://www.jasarat.com
+Urdu (Q1617)
+http://www.jasarat.com/wp-json/wp/v2/posts?search=
+************
+Q60761792.json
+534
+Boca_Beacon
+American newspaper based in Boca Grande
+http://bocabeacon.com
+http://bocabeacon.com
+None
+http://bocabeacon.com/wp-json/wp/v2/posts?search=
+************
+Q63490164.json
+535
+El_Clarín_(Venezuela)
+Venezuelan Newspaper
+http://www.elclarinweb.com
+http://www.elclarinweb.com
+None
+http://www.elclarinweb.com/wp-json/wp/v2/posts?search=
+************
+Q3224731.json
+536
+Saamana
+Marathi-language newspaper published in India
+http://www.saamana.com/
+http://www.saamana.com/
+Marathi (Q1571)
+http://www.saamana.com//wp-json/wp/v2/posts?search=
+************
+Q3012456.json
+537
+Dallas_Voice
+US newspaper
+http://www.dallasvoice.com
+http://www.dallasvoice.com
+English (Q1860)
+http://www.dallasvoice.com/wp-json/wp/v2/posts?search=
+************
+Q110985780.json
+538
+L'Observateur
+French newspaper
+https://www.lobservateur.fr/
+https://www.lobservateur.fr/
+French (Q150)
+https://www.lobservateur.fr//wp-json/wp/v2/posts?search=
+************
+Q7414217.json
+539
+San_Gabriel_Valley_Tribune
+Daily newspaper in Southern California
+https://www.sgvtribune.com/
+https://www.sgvtribune.com/
+None
+https://www.sgvtribune.com//wp-json/wp/v2/posts?search=
+************
+Q117225242.json
+540
+Island_Times
+news media of Palau
+https://islandtimes.org/
+https://islandtimes.org/
+None
+https://islandtimes.org//wp-json/wp/v2/posts?search=
+************
+Q18680119.json
+541
+Jaakkiman_Sanomat
+newspaper
+http://jaakkimansanomat.fi
+http://jaakkimansanomat.fi
+Finnish (Q1412)
+http://jaakkimansanomat.fi/wp-json/wp/v2/posts?search=
+************
+Q16984149.json
+542
+Hillsboro_Free_Press
+Newspaper in Hillsboro, Kansas
+http://www.hillsborofreepress.com/
+http://www.hillsborofreepress.com/
+English (Q1860)
+http://www.hillsborofreepress.com//wp-json/wp/v2/posts?search=
+************
+Q9005070.json
+543
+Hoy_(Ecuadorian_newspaper)
+Ecuadorian daily newspaper
+http://www.hoy.com.ec
+http://www.hoy.com.ec
+Spanish (Q1321)
+http://www.hoy.com.ec/wp-json/wp/v2/posts?search=
+************
+Q12675751.json
+544
+Utenos_diena
+newspaper
+http://www.udiena.lt
+http://www.udiena.lt
+None
+http://www.udiena.lt/wp-json/wp/v2/posts?search=
+************
+Q3809236.json
+545
+State_Times
+Newspaper published in Jammu and Kashmir, India
+https://www.statetimes.in/
+https://www.statetimes.in/
+English (Q1860)
+https://www.statetimes.in//wp-json/wp/v2/posts?search=
+************
+Q5327815.json
+546
+East_Bay_Express
+Oakland-based weekly newspaper
+https://www.eastbayexpress.com/
+https://www.eastbayexpress.com/
+None
+https://www.eastbayexpress.com//wp-json/wp/v2/posts?search=
+************
+Q3141380.json
+547
+Åbo_Underrättelser
+A Swedish language newspaper published in Finland
+http://www.abounderrattelser.fi
+http://www.abounderrattelser.fi
+Swedish (Q9027)
+http://www.abounderrattelser.fi/wp-json/wp/v2/posts?search=
+************
+Q2004274.json
+548
+Vancouver_Sun
+Daily newspaper
+https://vancouversun.com/
+https://vancouversun.com/
+English (Q1860)
+https://vancouversun.com//wp-json/wp/v2/posts?search=
+************
+Q17063998.json
+549
+The_Lantern
+Student newspaper of Ohio State University
+http://www.thelantern.com
+http://www.thelantern.com
+English (Q1860)
+http://www.thelantern.com/wp-json/wp/v2/posts?search=
+************
+Q7744125.json
+550
+The_Kentucky_Kernel
+Student newspaper of the University of Kentucky
+http://kykernel.com
+http://kykernel.com
+None
+http://kykernel.com/wp-json/wp/v2/posts?search=
+************
+Q4479411.json
+551
+Uchitelskaya_Gazeta
+Russian weekly education newspaper
+http://www.ug.ru
+http://www.ug.ru
+Russian (Q7737)
+http://www.ug.ru/wp-json/wp/v2/posts?search=
+************
+Q19573603.json
+552
+Paso_Robles_Press
+newspaper in Paso Robles, California
+https://pasoroblespress.com/
+https://pasoroblespress.com/
+None
+https://pasoroblespress.com//wp-json/wp/v2/posts?search=
+************
+Q7720973.json
+553
+The_California_Courier
+newspaper in Los Angeles, California
+http://www.thecaliforniacourier.com/
+http://www.thecaliforniacourier.com/
+English (Q1860)
+http://www.thecaliforniacourier.com//wp-json/wp/v2/posts?search=
+************
+Q87116240.json
+554
+El_Mercurio_de_Tamaulipas
+Mexican news website
+http://www.elmercurio.com.mx/
+http://www.elmercurio.com.mx/
+Spanish (Q1321)
+http://www.elmercurio.com.mx//wp-json/wp/v2/posts?search=
+************
+Q1518541.json
+555
+Sirp
+Estonian newspaper
+https://www.sirp.ee/
+https://www.sirp.ee/
+Estonian (Q9072)
+https://www.sirp.ee//wp-json/wp/v2/posts?search=
+************
+Q7730616.json
+556
+The_Dominion_Post_(Morgantown)
+newspaper in Morgantown, USA
+http://dominionpost.com
+http://dominionpost.com
+None
+http://dominionpost.com/wp-json/wp/v2/posts?search=
+************
+Q7363426.json
+557
+România_liberă
+None
+http://romanialibera.ro/
+http://romanialibera.ro/
+Romanian (Q7913)
+http://romanialibera.ro//wp-json/wp/v2/posts?search=
+************
+Q6479019.json
+558
+Lakeshore_Advance
+newspaper in Canada
+http://www.lakeshoreadvance.com
+http://www.lakeshoreadvance.com
+None
+http://www.lakeshoreadvance.com/wp-json/wp/v2/posts?search=
+************
+Q7077700.json
+559
+Odessa_American
+newspaper in Odessa, Texas
+http://www.oaoa.com/
+http://www.oaoa.com/
+None
+http://www.oaoa.com//wp-json/wp/v2/posts?search=
+************
+Q105676730.json
+560
+Manitoulin_Expositor
+Canadian newspaper
+https://www.manitoulin.com/
+https://www.manitoulin.com/
+English (Q1860)
+https://www.manitoulin.com//wp-json/wp/v2/posts?search=
+************
+Q5034228.json
+561
+Canyon_News
+newspaper in Beverly Hills, California
+http://canyon-news.com
+http://canyon-news.com
+None
+http://canyon-news.com/wp-json/wp/v2/posts?search=
+************
+Q6103861.json
+562
+J._The_Jewish_News_of_Northern_California
+Weekly newspaper in Northern California, US
+http://www.jweekly.com/
+http://www.jweekly.com/
+English (Q1860)
+http://www.jweekly.com//wp-json/wp/v2/posts?search=
+************
+Q55668078.json
+563
+Londonderry_Times
+newspaper published in Londonderry, New Hampshire
+https://londonderrytimes.net
+https://londonderrytimes.net
+English (Q1860)
+https://londonderrytimes.net/wp-json/wp/v2/posts?search=
+************
+Q7758089.json
+564
+The_Press-Enterprise
+Newspaper in Riverside, California
+http://www.pe.com/
+http://www.pe.com/
+English (Q1860)
+http://www.pe.com//wp-json/wp/v2/posts?search=
+************
+Q7995812.json
+565
+Whitecourt_Star
+Weekly newspaper in Canada
+http://www.whitecourtstar.com/
+http://www.whitecourtstar.com/
+None
+http://www.whitecourtstar.com//wp-json/wp/v2/posts?search=
+************
+Q13447212.json
+566
+The_Pajaronian
+newspaper published in Watsonville, California, United States
+http://www.register-pajaronian.com/
+http://www.register-pajaronian.com/
+None
+http://www.register-pajaronian.com//wp-json/wp/v2/posts?search=
+************
+Q7572759.json
+567
+Spacing_(magazine)
+Canadian newspaper
+http://www.spacing.ca
+http://www.spacing.ca
+English (Q1860)
+http://www.spacing.ca/wp-json/wp/v2/posts?search=
+************
+Q45107798.json
+568
+Alakhbar
+newspaper in Morocco
+https://www.alakhbar.press.ma/
+https://www.alakhbar.press.ma/
+Arabic (Q13955)
+https://www.alakhbar.press.ma//wp-json/wp/v2/posts?search=
+************
+Q7689939.json
+569
+Taylor_Daily_Press
+newspaper in Taylor, Texas
+http://www.taylordailypress.net/
+http://www.taylordailypress.net/
+None
+http://www.taylordailypress.net//wp-json/wp/v2/posts?search=
+************
+Q114457330.json
+570
+Laotian_Times
+English newspaper in Laos
+https://laotiantimes.com/
+https://laotiantimes.com/
+English (Q1860)
+https://laotiantimes.com//wp-json/wp/v2/posts?search=
+************
+Q1347124.json
+571
+Liboriusblatt
+German Catholic weekly newspaper
+https://www.liborius.de/
+https://www.liborius.de/
+German (Q188)
+https://www.liborius.de//wp-json/wp/v2/posts?search=
+************
+Q6868213.json
+572
+Minnesota_Daily
+Campus newspaper of the University of Minnesota
+http://www.mndaily.com/
+http://www.mndaily.com/
+American English (Q7976)
+http://www.mndaily.com//wp-json/wp/v2/posts?search=
+************
+Q3917245.json
+573
+Narodnaja_Volya_(newspaper)
+Belarusian independent opposition newspaper
+http://www.nv-online.info
+http://www.nv-online.info
+Belarusian (Q9091)
+http://www.nv-online.info/wp-json/wp/v2/posts?search=
+************
+Q7757295.json
+574
+The_Pitch_(newspaper)
+Alternative newspaper distributed in the Kansas City Metropolitan Area
+https://www.thepitchkc.com
+https://www.thepitchkc.com
+None
+https://www.thepitchkc.com/wp-json/wp/v2/posts?search=
+************
+Q1428213.json
+575
+Trybuna
+newspaper
+http://www.dzienniktrybuna.pl/
+http://www.dzienniktrybuna.pl/
+Polish (Q809)
+http://www.dzienniktrybuna.pl//wp-json/wp/v2/posts?search=
+************
+Q10267618.json
+576
+Diario_de_S._Paulo
+newspaper
+http://www.diariosp.com.br/
+http://www.diariosp.com.br/
+Portuguese (Q5146)
+http://www.diariosp.com.br//wp-json/wp/v2/posts?search=
+************
+Q7314565.json
+577
+Republican-American
+Newspaper in Waterbury, Connecticut
+https://www.rep-am.com/
+https://www.rep-am.com/
+None
+https://www.rep-am.com//wp-json/wp/v2/posts?search=
+************
+Q3230404.json
+578
+Les_Afriques
+newspaper
+http://www.lesafriques.com
+http://www.lesafriques.com
+French (Q150)
+http://www.lesafriques.com/wp-json/wp/v2/posts?search=
+************
+Q110586215.json
+579
+Italian-American_Herald
+cultural newspaper
+https://www.italianamericanherald.com/
+https://www.italianamericanherald.com/
+None
+https://www.italianamericanherald.com//wp-json/wp/v2/posts?search=
+************
+Q6501830.json
+580
+Laurinburg_Exchange
+newspaper in Laurinburg, North Carolina
+http://www.laurinburgexchange.com
+http://www.laurinburgexchange.com
+None
+http://www.laurinburgexchange.com/wp-json/wp/v2/posts?search=
+************
+Q7751052.json
+581
+The_Merciad
+None
+http://merciad.mercyhurst.edu/
+http://merciad.mercyhurst.edu/
+None
+http://merciad.mercyhurst.edu//wp-json/wp/v2/posts?search=
+************
+Q4412404.json
+582
+The_Northern_Worker_(Severodvinsk)
+newspaper
+http://nworker.ru
+http://nworker.ru
+None
+http://nworker.ru/wp-json/wp/v2/posts?search=
+************
+Q4121023.json
+583
+Sözcü
+Turkish daily newspaper
+http://www.sozcu.com.tr/
+http://www.sozcu.com.tr/
+Turkish (Q256)
+http://www.sozcu.com.tr//wp-json/wp/v2/posts?search=
+************
+Q20830821.json
+584
+Paysan_Breton
+newspaper in France
+http://www.paysan-breton.fr/
+http://www.paysan-breton.fr/
+French (Q150)
+http://www.paysan-breton.fr//wp-json/wp/v2/posts?search=
+************
+Q92600466.json
+585
+The_Nigeria_Standard
+Nigerian newspaper in Plateau State
+https://thenigeriastandard.ng
+https://thenigeriastandard.ng
+None
+https://thenigeriastandard.ng/wp-json/wp/v2/posts?search=
+************
+Q1551619.json
+586
+Khurzarin
+newspaper
+http://www.xurzarin.ru/
+http://www.xurzarin.ru/
+Ossetian (Q33968)
+http://www.xurzarin.ru//wp-json/wp/v2/posts?search=
+************
+Q5099047.json
+587
+Chillicothe_Constitution-Tribune
+US newspaper
+http://www.chillicothenews.com/
+http://www.chillicothenews.com/
+None
+http://www.chillicothenews.com//wp-json/wp/v2/posts?search=
+************
+Q11994701.json
+588
+Panorama_(online_newspaper)
+norwegian online newspaper
+http://panorama.no
+http://panorama.no
+None
+http://panorama.no/wp-json/wp/v2/posts?search=
+************
+Q7109184.json
+589
+Ottawa_Herald
+Newspaper in Ottawa, Kansas, United States
+http://www.ottawaherald.com/
+http://www.ottawaherald.com/
+None
+http://www.ottawaherald.com//wp-json/wp/v2/posts?search=
+************
+Q4852884.json
+590
+Baltimore_Jewish_Times
+Weekly newspaper in Baltimore, Maryland, US
+http://www.jewishtimes.com/
+http://www.jewishtimes.com/
+English (Q1860)
+http://www.jewishtimes.com//wp-json/wp/v2/posts?search=
+************
+Q3349951.json
+591
+Oise_Hebdo
+newspaper
+https://www.oisehebdo.fr/
+https://www.oisehebdo.fr/
+French (Q150)
+https://www.oisehebdo.fr//wp-json/wp/v2/posts?search=
+************
+Q16841426.json
+592
+The_Bhutanese
+newspaper in Bhutan
+http://www.thebhutanese.bt/
+http://www.thebhutanese.bt/
+Dzongkha (Q33081)
+http://www.thebhutanese.bt//wp-json/wp/v2/posts?search=
+************
+Q60744916.json
+593
+The_Hard_Times
+Satirical news website
+https://thehardtimes.net/
+https://thehardtimes.net/
+None
+https://thehardtimes.net//wp-json/wp/v2/posts?search=
+************
+Q4724199.json
+594
+Al_Ghad
+Jordanian newspaper
+http://www.alghad.com/
+http://www.alghad.com/
+Arabic (Q13955)
+http://www.alghad.com//wp-json/wp/v2/posts?search=
+************
+Q984153.json
+595
+Diário_Económico
+Portuguese business newspaper (1989–2016)
+http://economico.sapo.pt/
+http://economico.sapo.pt/
+['Portuguese (Q5146)', 'Spanish (Q1321)']
+http://economico.sapo.pt//wp-json/wp/v2/posts?search=
+************
+Q5116865.json
+596
+Church_of_England_Newspaper
+Anglican weekly newspaper
+http://www.churchnewspaper.com/
+http://www.churchnewspaper.com/
+English (Q1860)
+http://www.churchnewspaper.com//wp-json/wp/v2/posts?search=
+************
+Q5351705.json
+597
+El_Nuevo_País
+Venezuelan newspaper
+http://elnuevopais.net
+http://elnuevopais.net
+Spanish (Q1321)
+http://elnuevopais.net/wp-json/wp/v2/posts?search=
+************
+Q492825.json
+598
+Daily_NK
+Online newspaper
+http://www.dailynk.com/chinese/
+http://www.dailynk.com/chinese/
+['Korean (Q9176)', 'Chinese (Q7850)', 'Japanese (Q5287)', 'English (Q1860)']
+http://www.dailynk.com/chinese//wp-json/wp/v2/posts?search=
+************
+Q3454763.json
+599
+Réforme
+newspaper in France
+http://www.reforme.net
+http://www.reforme.net
+French (Q150)
+http://www.reforme.net/wp-json/wp/v2/posts?search=
+************
+Q7774144.json
+600
+The_Weekly_Post
+Weekly newspaper based in Locust, North Carolina
+http://www.weeklypostnc.com
+http://www.weeklypostnc.com
+None
+http://www.weeklypostnc.com/wp-json/wp/v2/posts?search=
+************
+Q55642880.json
+601
+Andalusia_Star_News
+Newspaper in Andalusia, Alabama
+https://www.andalusiastarnews.com/
+https://www.andalusiastarnews.com/
+English (Q1860)
+https://www.andalusiastarnews.com//wp-json/wp/v2/posts?search=
+************
+Q5687187.json
+602
+Hays_Daily_News
+newspaper in Hays, Kansas
+http://www.hdnews.net/
+http://www.hdnews.net/
+None
+http://www.hdnews.net//wp-json/wp/v2/posts?search=
+************
+Q88805620.json
+603
+Leipziger_Zeitung
+newspaper
+https://www.l-iz.de/
+https://www.l-iz.de/
+None
+https://www.l-iz.de//wp-json/wp/v2/posts?search=
+************
+Q3738171.json
+604
+Kesknädal
+Estonian newspaper
+http://www.kesknadal.ee
+http://www.kesknadal.ee
+None
+http://www.kesknadal.ee/wp-json/wp/v2/posts?search=
+************
+Q65117524.json
+605
+The_Colorado_Sun
+Online news outlet based in Denver, Colorado, US
+https://coloradosun.com/
+https://coloradosun.com/
+None
+https://coloradosun.com//wp-json/wp/v2/posts?search=
+************
+Q110981579.json
+606
+The_India_Review
+latest news & reviews on India
+https://www.theindiareview.com
+https://www.theindiareview.com
+English (Q1860)
+https://www.theindiareview.com/wp-json/wp/v2/posts?search=
+************
+Q7734384.json
+607
+The_Flat_Hat
+Newspaper in Williamsburg, Virginia
+http://www.flathatnews.com
+http://www.flathatnews.com
+English (Q1860)
+http://www.flathatnews.com/wp-json/wp/v2/posts?search=
+************
+Q7739306.json
+608
+The_Heights_(newspaper)
+Student newspaper at Boston College
+http://www.bcheights.com/
+http://www.bcheights.com/
+None
+http://www.bcheights.com//wp-json/wp/v2/posts?search=
+************
+Q5038542.json
+609
+Cardinal_Courier_Media
+newspaper in Pittsford, New York
+http://www.cardinalcourieronline.com
+http://www.cardinalcourieronline.com
+None
+http://www.cardinalcourieronline.com/wp-json/wp/v2/posts?search=
+************
+Q7736201.json
+610
+The_Georgia_Voice
+newspaper
+http://thegavoice.com/
+http://thegavoice.com/
+None
+http://thegavoice.com//wp-json/wp/v2/posts?search=
+************
+Q7776998.json
+611
+The_Financial
+newspaper
+http://www.finchannel.com
+http://www.finchannel.com
+Georgian (Q8108)
+http://www.finchannel.com/wp-json/wp/v2/posts?search=
+************
+Q7739407.json
+612
+The_Herald_Democrat
+newspaper in Sherman, Texas
+http://www.heralddemocrat.com/
+http://www.heralddemocrat.com/
+None
+http://www.heralddemocrat.com//wp-json/wp/v2/posts?search=
+************
+Q7232456.json
+613
+Portsmouth_Daily_Times
+newspaper published in Portsmouth, Ohio
+http://www.portsmouth-dailytimes.com
+http://www.portsmouth-dailytimes.com
+None
+http://www.portsmouth-dailytimes.com/wp-json/wp/v2/posts?search=
+************
+Q97277570.json
+614
+Divergente
+portuguese multimedia publication of investigative journalism
+https://divergente.pt/
+https://divergente.pt/
+None
+https://divergente.pt//wp-json/wp/v2/posts?search=
+************
+Q5820781.json
+615
+Adelantado_de_Segovia
+historic newspaper in Spain
+http://www.eladelantado.com
+http://www.eladelantado.com
+Spanish (Q1321)
+http://www.eladelantado.com/wp-json/wp/v2/posts?search=
+************
+Q5209284.json
+616
+Daily_Journal_(Franklin,_Indiana)
+Daily newspaper in Franklin, Indiana
+http://www.dailyjournal.net/
+http://www.dailyjournal.net/
+None
+http://www.dailyjournal.net//wp-json/wp/v2/posts?search=
+************
+Q7728624.json
+617
+The_Daily_Californian
+Student-run newspaper in Berkeley, California
+https://www.dailycal.org/
+https://www.dailycal.org/
+English (Q1860)
+https://www.dailycal.org//wp-json/wp/v2/posts?search=
+************
+Q108661009.json
+618
+El_Líbero
+Chilean online newspaper
+http://ellibero.cl
+http://ellibero.cl
+None
+http://ellibero.cl/wp-json/wp/v2/posts?search=
+************
+Q6319227.json
+619
+Juárez_Hoy
+newspaper in Mexico
+http://juarezhoy.com.mx/
+http://juarezhoy.com.mx/
+Spanish (Q1321)
+http://juarezhoy.com.mx//wp-json/wp/v2/posts?search=
+************
+Q5965374.json
+620
+La_Tribuna_(Honduras)
+Honduran newspaper
+http://www.latribuna.hn
+http://www.latribuna.hn
+Spanish (Q1321)
+http://www.latribuna.hn/wp-json/wp/v2/posts?search=
+************
+Q7736006.json
+621
+The_Gazette_(Chicago)
+monthly newspaper in Chicago
+http://www.gazettechicago.com/
+http://www.gazettechicago.com/
+None
+http://www.gazettechicago.com//wp-json/wp/v2/posts?search=
+************
+Q48862260.json
+622
+The_Fountain_Hopper
+None
+http://fountainhopper.com/
+http://fountainhopper.com/
+None
+http://fountainhopper.com//wp-json/wp/v2/posts?search=
+************
+Q7509703.json
+623
+The_Frontier_Post
+Pakistani Newspaper
+http://thefrontierpost.com
+http://thefrontierpost.com
+None
+http://thefrontierpost.com/wp-json/wp/v2/posts?search=
+************
+Q7941964.json
+624
+Voruta_(newspaper)
+Lithuanian historical weekly newspaper
+https://www.voruta.lt
+https://www.voruta.lt
+Lithuanian (Q9083)
+https://www.voruta.lt/wp-json/wp/v2/posts?search=
+************
+Q55668597.json
+625
+Main_Line_Media_News
+newspaper published in Wayne, Pennsylvania
+https://www.mainlinemedianews.com/
+https://www.mainlinemedianews.com/
+English (Q1860)
+https://www.mainlinemedianews.com//wp-json/wp/v2/posts?search=
+************
+Q61503.json
+626
+The_Hollywood_Reporter
+American magazine and website
+https://www.hollywoodreporter.com/
+https://www.hollywoodreporter.com/
+English (Q1860)
+https://www.hollywoodreporter.com//wp-json/wp/v2/posts?search=
+************
+Q7713889.json
+627
+The_Anson_Record
+US newspaper
+https://ansonrecord.com
+https://ansonrecord.com
+English (Q1860)
+https://ansonrecord.com/wp-json/wp/v2/posts?search=
+************
+Q6510673.json
+628
+Leavenworth_Times
+newspaper in Leavenworth, Kansas
+https://www.leavenworthtimes.com/
+https://www.leavenworthtimes.com/
+None
+https://www.leavenworthtimes.com//wp-json/wp/v2/posts?search=
+************
+Q12133854.json
+629
+Nova_Ternopilska_Hazeta
+newspaper
+http://nova.te.ua/
+http://nova.te.ua/
+Ukrainian (Q8798)
+http://nova.te.ua//wp-json/wp/v2/posts?search=
+************
+Q7735574.json
+630
+The_GW_Hatchet
+Student newspaper of the George Washington University
+http://www.gwhatchet.com/
+http://www.gwhatchet.com/
+None
+http://www.gwhatchet.com//wp-json/wp/v2/posts?search=
+************
+Q109519210.json
+631
+SriLankaNZ
+Community Newspaper in New Zealand
+https://www.srilankanz.co.nz
+https://www.srilankanz.co.nz
+None
+https://www.srilankanz.co.nz/wp-json/wp/v2/posts?search=
+************
+Q5209384.json
+632
+Portland_State_Vanguard
+Portland State University student newspaper
+http://www.psuvanguard.com
+http://www.psuvanguard.com
+None
+http://www.psuvanguard.com/wp-json/wp/v2/posts?search=
+************
+Q7930616.json
+633
+Village_(magazine)
+Current affairs magazine in Ireland
+http://www.villagemagazine.ie/
+http://www.villagemagazine.ie/
+None
+http://www.villagemagazine.ie//wp-json/wp/v2/posts?search=
+************
+Q16975740.json
+634
+Augusta_Daily_Gazette
+newspaper
+http://www.augustagazette.com
+http://www.augustagazette.com
+None
+http://www.augustagazette.com/wp-json/wp/v2/posts?search=
+************
+Q7721743.json
+635
+The_Catholic_Transcript
+US newspaper
+http://www.catholictranscript.org
+http://www.catholictranscript.org
+English (Q1860)
+http://www.catholictranscript.org/wp-json/wp/v2/posts?search=
+************
+Q5095832.json
+636
+South_Side_Weekly
+newspaper
+http://southsideweekly.com/
+http://southsideweekly.com/
+None
+http://southsideweekly.com//wp-json/wp/v2/posts?search=
+************
+Q6447626.json
+637
+Kurzemnieks
+Regional newspaper published in Kuldiga, Latvia
+http://www.kurzemnieks.lv/
+http://www.kurzemnieks.lv/
+Latvian (Q9078)
+http://www.kurzemnieks.lv//wp-json/wp/v2/posts?search=
+************
+Q7758737.json
+638
+The_Punch
+Nigerian newspaper
+http://www.punchng.com
+http://www.punchng.com
+None
+http://www.punchng.com/wp-json/wp/v2/posts?search=
+************
+Q12546551.json
+639
+Znamia_Truda
+newspaper
+http://ztgzt.kz
+http://ztgzt.kz
+None
+http://ztgzt.kz/wp-json/wp/v2/posts?search=
+************
+Q30636207.json
+640
+Carroll_News
+newspaper
+http://thecarrollnews.com
+http://thecarrollnews.com
+None
+http://thecarrollnews.com/wp-json/wp/v2/posts?search=
+************
+Q87119344.json
+641
+Sintesis
+Mexican news website
+https://sintesis.com.mx/hidalgo/
+https://sintesis.com.mx/hidalgo/
+Spanish (Q1321)
+https://sintesis.com.mx/hidalgo//wp-json/wp/v2/posts?search=
+************
+Q7851928.json
+642
+Tulane_Hullabaloo
+None
+http://www.tulanehullabaloo.com/
+http://www.tulanehullabaloo.com/
+None
+http://www.tulanehullabaloo.com//wp-json/wp/v2/posts?search=
+************
+Q6756475.json
+643
+Marcellus_News
+newspaper
+http://www.marcellusnews.com/
+http://www.marcellusnews.com/
+None
+http://www.marcellusnews.com//wp-json/wp/v2/posts?search=
+************
+Q6888661.json
+644
+Modern_Fix
+US newspaper
+http://modernfix.com
+http://modernfix.com
+English (Q1860)
+http://modernfix.com/wp-json/wp/v2/posts?search=
+************
+Q721837.json
+645
+Diario_Frontera
+Venezuelan regional newspaper
+http://www.diariofrontera.com
+http://www.diariofrontera.com
+Spanish (Q1321)
+http://www.diariofrontera.com/wp-json/wp/v2/posts?search=
+************
+Q5042856.json
+646
+The_Nationalist_(Carlow)
+weekly newspaper in Carlow, Ireland
+http://www.carlow-nationalist.ie/
+http://www.carlow-nationalist.ie/
+English (Q1860)
+http://www.carlow-nationalist.ie//wp-json/wp/v2/posts?search=
+************
+Q7755324.json
+647
+The_Oregon_Journal
+daily newspaper published in Portland, Oregon from 1902 to the 1980s
+https://www.theoregonjournal.com
+https://www.theoregonjournal.com
+None
+https://www.theoregonjournal.com/wp-json/wp/v2/posts?search=
+************
+Q7930750.json
+648
+Villager_(Saint_Paul,_Minnesota)
+US newspaper
+http://www.myvillager.com
+http://www.myvillager.com
+None
+http://www.myvillager.com/wp-json/wp/v2/posts?search=
+************
+Q4806638.json
+649
+Asian_Fortune
+Newspaper
+http://www.asianfortunenews.com
+http://www.asianfortunenews.com
+None
+http://www.asianfortunenews.com/wp-json/wp/v2/posts?search=
+************
+Q7741110.json
+650
+The_Huntington_News
+Northeastern University student-run newspaper
+http://www.huntnewsnu.com/
+http://www.huntnewsnu.com/
+None
+http://www.huntnewsnu.com//wp-json/wp/v2/posts?search=
+************
+Q7753622.json
+651
+The_New_Hampshire
+Student newspaper of the University of New Hampshire
+https://tnhdigital.com/
+https://tnhdigital.com/
+None
+https://tnhdigital.com//wp-json/wp/v2/posts?search=
+************
+Q5001728.json
+652
+Business_Hallmark
+Financial newspaper in Nigeria
+http://hallmarknews.com
+http://hallmarknews.com
+None
+http://hallmarknews.com/wp-json/wp/v2/posts?search=
+************
+Q3538935.json
+653
+Tribune_de_Lyon
+French local newspaper based in Lyon
+http://www.tribunedelyon.fr/
+http://www.tribunedelyon.fr/
+French (Q150)
+http://www.tribunedelyon.fr//wp-json/wp/v2/posts?search=
+************
+Q6064635.json
+654
+Iowa_State_Daily
+Newspaper in Ames, Iowa
+http://www.iowastatedaily.com
+http://www.iowastatedaily.com
+None
+http://www.iowastatedaily.com/wp-json/wp/v2/posts?search=
+************
+Q3107913.json
+655
+Thai_Post
+Thai daily newspaper
+http://www.thaipost.net/
+http://www.thaipost.net/
+Thai (Q9217)
+http://www.thaipost.net//wp-json/wp/v2/posts?search=
+************
+Q3213733.json
+656
+La_Vie_Éco
+Moroccan French-language newspaper
+http://www.lavieeco.com/
+http://www.lavieeco.com/
+French (Q150)
+http://www.lavieeco.com//wp-json/wp/v2/posts?search=
+************
+Q633906.json
+657
+Catholic_Herald
+London-based Roman Catholic periodical
+https://catholicherald.co.uk/
+https://catholicherald.co.uk/
+English (Q1860)
+https://catholicherald.co.uk//wp-json/wp/v2/posts?search=
+************
+Q10381699.json
+658
+The_Pitt_News
+Newspaper for the University of Pittsburgh
+http://www.pittnews.com/
+http://www.pittnews.com/
+None
+http://www.pittnews.com//wp-json/wp/v2/posts?search=
+************
+Q6682332.json
+659
+Los_Angeles_Sentinel
+Weekly African-American newspaper in Los Angeles, California
+http://www.lasentinel.net/
+http://www.lasentinel.net/
+English (Q1860)
+http://www.lasentinel.net//wp-json/wp/v2/posts?search=
+************
+Q17088400.json
+660
+Valencia_County_News-Bulletin
+newspaper in Belen, New Mexico
+http://www.news-bulletin.com
+http://www.news-bulletin.com
+None
+http://www.news-bulletin.com/wp-json/wp/v2/posts?search=
+************
+Q6940222.json
+661
+Muscat_Daily
+newspaper
+http://www.muscatdaily.com
+http://www.muscatdaily.com
+English (Q1860)
+http://www.muscatdaily.com/wp-json/wp/v2/posts?search=
+************
+Q7502939.json
+662
+Show_Business_(magazine)
+performing arts magazine since 1941
+http://www.showbusinessweekly.com
+http://www.showbusinessweekly.com
+None
+http://www.showbusinessweekly.com/wp-json/wp/v2/posts?search=
+************
+Q6464371.json
+663
+La_Perla_del_Sur
+Puerto Rican newspaper
+http://www.periodicolaperla.com
+http://www.periodicolaperla.com
+None
+http://www.periodicolaperla.com/wp-json/wp/v2/posts?search=
+************
+Q4204533.json
+664
+Harakah_(newspaper)
+Malaysian newspaper owned by Malaysian Islamic Party
+https://harakahdaily.net/
+https://harakahdaily.net/
+Malaysian Malay (Q15065)
+https://harakahdaily.net//wp-json/wp/v2/posts?search=
+************
+Q60785659.json
+665
+Euromaidan_Press
+Internet-based English newspaper
+http://euromaidanpress.com
+http://euromaidanpress.com
+None
+http://euromaidanpress.com/wp-json/wp/v2/posts?search=
+************
+Q4568052.json
+666
+Prahaar_(newspaper)
+Marathi language newspaper printed in India
+http://prahaar.in
+http://prahaar.in
+Marathi (Q1571)
+http://prahaar.in/wp-json/wp/v2/posts?search=
+************
+Q1509944.json
+667
+Mail_&_Guardian
+South African newspaper
+http://mg.co.za/
+http://mg.co.za/
+English (Q1860)
+http://mg.co.za//wp-json/wp/v2/posts?search=
+************
+Q7199242.json
+668
+Pittsburgh_Catholic
+US newspaper
+http://www.pittsburghcatholic.org/
+http://www.pittsburghcatholic.org/
+English (Q1860)
+http://www.pittsburghcatholic.org//wp-json/wp/v2/posts?search=
+************
+Q7903243.json
+669
+Utrop
+newspaper
+https://utrop.no
+https://utrop.no
+Bokmål (Q25167)
+https://utrop.no/wp-json/wp/v2/posts?search=
+************
+Q7714110.json
+670
+The_Aquarian_Weekly
+Newspaper in New Jersey, US
+http://www.theaquarian.com
+http://www.theaquarian.com
+None
+http://www.theaquarian.com/wp-json/wp/v2/posts?search=
+************
+Q7720971.json
+671
+The_California_Aggie
+student newspaper of the University of California, Davis
+http://theaggie.org//
+http://theaggie.org//
+English (Q1860)
+http://theaggie.org///wp-json/wp/v2/posts?search=
+************
+Q6549268.json
+672
+Limerick_Post
+newspaper
+https://www.limerickpost.ie/
+https://www.limerickpost.ie/
+None
+https://www.limerickpost.ie//wp-json/wp/v2/posts?search=
+************
+Q97927016.json
+673
+The_Kansan
+newspaper of Newton, KS
+https://www.thekansan.com
+https://www.thekansan.com
+English (Q1860)
+https://www.thekansan.com/wp-json/wp/v2/posts?search=
+************
+Q3057820.json
+674
+The_Cambodia_Daily
+English and Khmer language newspaper
+https://www.cambodiadaily.com/
+https://www.cambodiadaily.com/
+['English (Q1860)', 'Khmer (Q9205)']
+https://www.cambodiadaily.com//wp-json/wp/v2/posts?search=
+************
+Q7751224.json
+675
+The_Miami_Hurricane
+newspaper published in Coral Gables, Florida
+http://www.themiamihurricane.com
+http://www.themiamihurricane.com
+None
+http://www.themiamihurricane.com/wp-json/wp/v2/posts?search=
+************
+Q55667127.json
+676
+Leominster_Champion
+newspaper published in Leominster
+https://leominsterchamp.com
+https://leominsterchamp.com
+None
+https://leominsterchamp.com/wp-json/wp/v2/posts?search=
+************
+Q4943729.json
+677
+Boonville_Daily_News
+newspaper
+http://www.boonvilledailynews.com
+http://www.boonvilledailynews.com
+None
+http://www.boonvilledailynews.com/wp-json/wp/v2/posts?search=
+************
+Q5352246.json
+678
+El_Tiempo_(Anzoátegui)
+Venezuelan newspaper in Anzoátegui state
+http://www.eltiempo.com.ve
+http://www.eltiempo.com.ve
+Spanish (Q1321)
+http://www.eltiempo.com.ve/wp-json/wp/v2/posts?search=
+************
+Q7908759.json
+679
+Vail_Daily
+daily newspaper in Vail, Colorado
+http://vaildaily.com/
+http://vaildaily.com/
+None
+http://vaildaily.com//wp-json/wp/v2/posts?search=
+************
+Q30632194.json
+680
+The_Church_of_Ireland_Gazette
+newspaper
+https://gazette.ireland.anglican.org/
+https://gazette.ireland.anglican.org/
+English (Q1860)
+https://gazette.ireland.anglican.org//wp-json/wp/v2/posts?search=
+************
+Q17109416.json
+681
+The_Tide_(Nigeria)
+Nigeria daily newspaper
+http://www.thetidenewsonline.com/
+http://www.thetidenewsonline.com/
+English (Q1860)
+http://www.thetidenewsonline.com//wp-json/wp/v2/posts?search=
+************
+Q7766070.json
+682
+The_Springfield_Paper
+newspaper
+http://myspringfieldpaper.com
+http://myspringfieldpaper.com
+None
+http://myspringfieldpaper.com/wp-json/wp/v2/posts?search=
+************
+Q116885380.json
+683
+Le_Poing
+None
+https://lepoing.net/
+https://lepoing.net/
+French (Q150)
+https://lepoing.net//wp-json/wp/v2/posts?search=
+************
+Q4976833.json
+684
+Brownwood_Bulletin
+newspaper in Brownwood, Texas
+http://brownwoodtx.com/
+http://brownwoodtx.com/
+None
+http://brownwoodtx.com//wp-json/wp/v2/posts?search=
+************
+Q7749664.json
+685
+The_Maine_Campus
+None
+http://mainecampus.com/
+http://mainecampus.com/
+None
+http://mainecampus.com//wp-json/wp/v2/posts?search=
+************
+Q17027475.json
+686
+Nebraska_City_News-Press
+US newspaper
+http://www.ncnewspress.com/
+http://www.ncnewspress.com/
+None
+http://www.ncnewspress.com//wp-json/wp/v2/posts?search=
+************
+Q16839896.json
+687
+Georgia_Today
+an English language newspaper published in Georgia
+http://www.georgiatoday.ge/
+http://www.georgiatoday.ge/
+English (Q1860)
+http://www.georgiatoday.ge//wp-json/wp/v2/posts?search=
+************
+Q6462377.json
+688
+La_Extra
+newspaper in Mexico
+http://www.laextra.mx
+http://www.laextra.mx
+Spanish (Q1321)
+http://www.laextra.mx/wp-json/wp/v2/posts?search=
+************
+Q2850542.json
+689
+Kosmo!
+Malaysian newspaper
+http://www.kosmo.com.my/
+http://www.kosmo.com.my/
+Malay (Q9237)
+http://www.kosmo.com.my//wp-json/wp/v2/posts?search=
+************
+Q67079851.json
+690
+Property_Notify
+Property Sector Publisher in London, United Kingdom
+https://www.propertynotify.co.uk
+https://www.propertynotify.co.uk
+British English (Q7979)
+https://www.propertynotify.co.uk/wp-json/wp/v2/posts?search=
+************
+Q283570.json
+691
+Moskauer_Deutsche_Zeitung
+German-language newspaper in Moscow
+http://www.mdz-moskau.eu/
+http://www.mdz-moskau.eu/
+['German (Q188)', 'Russian (Q7737)']
+http://www.mdz-moskau.eu//wp-json/wp/v2/posts?search=
+************
+Q6365065.json
+692
+Kansas_State_Collegian
+newspaper in Kansas State University, Kansas
+http://www.kstatecollegian.com
+http://www.kstatecollegian.com
+None
+http://www.kstatecollegian.com/wp-json/wp/v2/posts?search=
+************
+Q6373004.json
+693
+Karobar_Economic_Daily
+newspaper
+http://www.karobardaily.com
+http://www.karobardaily.com
+Nepali (Q33823)
+http://www.karobardaily.com/wp-json/wp/v2/posts?search=
+************
+Q5529845.json
+694
+Geelong_Independent
+Australian weekly newspaper
+https://geelongindy.com.au/
+https://geelongindy.com.au/
+English (Q1860)
+https://geelongindy.com.au//wp-json/wp/v2/posts?search=
+************
+Q676608.json
+695
+La_Dépêche_de_Kabylie
+newspaper
+http://www.depechedekabylie.com/
+http://www.depechedekabylie.com/
+French (Q150)
+http://www.depechedekabylie.com//wp-json/wp/v2/posts?search=
+************
+Q3071731.json
+696
+Fiji_Times
+Fijian daily English-language newspaper
+http://www.fijitimes.com
+http://www.fijitimes.com
+English (Q1860)
+http://www.fijitimes.com/wp-json/wp/v2/posts?search=
+************
+Q7690271.json
+697
+Taylorsville_Times
+newspaper in Taylorsville, North Carolina
+http://www.taylorsvilletimes.com
+http://www.taylorsvilletimes.com
+None
+http://www.taylorsvilletimes.com/wp-json/wp/v2/posts?search=
+************
+Q5161342.json
+698
+The_Connaught_Telegraph
+Newspaper in Castlebar, Ireland
+https://www.con-telegraph.ie/
+https://www.con-telegraph.ie/
+None
+https://www.con-telegraph.ie//wp-json/wp/v2/posts?search=
+************
+Q19895775.json
+699
+Rashtra_Deepika
+newspaper
+https://www.rashtradeepika.com/
+https://www.rashtradeepika.com/
+Malayalam (Q36236)
+https://www.rashtradeepika.com//wp-json/wp/v2/posts?search=
+************
+Q5209274.json
+700
+The_Daily_Illini
+Student newspaper in Illinois
+http://www.dailyillini.com
+http://www.dailyillini.com
+None
+http://www.dailyillini.com/wp-json/wp/v2/posts?search=
+************
+Q16954247.json
+701
+The_Connecticut_Mirror
+newspaper
+http://www.ctmirror.org/
+http://www.ctmirror.org/
+None
+http://www.ctmirror.org//wp-json/wp/v2/posts?search=
+************
+Q7562241.json
+702
+Sonoran_News
+Weekly newspaper in Cave Creek, Arizona
+http://sonorannews.com/
+http://sonorannews.com/
+None
+http://sonorannews.com//wp-json/wp/v2/posts?search=
+************
+Q10337927.json
+703
+Novas_da_Galiza
+newspaper
+http://novas.gal/
+http://novas.gal/
+['Galician (Q9307)', 'Portuguese (Q5146)']
+http://novas.gal//wp-json/wp/v2/posts?search=
+************
+Q4051209.json
+704
+The_New_Hampshire_Gazette
+US newspaper
+http://nhgazette.com/
+http://nhgazette.com/
+None
+http://nhgazette.com//wp-json/wp/v2/posts?search=
+************
+Q22073876.json
+705
+Dielli
+newspaper in New York City, New York
+http://gazetadielli.com/
+http://gazetadielli.com/
+Albanian (Q8748)
+http://gazetadielli.com//wp-json/wp/v2/posts?search=
+************
+Q429592.json
+706
+Diario_Río_Negro
+Newspaper
+https://www.rionegro.com.ar/
+https://www.rionegro.com.ar/
+Spanish (Q1321)
+https://www.rionegro.com.ar//wp-json/wp/v2/posts?search=
+************
+Q57678967.json
+707
+The_Eastern_Herald
+Newspaper
+https://www.easternherald.com
+https://www.easternherald.com
+English (Q1860)
+https://www.easternherald.com/wp-json/wp/v2/posts?search=
+************
+Q4857659.json
+708
+Baptist_Messenger
+newspaper in Oklahoma City, Oklahoma
+http://baptistmessenger.com/
+http://baptistmessenger.com/
+None
+http://baptistmessenger.com//wp-json/wp/v2/posts?search=
+************
+Q7413688.json
+709
+San_Diego_Jewish_Journal
+Jewish magazine
+https://www.sdjewishjournal.com/
+https://www.sdjewishjournal.com/
+None
+https://www.sdjewishjournal.com//wp-json/wp/v2/posts?search=
+************
+Q7573554.json
+710
+Spare_Change_News
+Street newspaper for the Greater Boston Area
+http://www.sparechangenews.net
+http://www.sparechangenews.net
+None
+http://www.sparechangenews.net/wp-json/wp/v2/posts?search=
+************
+Q24937075.json
+711
+Daily_Post_India
+Indian daily newspaper published in English
+http://dailypost.in
+http://dailypost.in
+English (Q1860)
+http://dailypost.in/wp-json/wp/v2/posts?search=
+************
+Q17071875.json
+712
+The_Bridgetown_Museum_and_New_Jersey_Advocate
+newspaper in Rahway, New Jersey
+http://www.njtoday.net/
+http://www.njtoday.net/
+None
+http://www.njtoday.net//wp-json/wp/v2/posts?search=
+************
+Q55666822.json
+713
+Butler_County_Times-Gazette
+American daily newspaper
+https://www.butlercountytimesgazette.com/
+https://www.butlercountytimesgazette.com/
+English (Q1860)
+https://www.butlercountytimesgazette.com//wp-json/wp/v2/posts?search=
+************
+Q104899954.json
+714
+Better_Dwelling
+Vancouver based financial media company.
+https://betterdwelling.com
+https://betterdwelling.com
+English (Q1860)
+https://betterdwelling.com/wp-json/wp/v2/posts?search=
+************
+Q7754602.json
+715
+The_Oamaru_Mail
+New Zealand newspaper
+http://www.oamarumail.co.nz
+http://www.oamarumail.co.nz
+None
+http://www.oamarumail.co.nz/wp-json/wp/v2/posts?search=
+************
+Q5049522.json
+716
+Cassville_Democrat
+newspaper
+http://www.cassville-democrat.com
+http://www.cassville-democrat.com
+None
+http://www.cassville-democrat.com/wp-json/wp/v2/posts?search=
+************
+Q17068636.json
+717
+McPherson_Sentinel
+newspaper in McPherson, Kansas
+http://www.mcphersonsentinel.com
+http://www.mcphersonsentinel.com
+None
+http://www.mcphersonsentinel.com/wp-json/wp/v2/posts?search=
+************
+Q896716.json
+718
+Unsere_Zeit
+newspaper
+https://unsere-zeit.de/
+https://unsere-zeit.de/
+German (Q188)
+https://unsere-zeit.de//wp-json/wp/v2/posts?search=
+************
+Q4821089.json
+719
+Nine_O'Clock
+newspaper
+http://www.nineoclock.ro/
+http://www.nineoclock.ro/
+None
+http://www.nineoclock.ro//wp-json/wp/v2/posts?search=
+************
+Q6034060.json
+720
+Inishowen_Independent
+newspaper
+http://www.inishowenindo.ie/
+http://www.inishowenindo.ie/
+None
+http://www.inishowenindo.ie//wp-json/wp/v2/posts?search=
+************
+Q13447154.json
+721
+Voice_of_San_Diego
+nonprofit news organization
+http://www.voiceofsandiego.org
+http://www.voiceofsandiego.org
+None
+http://www.voiceofsandiego.org/wp-json/wp/v2/posts?search=
+************
+Q7747032.json
+722
+The_Lewis_Flyer
+official student publication of Lewis University
+http://TheLewisFlyer.com
+http://TheLewisFlyer.com
+None
+http://TheLewisFlyer.com/wp-json/wp/v2/posts?search=
+************
+Q87116531.json
+723
+Diario_de_Palenque
+Mexican news website
+http://diariodepalenque.com.mx/
+http://diariodepalenque.com.mx/
+Spanish (Q1321)
+http://diariodepalenque.com.mx//wp-json/wp/v2/posts?search=
+************
+Q7774220.json
+724
+The_Wellington_Daily_News
+American newspaper
+http://www.wellingtondailynews.com
+http://www.wellingtondailynews.com
+None
+http://www.wellingtondailynews.com/wp-json/wp/v2/posts?search=
+************
+Q7728691.json
+725
+The_Daily_Northwestern
+Student newspaper at the Northwestern University
+http://www.dailynorthwestern.com/
+http://www.dailynorthwestern.com/
+English (Q1860)
+http://www.dailynorthwestern.com//wp-json/wp/v2/posts?search=
+************
+Q7769589.json
+726
+The_Toowoomba_Chronicle
+newspaper
+http://www.thechronicle.com.au
+http://www.thechronicle.com.au
+None
+http://www.thechronicle.com.au/wp-json/wp/v2/posts?search=
+************
+Q15991648.json
+727
+The_Morgan_Hill_Times
+newspaper in Morgan Hill, California
+http://www.morganhilltimes.com
+http://www.morganhilltimes.com
+None
+http://www.morganhilltimes.com/wp-json/wp/v2/posts?search=
+************
+Q1231835.json
+728
+Diário_As_Beiras
+newspaper
+https://www.asbeiras.pt/
+https://www.asbeiras.pt/
+Portuguese (Q5146)
+https://www.asbeiras.pt//wp-json/wp/v2/posts?search=
+************
+Q59335548.json
+729
+Diario_El_Oriental
+Venezuelan newspaper
+http://www.elorientaldemonagas.com/
+http://www.elorientaldemonagas.com/
+None
+http://www.elorientaldemonagas.com//wp-json/wp/v2/posts?search=
+************
+Q17054122.json
+730
+Gujarat_Today
+Indian newspaper
+http://www.gujarattoday.in
+http://www.gujarattoday.in
+Gujarati (Q5137)
+http://www.gujarattoday.in/wp-json/wp/v2/posts?search=
+************
+Q7338901.json
+731
+Rivira
+Weekly newspaper in Sri Lanka
+http://www.rivira.lk/
+http://www.rivira.lk/
+Sinhala (Q13267)
+http://www.rivira.lk//wp-json/wp/v2/posts?search=
+************
+Q5822657.json
+732
+El_Observador_(San_Jose)
+Newspaper in San Francisco, California
+https://el-observador.com/
+https://el-observador.com/
+Spanish (Q1321)
+https://el-observador.com//wp-json/wp/v2/posts?search=
+************
+Q55665642.json
+733
+Argus-Courier
+Weekly newspaper in Sonoma County, California
+https://www.petaluma360.com/
+https://www.petaluma360.com/
+English (Q1860)
+https://www.petaluma360.com//wp-json/wp/v2/posts?search=
+************
+Q55665730.json
+734
+Soledad_Bee
+newspaper published in Soledad
+https://soledadbee.com/
+https://soledadbee.com/
+None
+https://soledadbee.com//wp-json/wp/v2/posts?search=
+************
+Q55665586.json
+735
+Asian_Journal
+newspaper published in Los Angeles
+https://www.asianjournal.com/
+https://www.asianjournal.com/
+English (Q1860)
+https://www.asianjournal.com//wp-json/wp/v2/posts?search=
+************
+Q5209228.json
+736
+Daily_Bruin
+Student newspaper of UCLA
+http://www.dailybruin.com
+http://www.dailybruin.com
+None
+http://www.dailybruin.com/wp-json/wp/v2/posts?search=
+************
+Q5430031.json
+737
+Fairborn_Daily_Herald
+newspaper in Fairborn, Ohio
+https://www.fairborndailyherald.com/
+https://www.fairborndailyherald.com/
+None
+https://www.fairborndailyherald.com//wp-json/wp/v2/posts?search=
+************
+Q100754558.json
+738
+El_American
+American news and opinion site
+https://elamerican.com
+https://elamerican.com
+None
+https://elamerican.com/wp-json/wp/v2/posts?search=
+************
+Q3211145.json
+739
+La_Nouvelle_Tribune_(Bénin)
+newspaper
+http://www.lanouvelletribune.info
+http://www.lanouvelletribune.info
+None
+http://www.lanouvelletribune.info/wp-json/wp/v2/posts?search=
+************
+Q5608464.json
+740
+Greymouth_Star
+Daily newspaper published in Greymouth, New Zealand
+http://greystar.co.nz/
+http://greystar.co.nz/
+None
+http://greystar.co.nz//wp-json/wp/v2/posts?search=
+************
+Q16980908.json
+741
+The_Signal_(college_newspaper)
+Georgia State University's student-run newspaper
+http://www.georgiastatesignal.com/
+http://www.georgiastatesignal.com/
+None
+http://www.georgiastatesignal.com//wp-json/wp/v2/posts?search=
+************
+Q7728616.json
+742
+The_Daily_Advocate
+Newspaper in Greenville, Ohio
+http://www.dailyadvocate.com/
+http://www.dailyadvocate.com/
+None
+http://www.dailyadvocate.com//wp-json/wp/v2/posts?search=
+************
+Q478374.json
+743
+Novi_list
+Croatian daily newspaper published in Rijeka
+http://www.novilist.hr/
+http://www.novilist.hr/
+Croatian (Q6654)
+http://www.novilist.hr//wp-json/wp/v2/posts?search=
+************
+Q7419797.json
+744
+Santa_Monica_Mirror
+newspaper in Santa Monica, California
+http://www.smmirror.com/
+http://www.smmirror.com/
+None
+http://www.smmirror.com//wp-json/wp/v2/posts?search=
+************
+Q5008890.json
+745
+CATALYST_Magazine
+newspaper
+http://www.catalystmagazine.net
+http://www.catalystmagazine.net
+None
+http://www.catalystmagazine.net/wp-json/wp/v2/posts?search=
+************
+Q2937392.json
+746
+Capital_(Ethiopia)
+Newspaper
+http://www.capitalethiopia.com
+http://www.capitalethiopia.com
+English (Q1860)
+http://www.capitalethiopia.com/wp-json/wp/v2/posts?search=
+************
+Q7763318.json
+747
+The_Sentinel_(KSU)
+official student newspaper of the Kennesaw State University in Kennesaw, Georgia
+http://www.ksusentinel.com/
+http://www.ksusentinel.com/
+None
+http://www.ksusentinel.com//wp-json/wp/v2/posts?search=
+************
+Q292497.json
+748
+Al-Baʽath
+Arabic language newspaper
+http://newspaper.albaathmedia.sy
+http://newspaper.albaathmedia.sy
+Arabic (Q13955)
+http://newspaper.albaathmedia.sy/wp-json/wp/v2/posts?search=
+************
+Q7763720.json
+749
+The_Shawnee_News-Star
+newspaper in Shawnee, Oklahoma
+http://www.news-star.com
+http://www.news-star.com
+None
+http://www.news-star.com/wp-json/wp/v2/posts?search=
+************
+Q8564206.json
+750
+Folio_Weekly
+newspaper in Jacksonville, Florida
+http://folioweekly.com/
+http://folioweekly.com/
+None
+http://folioweekly.com//wp-json/wp/v2/posts?search=
+************
+Q22908947.json
+751
+Honolulu_Civil_Beat
+newspaper
+https://www.civilbeat.org
+https://www.civilbeat.org
+None
+https://www.civilbeat.org/wp-json/wp/v2/posts?search=
+************
+Q114061671.json
+752
+Kashmir_Monitor
+Indian newspaper
+https://www.thekashmirmonitor.net/
+https://www.thekashmirmonitor.net/
+English (Q1860)
+https://www.thekashmirmonitor.net//wp-json/wp/v2/posts?search=
+************
+Q7718527.json
+753
+The_Bladen_Journal
+US newspaper
+http://www.bladenjournal.com/
+http://www.bladenjournal.com/
+None
+http://www.bladenjournal.com//wp-json/wp/v2/posts?search=
+************
+Q15723778.json
+754
+Odisha_Bhaskar
+Indian Odia language periodical
+http://www.odishabhaskar.com/
+http://www.odishabhaskar.com/
+Odia (Q33810)
+http://www.odishabhaskar.com//wp-json/wp/v2/posts?search=
+************
+Q18708366.json
+755
+The_Fort_Leavenworth_Lamp
+US newspaper
+http://www.ftleavenworthlamp.com/
+http://www.ftleavenworthlamp.com/
+None
+http://www.ftleavenworthlamp.com//wp-json/wp/v2/posts?search=
+************
+Q19869542.json
+756
+Aaj_Samaj
+newspaper
+http://www.aajsamaaj.com/
+http://www.aajsamaaj.com/
+Hindi (Q1568)
+http://www.aajsamaaj.com//wp-json/wp/v2/posts?search=
+************
+Q18333913.json
+757
+TIFF
+newspaper published by the Swedish Defence Materiel Administration
+http://tiff.mil.se
+http://tiff.mil.se
+Swedish (Q9027)
+http://tiff.mil.se/wp-json/wp/v2/posts?search=
+************
+Q7773728.json
+758
+Waterford_News_&_Star
+newspaper
+https://waterford-news.ie/
+https://waterford-news.ie/
+None
+https://waterford-news.ie//wp-json/wp/v2/posts?search=
+************
+Q3128933.json
+759
+Haïti_Progrès
+newspaper
+http://www.haitiprogres.com/
+http://www.haitiprogres.com/
+French (Q150)
+http://www.haitiprogres.com//wp-json/wp/v2/posts?search=
+************
+Q7759802.json
+760
+The_Record-Courier_(Baker_City)
+newspaper in Baker City, Oregon
+http://therconline.com/
+http://therconline.com/
+None
+http://therconline.com//wp-json/wp/v2/posts?search=
+************
+Q5167544.json
+761
+Cooltura
+UK newspaper
+http://www.cooltura.co.uk/
+http://www.cooltura.co.uk/
+Polish (Q809)
+http://www.cooltura.co.uk//wp-json/wp/v2/posts?search=
+************
+Q108850264.json
+762
+El_Tiempo
+Spanish language newspaper from the United States
+https://eltiempolv.com/
+https://eltiempolv.com/
+Spanish (Q1321)
+https://eltiempolv.com//wp-json/wp/v2/posts?search=
+************
+Q4036124.json
+763
+China_Economic_Review
+None
+http://chinaeconomicreview.com/
+http://chinaeconomicreview.com/
+English (Q1860)
+http://chinaeconomicreview.com//wp-json/wp/v2/posts?search=
+************
+Q6850319.json
+764
+MilK_Magazine_(France)
+French monthly magazine
+http://www.milkmagazine.net/
+http://www.milkmagazine.net/
+None
+http://www.milkmagazine.net//wp-json/wp/v2/posts?search=
+************
+Q2997390.json
+765
+Cork_Independent_(newspaper)
+free newspaper in Cork, Ireland
+http://corkindependent.com/
+http://corkindependent.com/
+English (Q1860)
+http://corkindependent.com//wp-json/wp/v2/posts?search=
+************
+Q5209247.json
+766
+Daily_Excelsior
+Indian newspaper
+https://www.dailyexcelsior.com/
+https://www.dailyexcelsior.com/
+English (Q1860)
+https://www.dailyexcelsior.com//wp-json/wp/v2/posts?search=
+************
+Q3177523.json
+767
+Jersey_Evening_Post
+Newspaper on the island of Jersey
+https://www.jerseyeveningpost.com
+https://www.jerseyeveningpost.com
+None
+https://www.jerseyeveningpost.com/wp-json/wp/v2/posts?search=
+************
+Q106891108.json
+768
+Maui_Now
+news outlet serving Maui, Hawaii
+https://mauinow.com/
+https://mauinow.com/
+English (Q1860)
+https://mauinow.com//wp-json/wp/v2/posts?search=
+************
+Q2880205.json
+769
+Bakchich_(internet)
+newspaper
+http://www.bakchich.info
+http://www.bakchich.info
+French (Q150)
+http://www.bakchich.info/wp-json/wp/v2/posts?search=
+************
+Q5159013.json
+770
+Concordiensis
+None
+http://www.concordiensis.com
+http://www.concordiensis.com
+None
+http://www.concordiensis.com/wp-json/wp/v2/posts?search=
+************
+Q39053933.json
+771
+Katoikos.eu
+Web-based magazine
+http://www.katoikos.eu/
+http://www.katoikos.eu/
+None
+http://www.katoikos.eu//wp-json/wp/v2/posts?search=
+************
+Q55667815.json
+772
+Lawrence_County_Press
+newspaper published in Monticello
+https://www.lawrencecountypress.com
+https://www.lawrencecountypress.com
+English (Q1860)
+https://www.lawrencecountypress.com/wp-json/wp/v2/posts?search=
+************
+Q28126791.json
+773
+The_Aquinas
+None
+http://aquinas.scranton.edu/
+http://aquinas.scranton.edu/
+None
+http://aquinas.scranton.edu//wp-json/wp/v2/posts?search=
+************
+Q21526459.json
+774
+Korkusuz
+Turkish tabloid newspaper
+http://www.korkusuz.com.tr/
+http://www.korkusuz.com.tr/
+Turkish (Q256)
+http://www.korkusuz.com.tr//wp-json/wp/v2/posts?search=
+************
+Q7864119.json
+775
+UCSD_Guardian
+None
+http://www.ucsdguardian.org
+http://www.ucsdguardian.org
+None
+http://www.ucsdguardian.org/wp-json/wp/v2/posts?search=
+************
+Q13422541.json
+776
+EITB
+Basque Radio Television
+https://www.eitb.eus
+https://www.eitb.eus
+None
+https://www.eitb.eus/wp-json/wp/v2/posts?search=
+************
+Q5821557.json
+777
+El_Constructor
+newspaper in Argentina
+http://www.elconstructor.com/
+http://www.elconstructor.com/
+Spanish (Q1321)
+http://www.elconstructor.com//wp-json/wp/v2/posts?search=
+************
+Q1794725.json
+778
+Ruijan_Kaiku
+newspaper
+https://www.ruijan-kaiku.no/
+https://www.ruijan-kaiku.no/
+None
+https://www.ruijan-kaiku.no//wp-json/wp/v2/posts?search=
+************
+Q2002826.json
+779
+Nova_Makedonija
+None
+http://www.novamakedonija.com.mk/
+http://www.novamakedonija.com.mk/
+Macedonian (Q9296)
+http://www.novamakedonija.com.mk//wp-json/wp/v2/posts?search=
+************
+Q60770224.json
+780
+Corporate_Dispatch
+Maltese English-language newspaper
+http://corporatedispatch.com
+http://corporatedispatch.com
+None
+http://corporatedispatch.com/wp-json/wp/v2/posts?search=
+************
+Q15862160.json
+781
+Indy_Week
+newspaper
+http://www.indyweek.com
+http://www.indyweek.com
+English (Q1860)
+http://www.indyweek.com/wp-json/wp/v2/posts?search=
+************
+Q3522371.json
+782
+Quebec_Chronicle-Telegraph
+Quebec City newspaper
+http://www.qctonline.com
+http://www.qctonline.com
+English (Q1860)
+http://www.qctonline.com/wp-json/wp/v2/posts?search=
+************
+Q107289718.json
+783
+ActualTV
+Spanish media about television
+https://actualtv.es
+https://actualtv.es
+None
+https://actualtv.es/wp-json/wp/v2/posts?search=
+************
+Q3546778.json
+784
+Témoignage_chrétien
+newspaper
+http://temoignagechretien.fr/
+http://temoignagechretien.fr/
+French (Q150)
+http://temoignagechretien.fr//wp-json/wp/v2/posts?search=
+************
+Q16873216.json
+785
+Oakland_Post_(California)
+African-American weekly newspaper
+http://postnewsgroup.com/
+http://postnewsgroup.com/
+English (Q1860)
+http://postnewsgroup.com//wp-json/wp/v2/posts?search=
+************
+Q7033001.json
+786
+The_Nigerian_Observer
+Nigerian daily newspaper
+http://nigerianobservernews.com
+http://nigerianobservernews.com
+None
+http://nigerianobservernews.com/wp-json/wp/v2/posts?search=
+************
+Q7269704.json
+787
+Qué_Pasa_(newspaper)
+Spanish-language newspaper circulated in North Carolina
+https://quepasamedia.com/
+https://quepasamedia.com/
+Spanish (Q1321)
+https://quepasamedia.com//wp-json/wp/v2/posts?search=
+************
+Q18389487.json
+788
+The_Costa_Rica_Star
+English-language news publication
+http://news.co.cr
+http://news.co.cr
+None
+http://news.co.cr/wp-json/wp/v2/posts?search=
+************
+Q13447289.json
+789
+Estes_Park_Trail-Gazette
+newspaper in Estes Park, Colorado, United States
+https://www.eptrail.com/
+https://www.eptrail.com/
+None
+https://www.eptrail.com//wp-json/wp/v2/posts?search=
+************
+Q5583019.json
+790
+Good_Times_(newspaper)
+weekly newspaper based in Santa Cruz, California
+http://www.gtweekly.com/
+http://www.gtweekly.com/
+English (Q1860)
+http://www.gtweekly.com//wp-json/wp/v2/posts?search=
+************
+Q4068569.json
+791
+Ararad_(daily)
+Daily Lebanese Armenian newspaper
+https://araraddaily.com
+https://araraddaily.com
+Armenian (Q8785)
+https://araraddaily.com/wp-json/wp/v2/posts?search=
+************
+Q4229126.json
+792
+Komanda_(newspaper)
+Ukrainian sport newspaper
+http://www.komanda.com.ua
+http://www.komanda.com.ua
+Ukrainian (Q8798)
+http://www.komanda.com.ua/wp-json/wp/v2/posts?search=
+************
+Q12255560.json
+793
+Busturialdeko_Hitza
+newspaper in Basque language
+http://busturialdea.hitza.eus
+http://busturialdea.hitza.eus
+Basque (Q8752)
+http://busturialdea.hitza.eus/wp-json/wp/v2/posts?search=
+************
+Q4823052.json
+794
+Austin_Daily_Herald
+newspaper in Austin, Minnesota
+https://www.austindailyherald.com/
+https://www.austindailyherald.com/
+English (Q1860)
+https://www.austindailyherald.com//wp-json/wp/v2/posts?search=
+************
+Q7558750.json
+795
+Solomon_Star
+newspaper in Solomon Islands
+http://www.solomonstarnews.com/
+http://www.solomonstarnews.com/
+None
+http://www.solomonstarnews.com//wp-json/wp/v2/posts?search=
+************
+Q15917578.json
+796
+East_African_Business_Week
+newspaper in Uganda
+http://www.busiweek.com/
+http://www.busiweek.com/
+None
+http://www.busiweek.com//wp-json/wp/v2/posts?search=
+************
+Q7988160.json
+797
+Western_People
+Irish newspaper
+http://www.westernpeople.ie/
+http://www.westernpeople.ie/
+None
+http://www.westernpeople.ie//wp-json/wp/v2/posts?search=
+************
+Q55666738.json
+798
+Brown_County_Democrat
+Weekly newspaper published in Nashville, Indiana
+http://www.bcdemocrat.com/
+http://www.bcdemocrat.com/
+None
+http://www.bcdemocrat.com//wp-json/wp/v2/posts?search=
+************
+Q87116734.json
+799
+Tribuna_de_Los_Cabos
+Mexican news website
+http://www.tribunadeloscabos.com.mx/
+http://www.tribunadeloscabos.com.mx/
+Spanish (Q1321)
+http://www.tribunadeloscabos.com.mx//wp-json/wp/v2/posts?search=
+************
+Q56236406.json
+800
+Glenwood_Springs_Post_Independent
+Colorado daily newspaper
+https://www.postindependent.com/
+https://www.postindependent.com/
+None
+https://www.postindependent.com//wp-json/wp/v2/posts?search=
+************
+Q16982561.json
+801
+New_Journal_and_Guide
+Newspaper based in Virginia, United States
+http://www.thenewjournalandguide.com/
+http://www.thenewjournalandguide.com/
+English (Q1860)
+http://www.thenewjournalandguide.com//wp-json/wp/v2/posts?search=
+************
+Q7743213.json
+802
+The_Jewish_Exponent
+Newspaper in Philadelphia, Pennsylvania
+http://www.jewishexponent.com/
+http://www.jewishexponent.com/
+English (Q1860)
+http://www.jewishexponent.com//wp-json/wp/v2/posts?search=
+************
+Q6394871.json
+803
+Kesari_(newspaper)
+Marathi newspaper
+http://www.dailykesari.com/
+http://www.dailykesari.com/
+Marathi (Q1571)
+http://www.dailykesari.com//wp-json/wp/v2/posts?search=
+************
+Q7835917.json
+804
+Travel_Extra
+newspaper
+http://www.travelextra.ie
+http://www.travelextra.ie
+None
+http://www.travelextra.ie/wp-json/wp/v2/posts?search=
+************
+Q55668602.json
+805
+Jamestown_Press
+newspaper published in Jamestown, Rhode Island
+http://www.jamestownpress.com/
+http://www.jamestownpress.com/
+None
+http://www.jamestownpress.com//wp-json/wp/v2/posts?search=
+************
+Q111013342.json
+806
+ATIN_ITO
+Newspaper
+https://www.atinitonews.com
+https://www.atinitonews.com
+None
+https://www.atinitonews.com/wp-json/wp/v2/posts?search=
+************
+Q6034827.json
+807
+Inland_Valley_Daily_Bulletin
+Southern California newspaper
+https://www.dailybulletin.com/
+https://www.dailybulletin.com/
+English (Q1860)
+https://www.dailybulletin.com//wp-json/wp/v2/posts?search=
+************
+Q7772963.json
+808
+The_Voice_(Botswana)
+newspaper in Botswana
+http://www.thevoicebw.com
+http://www.thevoicebw.com
+None
+http://www.thevoicebw.com/wp-json/wp/v2/posts?search=
+************
+Q7749748.json
+809
+The_Malibu_Times
+Newspaper in Malibu, California
+http://www.malibutimes.com
+http://www.malibutimes.com
+None
+http://www.malibutimes.com/wp-json/wp/v2/posts?search=
+************
+Q6773546.json
+810
+Marshall_Democrat-News
+newspaper in Marshall, Missouri
+http://www.marshallnews.com/
+http://www.marshallnews.com/
+None
+http://www.marshallnews.com//wp-json/wp/v2/posts?search=
+************
+Q16271798.json
+811
+Northern_truth
+newspaper
+http://www.севернаяправда.рф/
+http://www.севернаяправда.рф/
+None
+http://www.севернаяправда.рф//wp-json/wp/v2/posts?search=
+************
+Q7753459.json
+812
+The_Nevada_Sagebrush
+Independent student newspaper of the University of Nevada, Reno
+http://www.nevadasagebrush.com/
+http://www.nevadasagebrush.com/
+None
+http://www.nevadasagebrush.com//wp-json/wp/v2/posts?search=
+************
+Q12506259.json
+813
+Pos_Metro_Batam
+newspaper in Indonesia
+https://posmetro.co/
+https://posmetro.co/
+Indonesian (Q9240)
+https://posmetro.co//wp-json/wp/v2/posts?search=
+************
+Q7058790.json
+814
+Northern_News
+Canadian news websites
+http://www.northernnews.ca
+http://www.northernnews.ca
+None
+http://www.northernnews.ca/wp-json/wp/v2/posts?search=
+************
+Q2871743.json
+815
+Aujourd'hui_Le_Maroc
+None
+http://www.aujourdhui.ma/
+http://www.aujourdhui.ma/
+French (Q150)
+http://www.aujourdhui.ma//wp-json/wp/v2/posts?search=
+************
+Q5505774.json
+816
+FrontPage_Africa
+Liberian daily newspaper
+http://frontpageafricaonline.com/
+http://frontpageafricaonline.com/
+English (Q1860)
+http://frontpageafricaonline.com//wp-json/wp/v2/posts?search=
+************
+Q5903502.json
+817
+Horizon_Weekly
+Armenian newspaper in Canada
+https://horizonweekly.ca/
+https://horizonweekly.ca/
+['English (Q1860)', 'Armenian (Q8785)']
+https://horizonweekly.ca//wp-json/wp/v2/posts?search=
+************
+Q2949687.json
+818
+ProSport
+Romanian sports news outlet
+http://www.prosport.ro/
+http://www.prosport.ro/
+Romanian (Q7913)
+http://www.prosport.ro//wp-json/wp/v2/posts?search=
+************
+Q7302833.json
+819
+Record_Herald
+newspaper in Washington Court House, Ohio
+http://www.recordherald.com/
+http://www.recordherald.com/
+None
+http://www.recordherald.com//wp-json/wp/v2/posts?search=
+************
+Q24589959.json
+820
+The_74
+American education news website
+http://www.the74million.org
+http://www.the74million.org
+None
+http://www.the74million.org/wp-json/wp/v2/posts?search=
+************
+Q5529826.json
+821
+Geelong_Advertiser
+Daily newspaper circulating in Geelong, Victoria, Australia
+http://www.geelongadvertiser.com.au/
+http://www.geelongadvertiser.com.au/
+None
+http://www.geelongadvertiser.com.au//wp-json/wp/v2/posts?search=
+************
+Q3565277.json
+822
+WalFadjri
+independent French newspaper
+http://www.walf-groupe.com/
+http://www.walf-groupe.com/
+French (Q150)
+http://www.walf-groupe.com//wp-json/wp/v2/posts?search=
+************
+Q3821305.json
+823
+La_Voce_Repubblicana
+newspaper
+https://vocerepubblicana.it/
+https://vocerepubblicana.it/
+Italian (Q652)
+https://vocerepubblicana.it//wp-json/wp/v2/posts?search=
+************
+Q7765771.json
+824
+The_Spectator
+USA broadsheet
+http://www.vsuspectator.com/
+http://www.vsuspectator.com/
+None
+http://www.vsuspectator.com//wp-json/wp/v2/posts?search=
+************
+Q12524187.json
+825
+Waspada
+Indonesian daily newspaper published in Medan
+https://www.waspada.co.id/
+https://www.waspada.co.id/
+Indonesian (Q9240)
+https://www.waspada.co.id//wp-json/wp/v2/posts?search=
+************
+Q734581.json
+826
+The_Borneo_Post
+Newspaper
+http://www.theborneopost.com/
+http://www.theborneopost.com/
+English (Q1860)
+http://www.theborneopost.com//wp-json/wp/v2/posts?search=
+************
+Q29877528.json
+827
+Nueva_Sion
+Argentinian Jewish news paper
+http://www.nuevasion.com.ar
+http://www.nuevasion.com.ar
+None
+http://www.nuevasion.com.ar/wp-json/wp/v2/posts?search=
+************
+Q110661400.json
+828
+Gameign
+Gameign, Video Game news agency
+https://gameign.com
+https://gameign.com
+None
+https://gameign.com/wp-json/wp/v2/posts?search=
+************
+Q105753404.json
+829
+Breaking_9_To_5
+newspaper in United States of America
+https://breaking9to5.com
+https://breaking9to5.com
+None
+https://breaking9to5.com/wp-json/wp/v2/posts?search=
+************
+Q3997077.json
+830
+Trabajadores_(newspaper)
+newspaper
+http://www.trabajadores.cu
+http://www.trabajadores.cu
+['Spanish (Q1321)', 'English (Q1860)']
+http://www.trabajadores.cu/wp-json/wp/v2/posts?search=
+************
+Q4894698.json
+831
+Berrien_County_Record
+newspaper
+http://www.bcrnews.net/
+http://www.bcrnews.net/
+None
+http://www.bcrnews.net//wp-json/wp/v2/posts?search=
+************
+Q108122218.json
+832
+Lake_and_McHenry_County_Scanner
+newspaper published in Lake County, Illinois, USA
+https://www.lakemchenryscanner.com/
+https://www.lakemchenryscanner.com/
+English (Q1860)
+https://www.lakemchenryscanner.com//wp-json/wp/v2/posts?search=
+************
+Q3044967.json
+833
+Pittsburgh_Tribune-Review
+Daily newspaper in Pittsburgh, Pennsylvania
+http://www.triblive.com
+http://www.triblive.com
+None
+http://www.triblive.com/wp-json/wp/v2/posts?search=
+************
+Q7996870.json
+834
+Whittier_Daily_News
+Newspaper in Whittier, California
+https://www.whittierdailynews.com/
+https://www.whittierdailynews.com/
+English (Q1860)
+https://www.whittierdailynews.com//wp-json/wp/v2/posts?search=
+************
+Q87122077.json
+835
+Esto
+Mexican news website
+http://www.esto.com.mx/
+http://www.esto.com.mx/
+Spanish (Q1321)
+http://www.esto.com.mx//wp-json/wp/v2/posts?search=
+************
+Q3742996.json
+836
+Lääne_Elu
+Estonian newspaper
+https://online.le.ee/
+https://online.le.ee/
+Estonian (Q9072)
+https://online.le.ee//wp-json/wp/v2/posts?search=
+************
+Q19866976.json
+837
+Rock_River_Times
+newspaper in Rockford, Illinois
+http://rockrivertimes.com/
+http://rockrivertimes.com/
+None
+http://rockrivertimes.com//wp-json/wp/v2/posts?search=
+************
+Q47346044.json
+838
+Goa_Prism
+Online News Paper and Magazine
+https://www.goaprism.com
+https://www.goaprism.com
+None
+https://www.goaprism.com/wp-json/wp/v2/posts?search=
+************
+Q4702211.json
+839
+Al_Arab_Al_Yawm_(newspaper)
+Jordanian newspaper
+http://www.alarabalyawm.net/
+http://www.alarabalyawm.net/
+Arabic (Q13955)
+http://www.alarabalyawm.net//wp-json/wp/v2/posts?search=
+************
+Q893337.json
+840
+Borba_(newspaper)
+periodical literature
+http://www.borba.rs/
+http://www.borba.rs/
+Serbian (Q9299)
+http://www.borba.rs//wp-json/wp/v2/posts?search=
+************
+Q909209.json
+841
+El_Comercio_(Ecuador)
+Newspaper from Ecuador
+http://elcomercio.com/
+http://elcomercio.com/
+Spanish (Q1321)
+http://elcomercio.com//wp-json/wp/v2/posts?search=
+************
+Q18156718.json
+842
+Multi-Housing_News
+Defunct American magazine
+http://www.multihousingnews.com
+http://www.multihousingnews.com
+English (Q1860)
+http://www.multihousingnews.com/wp-json/wp/v2/posts?search=
+************
+Q19973883.json
+843
+Le_Soleil_de_la_Floride
+US newspaper
+http://www.lesoleildelafloride.com
+http://www.lesoleildelafloride.com
+None
+http://www.lesoleildelafloride.com/wp-json/wp/v2/posts?search=
+************
+Q55667150.json
+844
+Millbury-Sutton_Chronicle
+newspaper published in Millbury
+https://millburysutton.com
+https://millburysutton.com
+None
+https://millburysutton.com/wp-json/wp/v2/posts?search=
+************
+Q7762277.json
+845
+The_Saratogian
+Newspaper in Saratoga Springs, New York
+https://www.saratogian.com/
+https://www.saratogian.com/
+English (Q1860)
+https://www.saratogian.com//wp-json/wp/v2/posts?search=
+************
+Q1793105.json
+846
+Kurier_Wileński
+Polish-language newspaper in Lithuania
+http://www.kurierwilenski.lt/
+http://www.kurierwilenski.lt/
+Polish (Q809)
+http://www.kurierwilenski.lt//wp-json/wp/v2/posts?search=
+************
+Q7896505.json
+847
+University_of_Tulsa_Collegian
+None
+http://tucollegian.org
+http://tucollegian.org
+None
+http://tucollegian.org/wp-json/wp/v2/posts?search=
+************
+Q7122346.json
+848
+Pacific_Citizen
+newspaper in Los Angeles, California
+http://www.pacificcitizen.org/
+http://www.pacificcitizen.org/
+None
+http://www.pacificcitizen.org//wp-json/wp/v2/posts?search=
+************
+Q7182650.json
+849
+Philadelphia_City_Paper
+US newspaper
+http://www.citypaper.net/
+http://www.citypaper.net/
+English (Q1860)
+http://www.citypaper.net//wp-json/wp/v2/posts?search=
+************
+Q7013005.json
+850
+The_New_York_Age
+African-American newspaper published 1887 - 1960
+https://thenewyorkage.com
+https://thenewyorkage.com
+English (Q1860)
+https://thenewyorkage.com/wp-json/wp/v2/posts?search=
+************
+Q7750447.json
+851
+The_Martha's_Vineyard_Times
+newspaper
+http://www.mvtimes.com/
+http://www.mvtimes.com/
+English (Q1860)
+http://www.mvtimes.com//wp-json/wp/v2/posts?search=
+************
+Q7238836.json
+852
+Pravasi_Express
+Singapore bilingual newspaper
+http://www.pravasiexpress.com/
+http://www.pravasiexpress.com/
+Malayalam (Q36236)
+http://www.pravasiexpress.com//wp-json/wp/v2/posts?search=
+************
+Q7751253.json
+853
+The_Michigan_Review
+None
+http://www.michiganreview.com/
+http://www.michiganreview.com/
+None
+http://www.michiganreview.com//wp-json/wp/v2/posts?search=
+************
+Q4062911.json
+854
+Altaydyn_cholmony
+newspaper
+http://altaicholmon.ru/
+http://altaicholmon.ru/
+Altai (Q1991779)
+http://altaicholmon.ru//wp-json/wp/v2/posts?search=
+************
+Q16971349.json
+855
+Brown_Political_Review
+American student-run political magazine
+http://www.brownpoliticalreview.org/
+http://www.brownpoliticalreview.org/
+None
+http://www.brownpoliticalreview.org//wp-json/wp/v2/posts?search=
+************
+Q67144786.json
+856
+Somerset_Leveller
+local newspaper for Somerset, England
+https://leveller.live/
+https://leveller.live/
+English (Q1860)
+https://leveller.live//wp-json/wp/v2/posts?search=
+************
+Q7760662.json
+857
+The_Richfield_Reaper
+newspaper in Richfield, Utah
+http://www.richfieldreaper.com
+http://www.richfieldreaper.com
+None
+http://www.richfieldreaper.com/wp-json/wp/v2/posts?search=
+************
+Q7984074.json
+858
+Wesleying
+Wesleyan University student blog
+http://wesleying.org/
+http://wesleying.org/
+None
+http://wesleying.org//wp-json/wp/v2/posts?search=
+************
+Q3080776.json
+859
+Suomenmaa
+newspaper
+https://www.suomenmaa.fi/
+https://www.suomenmaa.fi/
+Finnish (Q1412)
+https://www.suomenmaa.fi//wp-json/wp/v2/posts?search=
+************
+Q5290851.json
+860
+Dominican_Today
+Online Dominican newspaper
+http://www.dominicantoday.com
+http://www.dominicantoday.com
+None
+http://www.dominicantoday.com/wp-json/wp/v2/posts?search=
+************
+Q55603009.json
+861
+A_Nação
+Cape Verdean newspaper
+http://www.anacao.cv
+http://www.anacao.cv
+None
+http://www.anacao.cv/wp-json/wp/v2/posts?search=
+************
+Q5287844.json
+862
+Dodge_City_Daily_Globe
+newspaper in Dodge City, Kansas
+http://www.dodgeglobe.com/
+http://www.dodgeglobe.com/
+English (Q1860)
+http://www.dodgeglobe.com//wp-json/wp/v2/posts?search=
+************
