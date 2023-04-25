@@ -16,6 +16,10 @@ then
 
 wikidata-dl get_newspaper_info.sparql
 
+
+also 
+pip3 install mkwikidata
+
 PROGRESS
 
 This methodology could be followed in general for different sets of sites of interest, but in particular the ultimate goal is to identify websites which are searchable and scrapable via Wordpress API.  Wordpress API has a very simple and configurable search, can be presented with a null search to return "all" results (useful for "gentle" scraping), and returns results in a regular and predictable JSON format.  Here's the plan.
