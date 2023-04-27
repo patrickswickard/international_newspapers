@@ -22,6 +22,8 @@ pip3 install mkwikidata
 
 PROGRESS
 
+This mess is currently in the hacking phases and not meant for public use.  Pardon the untidiness.
+
 This methodology could be followed in general for different sets of sites of interest, but in particular the ultimate goal is to identify websites which are searchable and scrapable via Wordpress API.  Wordpress API has a very simple and configurable search, can be presented with a null search to return "all" results (useful for "gentle" scraping), and returns results in a regular and predictable JSON format.  Here's the plan.
 
 * Generate a sparql query that aggregates some data set from wikidata that have associated website urls along with associated metadata of interest.  The initial query here was used to find international newspapers with websites since it is EXTREMELY common for newspaper websites in particular to run Wordpress on their back end.
