@@ -46,7 +46,7 @@ Next steps:
 
 * Create code to scrape a subset of interest similar to above (with a query or all articles with a null query)
 
-* "Good citizen" bonus for identifying missing data that can be trivially enhanced in on Wikidata itself.
+* "Good citizen" bonus for identifying missing data that can be trivially enhanced in on Wikidata itself.  Currently doing this for >400 wikidata entries for valid newspapers that lack information about which language is used (P407).
 
 Horizon:
 
