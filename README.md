@@ -47,3 +47,9 @@ Next steps:
 * Create code to scrape a subset of interest similar to above (with a query or all articles with a null query)
 
 * "Good citizen" bonus for identifying missing data that can be trivially enhanced in on Wikidata itself.
+
+Horizon:
+
+* Useful uses for this include as above creating an instantly-searchable set of endpoints or a means to create repositories of sets of text for analysis from various news sources
+
+* Playful uses for this could combine other fun and useless scripts such as hunting for accidental haikus, etc.
