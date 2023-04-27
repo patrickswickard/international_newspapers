@@ -13,6 +13,8 @@ legit_file.close()
 wordpress_legitimate_list = []
 
 count = 0
+langhash = {}
+print
 for thisfilename in legit_list:
     thisfile = open('wikidata/' + thisfilename)
     thishash = json.loads(thisfile.read())
@@ -22,21 +24,14 @@ for thisfilename in legit_list:
     language = thishash['wikidata'].get('language of work or name (P407)','None')
     #print(language)
     #language = thishash['wikidata']['language of work or name (P407)']
-    langhash = {}
     if type(language) is list:
         language = language[0]
     if not language == 'None':
       print(language)
-      try:
-        langval = langhash[language]
-        langval += 1
-        print(langval)
-        langhash[language] = langval
-      except:
+      if language in list(langhash.keys()):
+        langhash[language] += 1
+      else:
         langhash[language] = 1
-      continue
-    else:
-      pass
     count += 1
     print(count)
     print('https://www.wikidata.org/wiki/' + id)
@@ -60,10 +55,11 @@ for thisfilename in legit_list:
     full_url = base_url + '/wp-json/wp/v2/posts?search='
     print(full_url)
     wordpress_legitimate_list.append(thisfilename)
-    inp = input('press any key to continue')
+    #inp = input('press any key to continue')
     print('************')
 #outfile = open("outfile_wplegit.txt",'w')
 #outfile.write(json.dumps(wordpress_legitimate_list))
 #outfile.close
 #print(wordpress_legitimate_list)
-print(langhash)
+for i in langhash.keys():
+    print(str(i) + '|' + str(langhash[i]))

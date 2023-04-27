@@ -1,0 +1,76 @@
+Spanish (Q1321)|48
+English (Q1860)|178
+Finnish (Q1412)|9
+Brazilian Portuguese (Q750553)|1
+Greek (Q9129)|8
+Persian (Q9168)|1
+American English (Q7976)|2
+Belarusian (Q9091)|3
+Slovene (Q9063)|1
+Macedonian (Q9296)|3
+Romanian (Q7913)|6
+Armenian (Q8785)|4
+Hindi (Q1568)|7
+Luxembourgish (Q9051)|1
+Dutch (Q7411)|1
+Russian (Q7737)|9
+French (Q150)|30
+Lithuanian (Q9083)|2
+Telugu (Q8097)|2
+Norwegian (Q9043)|4
+Võro (Q32762)|1
+Swedish (Q9027)|6
+Punjabi (Q58635)|1
+Turkish (Q256)|3
+Arabic (Q13955)|9
+Galician (Q9307)|2
+Slovak (Q9058)|1
+Croatian (Q6654)|3
+Sinhala (Q13267)|2
+Albanian (Q8748)|6
+Italian (Q652)|2
+Marathi (Q1571)|5
+Urdu (Q1617)|3
+Kannada (Q33673)|2
+Portuguese (Q5146)|5
+Chinese (Q7850)|1
+Dzongkha (Q33081)|2
+Nynorsk (Q25164)|1
+Bengali (Q9610)|3
+Catalan (Q7026)|3
+Hungarian (Q9067)|3
+Japanese (Q5287)|5
+Nigerian English (Q7033019)|1
+Adyghe (Q27776)|1
+Inari Sami (Q33462)|1
+Danish (Q9035)|1
+Polish (Q809)|6
+Ukrainian (Q8798)|5
+Latvian (Q9078)|3
+North Korean standard language (Q18784)|1
+Chechen (Q33350)|1
+German (Q188)|6
+Maithili (Q36109)|1
+Malay (Q9237)|2
+Estonian (Q9072)|5
+Hyderabad (Q1361)|1
+Icelandic (Q294)|1
+Brahui (Q33202)|1
+Bulgarian (Q7918)|2
+Gujarati (Q5137)|3
+Tatar (Q25285)|1
+Malayalam (Q36236)|3
+Khmer (Q9205)|1
+Ossetian (Q33968)|1
+Korean (Q9176)|1
+Georgian (Q8108)|1
+Thai (Q9217)|1
+Malaysian Malay (Q15065)|1
+Bokmål (Q25167)|1
+British English (Q7979)|1
+Nepali (Q33823)|1
+Odia (Q33810)|1
+Basque (Q8752)|1
+Indonesian (Q9240)|2
+Serbian (Q9299)|1
+Altai (Q1991779)|1
