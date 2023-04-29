@@ -3,22 +3,9 @@ import json
 import re
 import requests
 import csv
-import mkwikidata
 
-query = """
-SELECT ?item ?itemLabel ?country ?countryLabel ?place ?placeLabel ?language ?languageLabel ?pic ?offurl
-WHERE
-{
-?item wdt:P31 wd:Q11032 .
-OPTIONAL {?item wdt:P17 ?country .}
-OPTIONAL {?item wdt:P291 ?place .}
-OPTIONAL {?item wdt:P407 ?language .}
-OPTIONAL {?item wdt:P154 ?pic .}
-?item wdt:P856 ?offurl
-SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en" }
-}
-"""
-query_result = mkwikidata.run_query(query, params={ })
+wikidata_query_result_file = open("wikidata_query_result.json",'r')
+query_result = json.loads(wikidata_query_result_file.read())
 
 language_hash = {}
 

@@ -20,6 +20,10 @@ SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en" 
 """
 query_result = mkwikidata.run_query(query, params={ })
 
+outfile = open("wikidata_query_result.json",'w')
+outfile.write(json.dumps(query_result))
+outfile.close
+
 language_hash = {}
 
 biglist = query_result['results']['bindings']
