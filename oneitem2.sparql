@@ -10,6 +10,6 @@ WHERE
 #OPTIONAL {?item wdt:P154 ?pic .}
 ?item wdt:P856 ?offurl
 #FILTER(?item = wd:Q12719396)
-FILTER(?item in (wd:Q12719396, wd:Q5287844))
+FILTER(?item in (wd:Q12719396, wd:Q67144786))
 SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en" }
 }}
