@@ -54,6 +54,12 @@ Note that a lot of this code is a bit hacky.  Part of the reason for this is tha
 
 Next steps:
 
+* Immediate next step: need a static json file that is keyed on each legitimate newspaper item QID and has at minimum the information given in the big SPARQL query that got spit out to wikidata_query_result.json .
+
+* After that step, flesh out other fields from the spotty information "accidentally" downloaded with wikidata-dl tool.  (Not all items download due to some bugs, but this contains more complete information than is given from the regular SPARQL query)
+
+* Need code that can load the information from a legitimate hash and perform a search given as input a QID and a search query and save/display the data for the user.  The basics of performing this search will be fairly straightforward
+
 * Write code to explore the metadata for a given set of wikidata objects for possible subsets of interest.
 
 * Using the existing "legitimate newspapers" set, identify subsets of interest (e.g. African newspapers, French language newspapers, etc)
