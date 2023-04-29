@@ -38,6 +38,10 @@ So far, roughly 6000 newspaper websites were identified.  About 1000 of these we
 
 After identifying the legitimate newspapers searchable with Wordpress API, I went through the data available in wikidata corresponding to those newspapers in particular to identify the primary language for each source.  About half of the wikidata items had a P407 (language of work or name) associated with them, hopefully accurate.  For the ones where the P407 field was missing, I did a cleanup job.  I identified the sources that were missing this information and filled those fields in on the Wikidata site when it was possible to do so.  I then re-ran the wikidata query and this allowed me for nearly all the sources to identify the primary language for search and/or translation purposes by combining the results of that search with the data I had previously grabbed.  This was a bit "hacky" but it resulted in more metadata for me and a benefit for other Wikidata users.
 
+Latest progress:
+
+qtosearch.py is a sort of proof of concept for searching French language sources with a canned search (eau) and grabbing up to ten results per page.  This spits results out to a file called french_source_eau_search.json which contains full text of articles from each source.  This can be improved on, but this already trivially grabs a fairly large amount of data quickly spread out over 34 sources with a common element, French-language newspapers and with a lot of associated metadata including dates, links, author when available, etc.
+
 Useful files:
 
 get_newspaper_info.sparql - a sparql query for grabbing fields of interest from Wikidata
@@ -54,11 +58,7 @@ Note that a lot of this code is a bit hacky.  Part of the reason for this is tha
 
 Next steps:
 
-* Immediate next step: need a static json file that is keyed on each legitimate newspaper item QID and has at minimum the information given in the big SPARQL query that got spit out to wikidata_query_result.json .
-
-* After that step, flesh out other fields from the spotty information "accidentally" downloaded with wikidata-dl tool.  (Not all items download due to some bugs, but this contains more complete information than is given from the regular SPARQL query)
-
-* Need code that can load the information from a legitimate hash and perform a search given as input a QID and a search query and save/display the data for the user.  The basics of performing this search will be fairly straightforward
+* Flesh out other fields from the spotty information "accidentally" downloaded with wikidata-dl tool.  (Not all items download due to some bugs, but this contains more complete information than is given from the regular SPARQL query)
 
 * Write code to explore the metadata for a given set of wikidata objects for possible subsets of interest.
 
