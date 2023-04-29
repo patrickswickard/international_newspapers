@@ -34,7 +34,23 @@ This methodology could be followed in general for different sets of sites of int
 
 * The final product of this ends up being a set of wikidata objects with associated urls that can be trivially searched by Wordpress API.  And since these are all Wikidata objects, there is ample metadata for searching some subset or superset of those associated objects.
 
-So far, roughly 6000 newspaper websites were identified.  About 1000 of these were determined to be running Wordpress API on the back end available to perform a simple search returning JSON.  Of these, about 862 appeared to be current functional non-spam newspaper websites.
+So far, roughly 6000 newspaper websites were identified.  About 1000 of these were determined to be running Wordpress API on the back end available to perform a simple search returning JSON.  Of these, roughly 860 appeared to be current functional non-spam newspaper websites.
+
+After identifying the legitimate newspapers searchable with Wordpress API, I went through the data available in wikidata corresponding to those newspapers in particular to identify the primary language for each source.  About half of the wikidata items had a P407 (language of work or name) associated with them, hopefully accurate.  For the ones where the P407 field was missing, I did a cleanup job.  I identified the sources that were missing this information and filled those fields in on the Wikidata site when it was possible to do so.  I then re-ran the wikidata query and this allowed me for nearly all the sources to identify the primary language for search and/or translation purposes by combining the results of that search with the data I had previously grabbed.  This was a bit "hacky" but it resulted in more metadata for me and a benefit for other Wikidata users.
+
+Useful files:
+
+get_newspaper_info.sparql - a sparql query for grabbing fields of interest from Wikidata
+
+wikidata_query_result.json - a json dump of as a result of running the sparql query above after cleaning up data as previously described
+
+language_hash.json - a json hash which is keyed on the QID of wikidata items corresponding to newspapers with values corresponding to the language of the newspaper
+
+spam.txt - a list of wikidata file ids downloaded by wikidata-dl corresponding to sites which appear to no longer function as newspapers (e.g. taken over by spammers or squatters, extremely low-quality or dubious sites, etc)
+
+outfile_wplegit.json - json file consisting of a list of json files (format QID.txt) which correspond to legitimate-seeming newspaper sites and containing information from Wikidata on those sites
+
+Note that a lot of this code is a bit hacky.  Part of the reason for this is that some of the tools and modules I've been using to grab information from Wikidata such as wikidata-dl, while useful, have a lot of frustrating bugs and quirks and different functionality between versions.
 
 Next steps:
 
