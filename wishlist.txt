@@ -1,0 +1,11 @@
+WISHLIST
+
+Okay, in light of how this has gone for me so far in hacking out a list of Wordpress sites etc here's a short wishlist of what would have made my life easier if I wasn't hacking and developing tools as I went.  This would potentially aid the next person greatly in developing things.
+
+First, it should be simpler to obtain a list of QID codes we may care about and spit them out to a json file for future use and/or obtain them real-time.  So a utility that takes a sparql query and then spits out the QIDs to a JSON file for future manipulation should be easy.
+
+Second, it should be simpler when given an *arbitrary* and possible large set of QID codes to perform requests against Wikidata to gather the desired information about that set of codes.  Not every set we care about will be the natural output of a sparql request or even a sparql request with post-processing.  We want to be able to curate this ourselves.  For purposes of this wordpress API project we are particularly interested in obtaining urls corresponding to QIDs.
+
+Also note that there are two tools we have been using to obtain data which have their quirks and flaws.  The wikidata-dl tool has a few different versions floating around.  One by default downloads individual wikidata items with fairly complete records but breaks on some inputs.  There's also a mkwikidata tool which basically returns the output of doing a sparql query against wikidata but returns no more fields than requested so it isn't as good for metadata exploration.
+
+My personal feeling is that wikidata can be brittle, weird, and fussy.  But it's also incredibly useful when it's well-developed and fleshed-out.
