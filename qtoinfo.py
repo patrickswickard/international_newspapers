@@ -16,12 +16,12 @@ biglist = query_result['results']['bindings']
 for thisitem in biglist:
   id1 = thisitem.get('item',{}).get('value')
   id2 = re.sub('http://www.wikidata.org/entity/','',id1)
-  print(id1)
-  print(id2)
+  #print(id1)
+  #print(id2)
   language1 = thisitem.get('languageLabel',{}).get('value')
   language2 = thisitem.get('language',{}).get('value')
-  print(language1)
-  print(language2)
+  #print(language1)
+  #print(language2)
   if language2:
     language3 = re.sub('http://www.wikidata.org/entity/','',language2)
     language_hash[id2] = language1 + ' (' + str(language3) + ')'
@@ -29,13 +29,13 @@ for thisitem in biglist:
     language_hash[id2] = language1
   thisoffurl = thisitem.get('offurl',{}).get('value')
   offurl_hash[id2] = thisoffurl
-  print(thisoffurl)
+  #print(thisoffurl)
   thiscountry = thisitem.get('countryLabel',{}).get('value')
   country_hash[id2] = thiscountry
-  print(thiscountry)
+  #print(thiscountry)
   thisplace = thisitem.get('placeLabel',{}).get('value')
   place_hash[id2] = thisplace
-  print(thisplace)
+  #print(thisplace)
 
 legit_file = open("outfile_wplegit.txt",'r')
 
@@ -77,14 +77,14 @@ for thisfilename in legit_list:
     if type(language) is list:
         language = language[0]
     if not language == 'None':
-      print(language)
+      #print(language)
       if language in list(langhash.keys()):
         langhash[language] += 1
       else:
         langhash[language] = 1
     else:
       language = fetch_language(id)
-      print(language)
+      #print(language)
       if language in list(langhash.keys()):
         langhash[language] += 1
       else:
@@ -93,12 +93,12 @@ for thisfilename in legit_list:
     country = fetch_country(id)
     place = fetch_place(id)
     count += 1
-    print(count)
-    print('https://www.wikidata.org/wiki/' + id)
+    #print(count)
+    #print('https://www.wikidata.org/wiki/' + id)
     title = thishash['title']
-    print(title)
+    #print(title)
     description = thishash['description']
-    print(description)
+    #print(description)
     base_url = thishash['claims']['P856']
     if type(base_url) is list:
         base_url = base_url[0]
@@ -106,15 +106,15 @@ for thisfilename in legit_list:
     if type(base_url2) is list:
         base_url2 = base_url2[0]
     if base_url != base_url2:
-      print('Something went wrong')
-      print(base_url)
-      print(base_url2)
+      #print('Something went wrong')
+      #print(base_url)
+      #print(base_url2)
       break
-    print(base_url)
-    print(base_url2)
+    #print(base_url)
+    #print(base_url2)
     full_url = base_url + '/wp-json/wp/v2/posts?search='
-    print(full_url)
-    print(offurl)
+    #print(full_url)
+    #print(offurl)
     print(country)
     print(place)
     this_hash = {}

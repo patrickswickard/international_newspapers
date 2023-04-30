@@ -24,8 +24,11 @@ SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en" 
 }
 """
 query_result = mkwikidata.run_query(query, params={ })
+
+print(json.dumps(query_result))
+
 #print(query_result)
-outfile = open("full_list_of_newspapers.json",'w')
-outfile.write(json.dumps(query_result))
-outfile.close
+#outfile = open("full_list_of_newspapers.json",'w')
+#outfile.write(json.dumps(query_result))
+#outfile.close
 
