@@ -1,18 +1,16 @@
-import os
+"""This does a search against wordpress backends"""
 import json
-import re
 import requests
-import csv
 
-qidfile = open("qidhash.json",'r')
-qidhash = json.loads(qidfile.read())
+with open('qidhash.json','r',encoding='utf-8') as myinfile:
+  qidhash = json.loads(myinfile.read())
 
 thisqidlist = []
 for qid in list(qidhash.keys()):
-    language = qidhash.get(qid).get('language')
-    print(language)
-    if language == 'French (Q150)':
-      thisqidlist.append(qid)
+  language = qidhash.get(qid).get('language')
+  print(language)
+  if language == 'French (Q150)':
+    thisqidlist.append(qid)
 
 #thisqidlist = ['Q16979942']
 
@@ -43,6 +41,5 @@ for thisqid in thisqidlist:
 #    print(content)
     article_list.append(this_article)
 
-outfile = open("french_source_eau_search.json",'w')
-outfile.write(json.dumps(article_list))
-outfile.close
+with open('french_source_eau_search.json','w',encoding='utf-8') as myoutfile:
+  myoutfile.write(json.dumps(article_list))
