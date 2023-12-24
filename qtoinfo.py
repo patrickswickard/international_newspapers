@@ -1,8 +1,9 @@
+"""Get information from saved wikidata query result etc"""
 import json
 import re
 
-wikidata_query_result_file = open("wikidata_query_result.json",'r')
-query_result = json.loads(wikidata_query_result_file.read())
+with open('wikidata_query_result.json','r',encoding='utf-8') as myinfile:
+  query_result = json.loads(myinfile.read())
 
 language_hash = {}
 offurl_hash = {}
@@ -34,61 +35,43 @@ for thisitem in biglist:
   place_hash[id2] = thisplace
   #print(thisplace)
 
-legit_file = open("outfile_wplegit.txt",'r')
-
-legit_list = json.loads(legit_file.read())
-
-legit_file.close()
+with open('outfile_wplegit.txt','r',encoding='utf-8') as myinfile:
+  legit_list = json.loads(myinfile.read())
 
 wordpress_legitimate_list = []
 
 count = 0
 langhash = {}
-print
-
-
-def fetch_language(id):
-  return language_hash[id]
-
-def fetch_offurl(id):
-  return offurl_hash.get(id,'None')
-
-def fetch_country(id):
-  return country_hash.get(id,'None')
-
-def fetch_place(id):
-  return place_hash.get(id,'None')
-
-
 
 qidhash = {}
 for thisfilename in legit_list:
-  thisfile = open('wikidata/' + thisfilename)
-  thishash = json.loads(thisfile.read())
-  thisfile.close()
+#  thisfile = open('wikidata/' + thisfilename)
+#  thishash = json.loads(thisfile.read())
+#  thisfile.close()
+  with open('wikidata/' + thisfilename,'r',encoding='utf-8') as myinfile:
+    thishash = json.loads(myinfile.read())
   #print(thisfilename)
-  id = thishash['wikibase']
+  myid = thishash['wikibase']
   language = thishash['wikidata'].get('language of work or name (P407)','None')
   #print(language)
   #language = thishash['wikidata']['language of work or name (P407)']
-  if type(language) is list:
+#  if type(language) is list:
+  if isinstance(language,list):
     language = language[0]
   if not language == 'None':
-    #print(language)
     if language in list(langhash.keys()):
       langhash[language] += 1
     else:
       langhash[language] = 1
   else:
-    language = fetch_language(id)
-    #print(language)
+    language = language_hash[myid]
     if language in list(langhash.keys()):
       langhash[language] += 1
     else:
       langhash[language] = 1
-  offurl = fetch_offurl(id)
-  country = fetch_country(id)
-  place = fetch_place(id)
+  offurl = offurl_hash.get(myid,'None')
+  country = country_hash.get(myid,'None')
+  place = place_hash.get(myid,'None')
   count += 1
   #print(count)
   #print('https://www.wikidata.org/wiki/' + id)
@@ -97,10 +80,12 @@ for thisfilename in legit_list:
   description = thishash['description']
   #print(description)
   base_url = thishash['claims']['P856']
-  if type(base_url) is list:
+#  if type(base_url) is list:
+  if isinstance(base_url,list):
     base_url = base_url[0]
   base_url2 = thishash['wikidata']['official website (P856)']
-  if type(base_url2) is list:
+#  if type(base_url2) is list:
+  if isinstance(base_url2,list):
     base_url2 = base_url2[0]
   if base_url != base_url2:
     #print('Something went wrong')
@@ -115,13 +100,13 @@ for thisfilename in legit_list:
   print(country)
   print(place)
   this_hash = {}
-  this_hash['id'] = id
+  this_hash['id'] = myid
   this_hash['title'] = title
   this_hash['base_url'] = base_url
   this_hash['country'] = country
   this_hash['place'] = place
   this_hash['language'] = language
-  qidhash[id] = this_hash
+  qidhash[myid] = this_hash
   wordpress_legitimate_list.append(thisfilename)
   #inp = input('press any key to continue')
   print('************')
@@ -134,7 +119,6 @@ for thisfilename in legit_list:
 #    print(str(i) + ' | ' + str(langhash[i]))
 #    langcount += langhash[i]
 #print(langcount)
-outfile = open("qidhash.json",'w')
-outfile.write(json.dumps(qidhash))
-outfile.close
+with open('qidhash.json','w',encoding='utf-8') as myoutfile:
+  myoutfile.write(json.dumps(qidhash))
 print(qidhash)
