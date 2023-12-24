@@ -1,23 +1,18 @@
+"""Script to find wikidata without language"""
 import os
 import json
-import re
-import requests
-import csv
 
-legit_file = open("outfile_wplegit.txt",'r')
-
-legit_list = json.loads(legit_file.read())
-
-legit_file.close()
+with open('outfile_wplegit.txt','r',encoding='utf-8') as myinfile:
+  legit_list = json.loads(myinfile.read())
 
 wordpress_legitimate_list = []
 
 count = 0
 langhash = {}
 for thisfilename in legit_list:
-    count += 1
-    print(count)
-    mystring = """# https://query.wikidata.org/
+  count += 1
+  print(count)
+  mystring = """# https://query.wikidata.org/
 #defaultView:Table
 SELECT ?item ?itemLabel ?country ?countryLabel ?place ?placeLabel ?language ?languageLabel ?pic ?offurl
 WHERE
@@ -30,20 +25,14 @@ WHERE
 ?item wdt:P856 ?offurl
 #FILTER(?item = wd:Q12719396)
 FILTER(?item in (wd:Q12719396, """
-    thisfile = open('wikidata/' + thisfilename)
-    thishash = json.loads(thisfile.read())
-    thisfile.close()
-    #print(thisfilename)
-    id = thishash['wikibase']
-    mystring = mystring + 'wd:' + id
-    mystring = mystring + """))
+  with open('wikidata/' + thisfilename,'r',encoding='utf-8') as myinfile:
+    thishash = json.loads(myinfile.read())
+  myid = thishash['wikibase']
+  mystring = mystring + 'wd:' + myid
+  mystring = mystring + """))
 SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en" }
 }"""
-    print(mystring)
-    outfile = open("oneitem2.sparql",'w')
-    outfile.write(mystring)
-    outfile.close
-    os.system('wikidata-dl -i -d wikidata3 oneitem2.sparql')
-#print(wordpress_legitimate_list)
-#for i in langhash.keys():
-#    print(str(i) + '|' + str(langhash[i]))
+  print(mystring)
+  with open('oneitem2.sparql','w',encoding='utf-8') as myoutfile:
+    myoutfile.write(mystring)
+  os.system('wikidata-dl -i -d wikidata3 oneitem2.sparql')
